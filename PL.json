@@ -3,406 +3,406 @@
     "courseNumber": "PL*001",
     "uniqueId": "",
     "title": "Ind Study:Resentiment",
-    "tags": [],
+    "tags": ["exclude"],
     "note": ""
   },
   {
     "courseNumber": "PL*201",
     "uniqueId": "",
     "title": "Foundations of Philosophy",
-    "tags": [],
+    "tags": ["1stLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*201D",
     "uniqueId": "",
     "title": "Foundations of Philosophy",
-    "tags": [],
+    "tags": ["1stLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*202",
     "uniqueId": "",
     "title": "Phil Perspect:Proj Modernity",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*204",
     "uniqueId": "",
     "title": "Phil Persp: Methods Reasoning",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*210",
     "uniqueId": "",
     "title": "Phil Perspect:Politics&Society",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*212",
     "uniqueId": "",
     "title": "Phil Perspect:Natural&Human",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*214",
     "uniqueId": "",
     "title": "Phil Perspect:Utopian Imaginat",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*216",
     "uniqueId": "",
     "title": "Phil Perspect: Asian Thought",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*216D",
     "uniqueId": "",
     "title": "Phil Perspect: Asian Thought",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*218",
     "uniqueId": "",
     "title": "Phil Persp:Philosoph of Love",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*220",
     "uniqueId": "",
     "title": "Phil Perspect:Art&Imagination",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*224",
     "uniqueId": "",
     "title": "Phil Perspect:Soul and Psyche",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*228",
     "uniqueId": "",
     "title": "Phil Pers:Philosophy&Genocide",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*228D",
     "uniqueId": "",
     "title": "Phil Pers:Philosophy&Genocide",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*230",
     "uniqueId": "",
     "title": "Phil Perspect:Humanity&Divin",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*232",
     "uniqueId": "",
     "title": "Phil Perspec:Gender&Nature",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*234",
     "uniqueId": "",
     "title": "Phil Persp: Philosophy of Cul",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*235",
     "uniqueId": "",
     "title": "Philosophical Persc:Phil&Sci",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*236",
     "uniqueId": "",
     "title": "Philoso Perspec: Enviro Phil",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*238",
     "uniqueId": "",
     "title": "Philosophical Pers:Forgv&Rev",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*240",
     "uniqueId": "",
     "title": "Psychology of War and Peace",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*268",
     "uniqueId": "",
     "title": "Phil&Theo Pers Faith&Humanism",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*299",
     "uniqueId": "",
     "title": "Modern Histories of Philosophy",
-    "tags": [],
+    "tags": ["2ndLevel"],
     "note": ""
   },
   {
     "courseNumber": "PL*302",
     "uniqueId": "",
     "title": "General Ethics",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*303",
     "uniqueId": "",
     "title": "Sp Tp Ethics: Ethics in Tech",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*305",
     "uniqueId": "",
     "title": "Eth&Pol Humanitarian Interven",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*305D",
     "uniqueId": "",
     "title": "Eth&Pol Humanitarian Interven",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*306",
     "uniqueId": "",
     "title": "Ethics of Race and Gender",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*310",
     "uniqueId": "",
     "title": "Business Ethics",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*310D",
     "uniqueId": "",
     "title": "Business Ethics",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*311",
     "uniqueId": "",
     "title": "Bio-Ethics",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*312",
     "uniqueId": "",
     "title": "Ethical Issues Eng & Comp Sci",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*313",
     "uniqueId": "",
     "title": "Business Ethics and the Church",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*314",
     "uniqueId": "",
     "title": "Environmental Ethics",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*315",
     "uniqueId": "",
     "title": "Ethics after Auschwitz",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*316",
     "uniqueId": "",
     "title": "Media Ethics",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*317",
     "uniqueId": "",
     "title": "The Experience of Evil",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*318",
     "uniqueId": "",
     "title": "Communication Ethics",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*319",
     "uniqueId": "",
     "title": "Ethics of Sport",
-    "tags": [],
+    "tags": ["Ethics"],
     "note": ""
   },
   {
     "courseNumber": "PL*320",
     "uniqueId": "",
     "title": "Logic",
-    "tags": [],
+    "tags": ["Seminar", "analytic"],
     "note": ""
   },
   {
     "courseNumber": "PL*321",
     "uniqueId": "",
     "title": "Cross-Cultural Philosophy",
-    "tags": [],
+    "tags": ["Seminar", "continental", "non-western"],
     "note": ""
   },
   {
     "courseNumber": "PL*321D",
     "uniqueId": "",
     "title": "Cross-Cultural Philosophy",
-    "tags": [],
+    "tags": ["Seminar", "continental", "non-western"],
     "note": ""
   },
   {
     "courseNumber": "PL*322",
     "uniqueId": "",
     "title": "Nature:Mundane and Sacred",
-    "tags": [],
+    "tags": ["Seminar"],
     "note": ""
   },
   {
     "courseNumber": "PL*323",
     "uniqueId": "",
     "title": "Survey of Metaphysics",
-    "tags": [],
+    "tags": ["Seminar", "analytic"],
     "note": ""
   },
   {
     "courseNumber": "PL*324D",
     "uniqueId": "",
     "title": "Philosophy of Service",
-    "tags": [],
+    "tags": ["Seminar"],
     "note": ""
   },
   {
     "courseNumber": "PL*325",
     "uniqueId": "",
     "title": "Philosophy of Asian Thought",
-    "tags": [],
+    "tags": ["Seminar", "non-western"],
     "note": ""
   },
   {
     "courseNumber": "PL*326",
     "uniqueId": "",
     "title": "Philosophy of Religion",
-    "tags": [],
+    "tags": ["Seminar", "analytic", "continental"],
     "note": ""
   },
   {
     "courseNumber": "PL*327",
     "uniqueId": "",
     "title": "Philosophy of War",
-    "tags": [],
+    "tags": ["Seminar", "social-political", "continental"],
     "note": ""
   },
   {
     "courseNumber": "PL*329",
     "uniqueId": "",
     "title": "Phil Foundtn of Cath Soc Thgt",
-    "tags": [],
+    "tags": ["Seminar","social-political"],
     "note": ""
   },
   {
     "courseNumber": "PL*330",
     "uniqueId": "",
     "title": "Social & Political Philosophy",
-    "tags": [],
+    "tags": ["Seminar","social-political"],
     "note": ""
   },
   {
     "courseNumber": "PL*331",
     "uniqueId": "",
     "title": "Natural Law & Natural Right",
-    "tags": [],
+    "tags": ["Seminar", "early-modern"],
     "note": ""
   },
   {
     "courseNumber": "PL*332",
     "uniqueId": "",
     "title": "Security Ethics",
-    "tags": [],
+    "tags": ["Seminar","social-political"],
     "note": ""
   },
   {
     "courseNumber": "PL*333",
     "uniqueId": "",
     "title": "Philosophy of Law",
-    "tags": [],
+    "tags": ["Seminar", "social-political"],
     "note": ""
   },
   {
     "courseNumber": "PL*334",
     "uniqueId": "",
     "title": "Contemporary Political Phil",
-    "tags": [],
+    "tags": ["Seminar","social-political"],
     "note": ""
   },
   {
     "courseNumber": "PL*335",
     "uniqueId": "",
-    "title": "Phil of Pope John Paul II",
-    "tags": [],
+    "title": "Political Philosophy: Justice and Mass Incarceration",
+    "tags": ["Seminar", "social-political"],
     "note": ""
   },
   {
     "courseNumber": "PL*336",
     "uniqueId": "",
-    "title": "Com Phlsphy: East-West Dialgs",
-    "tags": [],
+    "title": "Comparative Philosophy: East-West Dialogues",
+    "tags": ["Seminar", "continental", "eastern"],
     "note": ""
   },
   {
     "courseNumber": "PL*336D",
     "uniqueId": "",
-    "title": "Com Phlsphy: East-West Dialgs",
-    "tags": [],
+    "title": "Comparative Philosophy: East-West Dialogues",
+    "tags": ["Seminar", "continental", "eastern"],
     "note": ""
   },
   {
@@ -829,8 +829,16 @@
     "courseNumber": "PL*401",
     "uniqueId": "",
     "title": "Morals&Politics Lord of Rings",
-    "tags": [],
-    "note": ""
+    "tags": ["Seminar"],
+    "note": "",
+    "expirationAY": 18
+  },
+  {
+    "courseNumber": "PL*401",
+    "uniqueId": "",
+    "title": "Peace and Justice Studies Caps",
+    "tags": ["exclude"],
+    "note": "",
   },
   {
     "courseNumber": "PL*403",

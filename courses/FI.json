@@ -1,0 +1,923 @@
+[
+  {
+    "courseNumber": "FI*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Val Methods in Fin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FI*121",
+    "uniqueId": "",
+    "title": "Personal Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*122",
+    "uniqueId": "",
+    "title": "Survey of Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "FI*210",
+    "uniqueId": "",
+    "title": "Personal Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FI*230",
+    "uniqueId": "",
+    "title": "Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FI*315",
+    "uniqueId": "",
+    "title": "Intnl Travel Course: Comp Busi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FI*320",
+    "uniqueId": "",
+    "title": "Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*322",
+    "uniqueId": "",
+    "title": "Investments",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FI*326",
+    "uniqueId": "",
+    "title": "Insurance and Risk Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*330",
+    "uniqueId": "",
+    "title": "Junior Analyst Class",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "FI*340",
+    "uniqueId": "",
+    "title": "Global Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "FI*350",
+    "uniqueId": "",
+    "title": "Financial Modeling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FI*380",
+    "uniqueId": "",
+    "title": "Fixd Income Secur:Valtn&Markt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "FI*381",
+    "uniqueId": "",
+    "title": "Equity Secur:Valuation&Market",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "FI*422",
+    "uniqueId": "",
+    "title": "Ind: Investments Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "FI*422",
+    "uniqueId": "",
+    "title": "Investments Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*425",
+    "uniqueId": "",
+    "title": "Ind St:International Finance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*425",
+    "uniqueId": "",
+    "title": "International Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp Fin: Intro Fin Planning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp Fin:Intro to Const Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp Finance: Real Estate",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp Fin: Risk & Insurance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp: Real Estate Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Ind Sty:Sp Tp:Adv Fin An&Strt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Spec Top: Financial Modeling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Spec Top: Intl AC & FI Study",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Spec Top: Intl Ac & Fi Study",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp:International AC&FI Sty",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Top:Sell App Portfolio Mgt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Top:Sellinger App Prtfolio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp:Sellinger App Prt Fund",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp:Sellinger Appl Prtfolio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Sp Tp:Sellinger App Port Fund",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "FI*426",
+    "uniqueId": "",
+    "title": "Ind St:Socially Respnsble Inv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "FI*427",
+    "uniqueId": "",
+    "title": "Capital Mkts & Financial Inst",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*429",
+    "uniqueId": "",
+    "title": "Financial Research Projects",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*430",
+    "uniqueId": "",
+    "title": "Financial Serv Frms&Envirnmts",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "FI*430",
+    "uniqueId": "",
+    "title": "Financial Serv Frms &Envirnmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "FI*431",
+    "uniqueId": "",
+    "title": "Derivative Securities&Markets",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*432",
+    "uniqueId": "",
+    "title": "Adv Financial Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*433",
+    "uniqueId": "",
+    "title": "Portfolio Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*434",
+    "uniqueId": "",
+    "title": "Stu Mngd Slngr App Port Fund",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "FI*435",
+    "uniqueId": "",
+    "title": "Financial Policy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*440",
+    "uniqueId": "",
+    "title": "Financial Analysis& Valuation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "FI*440",
+    "uniqueId": "",
+    "title": "Prv Sty: Fin Analysis & Val",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "FI*440",
+    "uniqueId": "",
+    "title": "Prv Sty:FI Analysis&Valuation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "FI*441",
+    "uniqueId": "",
+    "title": "Advanced Corporate Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "FI*441",
+    "uniqueId": "",
+    "title": "Advanced Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "FI*499",
+    "uniqueId": "",
+    "title": "Finance Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "FI*499",
+    "uniqueId": "",
+    "title": "Internship: Finance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "FI*703",
+    "uniqueId": "",
+    "title": "Financial Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "FI*703",
+    "uniqueId": "",
+    "title": "Financial Applicat & Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "FI*720",
+    "uniqueId": "",
+    "title": "Advanced Corporate Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "FI*720",
+    "uniqueId": "",
+    "title": "Financial Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "FI*721",
+    "uniqueId": "",
+    "title": "Advanced Financial Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "FI*722",
+    "uniqueId": "",
+    "title": "Investment Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "FI*723",
+    "uniqueId": "",
+    "title": "Portfolio Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "FI*724",
+    "uniqueId": "",
+    "title": "Financial Mrkts&Institutions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "FI*724",
+    "uniqueId": "",
+    "title": "Financial Markets&Instruments",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "FI*725",
+    "uniqueId": "",
+    "title": "Financial Theory and Modeling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "FI*726",
+    "uniqueId": "",
+    "title": "International Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "FI*727",
+    "uniqueId": "",
+    "title": "Investment Banking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "FI*729",
+    "uniqueId": "",
+    "title": "Financial Modeling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "FI*769",
+    "uniqueId": "",
+    "title": "Glob Fi&Mgmt Iss Aff EU&Beynd",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "FI*822",
+    "uniqueId": "",
+    "title": "Fixed Income Securities",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "FI*823",
+    "uniqueId": "",
+    "title": "Derivatives & Risk Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Sp Top:Mergers&Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Spec Topics FI: Mutual Funds",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Special Topic in Finance: SAP",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Prv Sty: Mergers & Acquisition",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Prv Sty: Equity Valuation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Spc Top:Mergers & Acquisition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Sellinger App Port Fund",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Prv Sty:Top Mutual Fund Res",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Mergers & Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Sellinger Appl Prtflio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Prv Sty:Entreprer FI&Bus Plan",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Prv Sty:Skills for CFO&CEO",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Sp Tp FI:Entrepreneurial FI",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Entrepreneurial Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Mergers&Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "FI*825",
+    "uniqueId": "",
+    "title": "Sp Tp: Entrepreneurial Financ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "FI*827",
+    "uniqueId": "",
+    "title": "Valuation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "FI*828",
+    "uniqueId": "",
+    "title": "Sellinger Appld Portfolio Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "FI*828",
+    "uniqueId": "",
+    "title": "St-Mngd Slngr App Port Fund",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "FI*828",
+    "uniqueId": "",
+    "title": "St-Mngd Slngr App Port Fund I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "FI*829",
+    "uniqueId": "",
+    "title": "St-Mngd Slngr App Port FundII",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  }
+]

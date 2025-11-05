@@ -1,0 +1,468 @@
+[
+  {
+    "courseNumber": "KM*590",
+    "uniqueId": "",
+    "title": "Solfa Fundamentals",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "KM*852",
+    "uniqueId": "",
+    "title": "Kodaly Pedagogy, Level I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*852",
+    "uniqueId": "",
+    "title": "Kodaly Methodology, Lev I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*852",
+    "uniqueId": "",
+    "title": "Kodaly Methodology, Lev 1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "KM*853",
+    "uniqueId": "",
+    "title": "Kodaly Materials, Lev I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "KM*853",
+    "uniqueId": "",
+    "title": "Kodaly Materials, Level I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "KM*853",
+    "uniqueId": "",
+    "title": "Kodaly Materials, Lev 1",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "KM*855",
+    "uniqueId": "",
+    "title": "Secondary Choral Studies I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "KM*856",
+    "uniqueId": "",
+    "title": "Choral Studies, Level I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*856",
+    "uniqueId": "",
+    "title": "Chrl Std for Mus Educ, Lev I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*856",
+    "uniqueId": "",
+    "title": "Chrl Stud for Mus Educ, Lev I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "KM*856",
+    "uniqueId": "",
+    "title": "Chrl Stud for Mus Educ,Lev 1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "KM*860",
+    "uniqueId": "",
+    "title": "Musicianship, Level I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*860",
+    "uniqueId": "",
+    "title": "Solfa:Sgt Sng&Ear Train,Lev I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*860",
+    "uniqueId": "",
+    "title": "Solfa:Sgt Sng Ear Train,Lev I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "KM*860",
+    "uniqueId": "",
+    "title": "Solfa:Sgt Sng Ear Train,Lev 1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "KM*865",
+    "uniqueId": "",
+    "title": "Ind Sty: Kodaly Pathways",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "KM*952",
+    "uniqueId": "",
+    "title": "Kodaly Pedagogy, Level II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*952",
+    "uniqueId": "",
+    "title": "Kodaly Methodology, Lev II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*952",
+    "uniqueId": "",
+    "title": "Kodaly Methodology, Lev 1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "KM*953",
+    "uniqueId": "",
+    "title": "Kodaly Materials, Level II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "KM*954",
+    "uniqueId": "",
+    "title": "Kodaly Second Pedagogy, Lev II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*955",
+    "uniqueId": "",
+    "title": "Secondary Choral Studies II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "KM*956",
+    "uniqueId": "",
+    "title": "Choral Studies, Level II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*956",
+    "uniqueId": "",
+    "title": "Chrl Std Mus Educ, Lev II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*956",
+    "uniqueId": "",
+    "title": "Chrl Stud Mus Educ,Lev II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "KM*960",
+    "uniqueId": "",
+    "title": "Musicianship, Level II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*960",
+    "uniqueId": "",
+    "title": "Solfa:Sght Sng&Ear Trn,Lev II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*960",
+    "uniqueId": "",
+    "title": "Solfa:Sght Sng Ear Trn,Lev II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "KM*990",
+    "uniqueId": "",
+    "title": "Solfa Fundamentals",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "KM*991",
+    "uniqueId": "",
+    "title": "Alex Tech for Music Educator",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "KM*992",
+    "uniqueId": "",
+    "title": "Choral Studies, Level III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*992",
+    "uniqueId": "",
+    "title": "Chrl Std Mus Educ,Lev III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*993",
+    "uniqueId": "",
+    "title": "Kodaly Materials, Level III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*993",
+    "uniqueId": "",
+    "title": "Kodaly Materials, Lev III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*994",
+    "uniqueId": "",
+    "title": "Kodaly Pedagogy, Level III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*994",
+    "uniqueId": "",
+    "title": "Kodaly Methodology,Lev III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*995",
+    "uniqueId": "",
+    "title": "Musicianship, Level III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*995",
+    "uniqueId": "",
+    "title": "Solfa:Sgt Sng&Ear Trn,Lev III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "KM*996",
+    "uniqueId": "",
+    "title": "Kodaly Secnd Pedagogy, Lev III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "KM*997",
+    "uniqueId": "",
+    "title": "Secondary Choral Studies III",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  }
+]

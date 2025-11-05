@@ -1,0 +1,1217 @@
+[
+  {
+    "courseNumber": "TE*600",
+    "uniqueId": "",
+    "title": "Foundations of Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "TE*601",
+    "uniqueId": "",
+    "title": "Child and Adolescent Develop",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*602",
+    "uniqueId": "",
+    "title": "Educational Psychology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*603",
+    "uniqueId": "",
+    "title": "Learning Sciences",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "TE*603",
+    "uniqueId": "",
+    "title": "Technology Skills for Teachers",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "TE*604",
+    "uniqueId": "",
+    "title": "Methods Teach English (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "TE*604",
+    "uniqueId": "",
+    "title": "Meth Teach English (Sec Lev)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "TE*605",
+    "uniqueId": "",
+    "title": "Methods Teach Soc Study (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "TE*605",
+    "uniqueId": "",
+    "title": "Prv Sty:Teaching of Soc Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "TE*605",
+    "uniqueId": "",
+    "title": "Prv Sty: Mthds Tch Soc Sty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*605",
+    "uniqueId": "",
+    "title": "Meth Teach Soc Stdy (Sec Lev)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "TE*606",
+    "uniqueId": "",
+    "title": "Methods Teach Science (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "TE*606",
+    "uniqueId": "",
+    "title": "Meth Teach Science (Sec Lev)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "TE*607",
+    "uniqueId": "",
+    "title": "Methods of Teach Math (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "TE*607",
+    "uniqueId": "",
+    "title": "Meth of Teach Math (Sec Lev)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "TE*608",
+    "uniqueId": "",
+    "title": "Method of Teach Spanish (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "TE*609",
+    "uniqueId": "",
+    "title": "Teaching of World Languages",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "TE*609",
+    "uniqueId": "",
+    "title": "Prv Sty:Teach Wrld Languages",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "TE*609",
+    "uniqueId": "",
+    "title": "Teaching of Foreign Languages",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "TE*609",
+    "uniqueId": "",
+    "title": "Mthds Tch Mod Lang(Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "TE*609",
+    "uniqueId": "",
+    "title": "Mthds Tch Modr Frgn Lng (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "TE*610",
+    "uniqueId": "",
+    "title": "Methods of Teaching Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*610",
+    "uniqueId": "",
+    "title": "Meth Teaching Art (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*611",
+    "uniqueId": "",
+    "title": "Meth Tching Music (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "TE*611",
+    "uniqueId": "",
+    "title": "Prv Sty:Mthds Tching Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "TE*612",
+    "uniqueId": "",
+    "title": "Secondary Methods of Teaching",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*631",
+    "uniqueId": "",
+    "title": "Elementary Math Methods&Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "TE*631",
+    "uniqueId": "",
+    "title": "Priv Sty:Elem Math Mthds&Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "TE*631",
+    "uniqueId": "",
+    "title": "Elementary Math Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*632",
+    "uniqueId": "",
+    "title": "Elem STEM Methods & Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "TE*632",
+    "uniqueId": "",
+    "title": "Elem Stem Methods & Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "TE*632",
+    "uniqueId": "",
+    "title": "Elem Science Methods & Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*632",
+    "uniqueId": "",
+    "title": "Prv Sty:Elem Sci Methods&Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "TE*632",
+    "uniqueId": "",
+    "title": "Elementary Science Methods",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*633",
+    "uniqueId": "",
+    "title": "Elem Social Studies Meth&Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "TE*633",
+    "uniqueId": "",
+    "title": "Prv Sty:Elem Scl Stds Meth&Mg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*633",
+    "uniqueId": "",
+    "title": "Prv Sty:Elem Soc Stu Mth&Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*633",
+    "uniqueId": "",
+    "title": "Elementary Social Studies Meth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*641",
+    "uniqueId": "",
+    "title": "Intshp II Sem:Elem/Mid/Second",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "TE*641",
+    "uniqueId": "",
+    "title": "Prv Sty: Intern II Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "TE*641",
+    "uniqueId": "",
+    "title": "Intshp II: Elem/Middle/Second",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "TE*645",
+    "uniqueId": "",
+    "title": "Internship I: Art (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "TE*646",
+    "uniqueId": "",
+    "title": "Internship I:Music(Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "TE*647",
+    "uniqueId": "",
+    "title": "Intrnshp I:French (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "TE*647",
+    "uniqueId": "",
+    "title": "Internship I:French (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*648",
+    "uniqueId": "",
+    "title": "Intrnshp I:Spanish(Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "TE*648",
+    "uniqueId": "",
+    "title": "Internship I:Spanish (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*649",
+    "uniqueId": "",
+    "title": "Int I: English",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*649",
+    "uniqueId": "",
+    "title": "Intshp I: English (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*650",
+    "uniqueId": "",
+    "title": "Internship I: Social Studies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*650",
+    "uniqueId": "",
+    "title": "Intshp I:Soc Studies (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "TE*650",
+    "uniqueId": "",
+    "title": "Intshp I: Soc Studies Second",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "TE*651",
+    "uniqueId": "",
+    "title": "Intshp I: Science (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*652",
+    "uniqueId": "",
+    "title": "Internship I:Math (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*653",
+    "uniqueId": "",
+    "title": "Intrnshp II with Sem: Eng Sec",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*653",
+    "uniqueId": "",
+    "title": "Intsp II w/Sem:English (Scnd)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*653",
+    "uniqueId": "",
+    "title": "Prv Sty: Sec Intsp II w/Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "TE*653",
+    "uniqueId": "",
+    "title": "Intshp II:English (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*654",
+    "uniqueId": "",
+    "title": "Internship II Sem: Soc Sci",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*654",
+    "uniqueId": "",
+    "title": "Int II w/Sem:Soc Std (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*654",
+    "uniqueId": "",
+    "title": "Intshp II:Soc Std (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*654",
+    "uniqueId": "",
+    "title": "Intshp II: Soc Stdy Secondary",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "TE*655",
+    "uniqueId": "",
+    "title": "Internship II with Semr: Scie",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*655",
+    "uniqueId": "",
+    "title": "Intrn II w/Sem:Science (Scnd)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*655",
+    "uniqueId": "",
+    "title": "Intshp II:Science (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*656",
+    "uniqueId": "",
+    "title": "Internship II with Sem: Math",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*656",
+    "uniqueId": "",
+    "title": "Intern II w/Sem:Math(Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*656",
+    "uniqueId": "",
+    "title": "Internship II:Math(Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*657",
+    "uniqueId": "",
+    "title": "Internship II w/ Sem: Spanish",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*657",
+    "uniqueId": "",
+    "title": "Intrn II w/Sem:Spanish (Scnd)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "TE*657",
+    "uniqueId": "",
+    "title": "Intshp II:Spanish (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*658",
+    "uniqueId": "",
+    "title": "Int II w/Sem:French (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "TE*658",
+    "uniqueId": "",
+    "title": "Intnshp II:French (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*658",
+    "uniqueId": "",
+    "title": "Internship II:French (Sec)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*659",
+    "uniqueId": "",
+    "title": "Intern II w/Sem: Art",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*659",
+    "uniqueId": "",
+    "title": "Intern II w/Sem: Art (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*659",
+    "uniqueId": "",
+    "title": "Prv Sty:Int II w/Sem:Art(Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*659",
+    "uniqueId": "",
+    "title": "Internship II: Art (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*659",
+    "uniqueId": "",
+    "title": "Internship II:Art (Secondary)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*660",
+    "uniqueId": "",
+    "title": "Internship II with Sem: Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*660",
+    "uniqueId": "",
+    "title": "Intrn II w/Sem:Music (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*660",
+    "uniqueId": "",
+    "title": "Internship II: Music (Second)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*660",
+    "uniqueId": "",
+    "title": "Internship II: Music (Sec)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "TE*670",
+    "uniqueId": "",
+    "title": "Teacher Research and Inquiry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*679",
+    "uniqueId": "",
+    "title": "Internship I: Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*680",
+    "uniqueId": "",
+    "title": "Intnship II w/ Sem: Elementar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*680",
+    "uniqueId": "",
+    "title": "Internship II&Sem: Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*680",
+    "uniqueId": "",
+    "title": "Internship II: Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*681",
+    "uniqueId": "",
+    "title": "Prof Growth Exp I: Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*682",
+    "uniqueId": "",
+    "title": "Prof Growth Exper II: Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "TE*683",
+    "uniqueId": "",
+    "title": "Prof Grow Exp I w/ Sem:Elem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*683",
+    "uniqueId": "",
+    "title": "Prof Grow Exp I&Sem:Elemntry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*683",
+    "uniqueId": "",
+    "title": "Prof Growth Exp I: Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "TE*684",
+    "uniqueId": "",
+    "title": "Prof Gro Exp I w/ Sem:Sec/Spc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*684",
+    "uniqueId": "",
+    "title": "Prof Gro Exp I&Sem:Second/Mid",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*684",
+    "uniqueId": "",
+    "title": "Prof Gro Exp I&Sem:Secondary",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "TE*684",
+    "uniqueId": "",
+    "title": "Prof Gro Exp I: Secondary/Mid",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*685",
+    "uniqueId": "",
+    "title": "Prof Grow Exp II w/ Sem:Elem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*685",
+    "uniqueId": "",
+    "title": "Prof Grow Exp II&Sem:Elemntry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*685",
+    "uniqueId": "",
+    "title": "Prof Grow Exp II: Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "TE*686",
+    "uniqueId": "",
+    "title": "Prof Grw Exp II w Sem:Sec/Spc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "TE*686",
+    "uniqueId": "",
+    "title": "Prof Grw Exp II&Sem:Scnd/Midd",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "TE*686",
+    "uniqueId": "",
+    "title": "Prv Sty:Prof Grw II&Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "TE*686",
+    "uniqueId": "",
+    "title": "Ind Sty: Prof Grw Exp &sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "TE*686",
+    "uniqueId": "",
+    "title": "Prv Sty: Prof Grw Exp II&Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "TE*686",
+    "uniqueId": "",
+    "title": "Prof Grow Exp II: Second/Midd",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  }
+]

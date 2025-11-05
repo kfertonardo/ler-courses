@@ -1,0 +1,5220 @@
+[
+  {
+    "courseNumber": "HS*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Pox Upon Thee:Wtchcrf",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HS*001",
+    "uniqueId": "",
+    "title": "Independent Study in History",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*001",
+    "uniqueId": "",
+    "title": "Ind Study: Asian Studies Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*001",
+    "uniqueId": "",
+    "title": "Conceptions of China in Amerc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*100",
+    "uniqueId": "",
+    "title": "Encountering the Past",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*101",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld: Europe",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*101",
+    "uniqueId": "",
+    "title": "Europe & the World Since 1500",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*101",
+    "uniqueId": "",
+    "title": "Hist Mdrn Western Civilization",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*102",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld:United States I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*102D",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld:United States I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*103",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld:Untd States II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*105",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld: East Asia",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*105D",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld: East Asia",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*106D",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld: Africa",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*107",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld:Middle East",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*107D",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld:Middle East",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*108",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld: Latin America",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*108D",
+    "uniqueId": "",
+    "title": "Mkn Mdrn Wrld: Latin America",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*206",
+    "uniqueId": "",
+    "title": "U.S. History Since Reconstruct",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*212",
+    "uniqueId": "",
+    "title": "Amer Snce 1945:Cold War Years",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*216",
+    "uniqueId": "",
+    "title": "Queer Hist Europe&N America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*218",
+    "uniqueId": "",
+    "title": "The Civil Rights Era",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*219",
+    "uniqueId": "",
+    "title": "Africn Am Hist Snce Emancipatn",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*220",
+    "uniqueId": "",
+    "title": "Colonial Africa",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*221",
+    "uniqueId": "",
+    "title": "Africa in Age of Globalization",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*222",
+    "uniqueId": "",
+    "title": "Global Environmental History",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*223",
+    "uniqueId": "",
+    "title": "Women&Gender in Middle East",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*223D",
+    "uniqueId": "",
+    "title": "Women&Gender in Middle East",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*224",
+    "uniqueId": "",
+    "title": "Warfare in E Medit Troy-Iraq",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*225",
+    "uniqueId": "",
+    "title": "Reformation Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*226",
+    "uniqueId": "",
+    "title": "Intro Modern Middle East",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*227",
+    "uniqueId": "",
+    "title": "Introduction Modern Latin Am",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*228",
+    "uniqueId": "",
+    "title": "Peace and War in Ancient Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*232",
+    "uniqueId": "",
+    "title": "Law,Lawyers&Litigants Eur Hst",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*234",
+    "uniqueId": "",
+    "title": "French Revolution&Napoleon",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*236",
+    "uniqueId": "",
+    "title": "The Black Death Glbl Persp",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*241",
+    "uniqueId": "",
+    "title": "Revolutionary America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*242",
+    "uniqueId": "",
+    "title": "Hist Civ Rghts & Hmn Rghts Law",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*243",
+    "uniqueId": "",
+    "title": "The Civil War & Reconstruction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*246",
+    "uniqueId": "",
+    "title": "The History of Modern China",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*246D",
+    "uniqueId": "",
+    "title": "The History of Modern China",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*247",
+    "uniqueId": "",
+    "title": "History of Modern Japan",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*247D",
+    "uniqueId": "",
+    "title": "History of Modern Japan",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*249D",
+    "uniqueId": "",
+    "title": "The History of Mexico",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*251",
+    "uniqueId": "",
+    "title": "Global Histories of Disability",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*252D",
+    "uniqueId": "",
+    "title": "History South Asia 20th Cent",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*254",
+    "uniqueId": "",
+    "title": "History of Christmas",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*255D",
+    "uniqueId": "",
+    "title": "Indian Hist, Cult&Rel Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*257",
+    "uniqueId": "",
+    "title": "The Golden Age of Athens",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*258",
+    "uniqueId": "",
+    "title": "Disasters of Ancient Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*262",
+    "uniqueId": "",
+    "title": "History&Politics of Balkans",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*263",
+    "uniqueId": "",
+    "title": "East Asian Empires Since 1600",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*265",
+    "uniqueId": "",
+    "title": "The First World War",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*270",
+    "uniqueId": "",
+    "title": "Hist Science, Medicine, Hlth",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*274",
+    "uniqueId": "",
+    "title": "East Asia on Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*274D",
+    "uniqueId": "",
+    "title": "East Asia on Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*276",
+    "uniqueId": "",
+    "title": "Revolution and Reform 19th Eur",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*277",
+    "uniqueId": "",
+    "title": "Hist Povrt & Poor Antiq-Mod",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*280",
+    "uniqueId": "",
+    "title": "Jesuits in the World",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*281",
+    "uniqueId": "",
+    "title": "Search for the Divine",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*300",
+    "uniqueId": "",
+    "title": "Death of the Roman Republic",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*302",
+    "uniqueId": "",
+    "title": "Renaissance Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*303",
+    "uniqueId": "",
+    "title": "The Early Middle Ages",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*304",
+    "uniqueId": "",
+    "title": "Reformation Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*304",
+    "uniqueId": "",
+    "title": "Renaissance&Reformation Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*305",
+    "uniqueId": "",
+    "title": "The Later Middle Ages",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*306",
+    "uniqueId": "",
+    "title": "Nineteenth-Century Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HS*306",
+    "uniqueId": "",
+    "title": "Medieval Cities",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*307",
+    "uniqueId": "",
+    "title": "Peace and War in Ancient Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HS*308",
+    "uniqueId": "",
+    "title": "Medieval Bodies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*308",
+    "uniqueId": "",
+    "title": "White Man's Brdn:Origns Racism",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "HS*309",
+    "uniqueId": "",
+    "title": "Law,Lawyers&Litigants Eur Hst",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*309",
+    "uniqueId": "",
+    "title": "Law,Lawyers&Litig Europe Hist",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "HS*310",
+    "uniqueId": "",
+    "title": "Early Modern Britain,1450-1700",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*311",
+    "uniqueId": "",
+    "title": "Communism: A Global History",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*311",
+    "uniqueId": "",
+    "title": "Britain, Ireland, and America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*312",
+    "uniqueId": "",
+    "title": "History of Ancient Greece",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*313",
+    "uniqueId": "",
+    "title": "History of Christmas",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*314",
+    "uniqueId": "",
+    "title": "Disasters in American History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*314",
+    "uniqueId": "",
+    "title": "History of the Roman Empire",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*315",
+    "uniqueId": "",
+    "title": "The French Revolution&Napoleon",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*317",
+    "uniqueId": "",
+    "title": "Germans in Africa, Afcn in Ger",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*317",
+    "uniqueId": "",
+    "title": "The Making of Modern Italy",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*317D",
+    "uniqueId": "",
+    "title": "Germans in Africa, Afcn in Ger",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*318",
+    "uniqueId": "",
+    "title": "Creation Mod Germany:1770-1992",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HS*318",
+    "uniqueId": "",
+    "title": "Creation of Modern Germany",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "HS*319",
+    "uniqueId": "",
+    "title": "Nazi Germany & the Holocaust",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*320",
+    "uniqueId": "",
+    "title": "Black Death in Global Perspect",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Top ItalHist:Art&Arc Anc Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Top Ital His:Art&Arch Anc Rom",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Tp Ital: Art & Arch Anc Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Tp Ital Hst:Art&Arch Anc Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Topics in Italian History",
+    "tags": [
+      "2ndLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Top Ital His:art&arch Anc Rom",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Top Ital Hs:Art&Arch Anc Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Top Ital Hs: Age of Discovery",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Topics: Hist, Theo, Papacy",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*321",
+    "uniqueId": "",
+    "title": "Top Ital Hist:Rensance Popes",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "HS*322",
+    "uniqueId": "",
+    "title": "Gladiators & Roman Spectacles",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*323",
+    "uniqueId": "",
+    "title": "History of the Soviet Union",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*323",
+    "uniqueId": "",
+    "title": "The Birth of Nazi Germany",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*324",
+    "uniqueId": "",
+    "title": "Warfare East Med Troy to Iraq",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "HS*324",
+    "uniqueId": "",
+    "title": "Warfare in E Medit Troy-Iraq",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "HS*324",
+    "uniqueId": "",
+    "title": "The Long 18th Century",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*325",
+    "uniqueId": "",
+    "title": "Race and Childhood in America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*325",
+    "uniqueId": "",
+    "title": "Europe Since 1945 thrgh Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*325",
+    "uniqueId": "",
+    "title": "Europe Since 1945 Thrgh Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*326",
+    "uniqueId": "",
+    "title": "The Golden Age of Athens",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*327",
+    "uniqueId": "",
+    "title": "Disasters of Ancient Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*328",
+    "uniqueId": "",
+    "title": "Sex and the City",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*328",
+    "uniqueId": "",
+    "title": "Soldiers,Land&Pop Transferral",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "HS*328",
+    "uniqueId": "",
+    "title": "Col&Cul Identity Mod Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "HS*329",
+    "uniqueId": "",
+    "title": "Women in Greece and Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*330",
+    "uniqueId": "",
+    "title": "Gender,Race,&Class Mod Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*330",
+    "uniqueId": "",
+    "title": "Crime & Punishment Mod Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*331",
+    "uniqueId": "",
+    "title": "Id Conf:Eur Tht Since 18th Cen",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*331",
+    "uniqueId": "",
+    "title": "Ind Sdy: Ideas Con of Euro Tht",
+    "tags": [
+      "2ndLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*332",
+    "uniqueId": "",
+    "title": "The Enlightenment in Europe",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*333",
+    "uniqueId": "",
+    "title": "History & Politics of Balkans",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*333",
+    "uniqueId": "",
+    "title": "The Second World War",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*334",
+    "uniqueId": "",
+    "title": "Roman Private Life",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*335",
+    "uniqueId": "",
+    "title": "History of the Crusades",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*336",
+    "uniqueId": "",
+    "title": "Medieval Military History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*336",
+    "uniqueId": "",
+    "title": "History of Development",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*337",
+    "uniqueId": "",
+    "title": "The Multicultural Roman Empire",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*337D",
+    "uniqueId": "",
+    "title": "The Multicultural Roman Empire",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*338",
+    "uniqueId": "",
+    "title": "Mag,Sci&Rel:Cult Hist Sci Rev",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*339",
+    "uniqueId": "",
+    "title": "Fall of Empire:Rome&Byzantium",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "HS*340",
+    "uniqueId": "",
+    "title": "Amer through Reconstruction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "HS*340",
+    "uniqueId": "",
+    "title": "America through Reconstruct",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*340",
+    "uniqueId": "",
+    "title": "America Through Reconstruction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*340D",
+    "uniqueId": "",
+    "title": "Amer through Reconstruction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "HS*340D",
+    "uniqueId": "",
+    "title": "America through Reconstruct",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*341",
+    "uniqueId": "",
+    "title": "U.S. Since the Civil War",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*342",
+    "uniqueId": "",
+    "title": "Health&Illness Latin America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*342D",
+    "uniqueId": "",
+    "title": "Health&Illness Latin America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*343",
+    "uniqueId": "",
+    "title": "American Environmental History",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*344",
+    "uniqueId": "",
+    "title": "History of Afghanistan",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*344",
+    "uniqueId": "",
+    "title": "American Women's History",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*345",
+    "uniqueId": "",
+    "title": "The Peoples of Early America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*345D",
+    "uniqueId": "",
+    "title": "The Peoples of Early America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*346",
+    "uniqueId": "",
+    "title": "Revolutionary America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*347",
+    "uniqueId": "",
+    "title": "Hist Civil & Human Rghts Law",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HS*347",
+    "uniqueId": "",
+    "title": "Hst Civil Rghts&Hum Rghts Law",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*348",
+    "uniqueId": "",
+    "title": "The Civil War & Reconstruction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*349",
+    "uniqueId": "",
+    "title": "Baltimore: Hist&Architecture",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*350",
+    "uniqueId": "",
+    "title": "World War II in America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*351",
+    "uniqueId": "",
+    "title": "Am Urb Cult: Tale Four Cities",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*352",
+    "uniqueId": "",
+    "title": "America Snce 1945:Cold War Yr",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*352",
+    "uniqueId": "",
+    "title": "America Since 1945",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*353",
+    "uniqueId": "",
+    "title": "History of Violence in America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*353D",
+    "uniqueId": "",
+    "title": "History of Violence in America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*354D",
+    "uniqueId": "",
+    "title": "Mod Iran Between Mon,Dem,Theo",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*355",
+    "uniqueId": "",
+    "title": "Africa Amer Hst as Public Hst",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*356",
+    "uniqueId": "",
+    "title": "Amer Art: Art for Democracy",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*357",
+    "uniqueId": "",
+    "title": "Racial Just & Truth Tell Balti",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*357",
+    "uniqueId": "",
+    "title": "Nat&Declnztn Afro-Atltic Wrld",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*357D",
+    "uniqueId": "",
+    "title": "Nat&Declnztn Afro-Atltic Wrld",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HS*358",
+    "uniqueId": "",
+    "title": "African Amer Hst Civil War",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "HS*358",
+    "uniqueId": "",
+    "title": "African-Amer Hst Civil War",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*358D",
+    "uniqueId": "",
+    "title": "African Amer Hst Civil War",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "HS*358D",
+    "uniqueId": "",
+    "title": "African-Amer Hst Civil War",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*359",
+    "uniqueId": "",
+    "title": "African Amer Hst thr Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "HS*359D",
+    "uniqueId": "",
+    "title": "African Amer Hst thr Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HS*360",
+    "uniqueId": "",
+    "title": "African Am Hist Since Emncptn",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*360D",
+    "uniqueId": "",
+    "title": "African Am Hist Since Emncptn",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*361",
+    "uniqueId": "",
+    "title": "History of American Capitalism",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*361",
+    "uniqueId": "",
+    "title": "Mrcht&Farm,Plant&Slv 1600-1850",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*362",
+    "uniqueId": "",
+    "title": "Introduction to Public History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*362",
+    "uniqueId": "",
+    "title": "Industrial & Big Business Econ",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*363",
+    "uniqueId": "",
+    "title": "Cnt Dip:U.S. Fgn Plc Snc 1890",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HS*363",
+    "uniqueId": "",
+    "title": "Cnt Dip:US Frgn Plc Snc 1890",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*364",
+    "uniqueId": "",
+    "title": "War Memory",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*366",
+    "uniqueId": "",
+    "title": "The Civil Rights Era",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*366",
+    "uniqueId": "",
+    "title": "The Civil Rights Crusade",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "HS*366D",
+    "uniqueId": "",
+    "title": "The Civil Rights Crusade",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*367",
+    "uniqueId": "",
+    "title": "African American Women's Hist",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*367",
+    "uniqueId": "",
+    "title": "Blk Women in Atlantic World",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*367D",
+    "uniqueId": "",
+    "title": "Blk Women in Atlantic World",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "HS*368",
+    "uniqueId": "",
+    "title": "The Palestinian-Israeli Confli",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*368",
+    "uniqueId": "",
+    "title": "The Atlantic World",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*370",
+    "uniqueId": "",
+    "title": "Hist Science, Medicine, Hlth",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*371",
+    "uniqueId": "",
+    "title": "East Asia in the Modern World",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*372",
+    "uniqueId": "",
+    "title": "Vietnam War Film & Literature",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*372D",
+    "uniqueId": "",
+    "title": "Vietnam War Film & Literature",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*373",
+    "uniqueId": "",
+    "title": "Nat&Declnztn Afro-Atltic Wrld",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*373",
+    "uniqueId": "",
+    "title": "Africa: Past and Present",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*373D",
+    "uniqueId": "",
+    "title": "Africa: Past and Present",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*374",
+    "uniqueId": "",
+    "title": "East Asia on Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HS*374D",
+    "uniqueId": "",
+    "title": "East Asia on Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HS*375",
+    "uniqueId": "",
+    "title": "Indian Hist,Cul,&Rel Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*375D",
+    "uniqueId": "",
+    "title": "Indian Hist,Cul,&Rel Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*376",
+    "uniqueId": "",
+    "title": "East Asian Empires Since 1600",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*376",
+    "uniqueId": "",
+    "title": "Memories Nagasaki & Hiroshima",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "HS*376",
+    "uniqueId": "",
+    "title": "History of Islam",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*376D",
+    "uniqueId": "",
+    "title": "Memories Nagasaki & Hiroshima",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*377",
+    "uniqueId": "",
+    "title": "History of Modern China",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*377D",
+    "uniqueId": "",
+    "title": "History of Modern China",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*378",
+    "uniqueId": "",
+    "title": "History of Modern Japan",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*378D",
+    "uniqueId": "",
+    "title": "History of Modern Japan",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*379",
+    "uniqueId": "",
+    "title": "Ltn America & U.S. Since Ind",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "HS*379",
+    "uniqueId": "",
+    "title": "Ltn America & U.S. since Ind",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*380",
+    "uniqueId": "",
+    "title": "Hist S. Asia in 20th Century",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*380D",
+    "uniqueId": "",
+    "title": "Hist S. Asia in 20th Century",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*381",
+    "uniqueId": "",
+    "title": "Search for the Divine: India",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "HS*381",
+    "uniqueId": "",
+    "title": "Srch Div:Hin,Mus,Bud Way India",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*381D",
+    "uniqueId": "",
+    "title": "Search for the Divine: India",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "HS*381D",
+    "uniqueId": "",
+    "title": "Srch Div:Hin,Mus,Bud Way India",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*382",
+    "uniqueId": "",
+    "title": "Crime&Punishment Latin Amer",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*382",
+    "uniqueId": "",
+    "title": "Jesuits&Empire Begin to Supres",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*382D",
+    "uniqueId": "",
+    "title": "Crime&Punishment Latin Amer",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*383",
+    "uniqueId": "",
+    "title": "Viol&Holi 20th C El Salvador",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*383",
+    "uniqueId": "",
+    "title": "Cross&Sword:Chrst&Cln Ltn Amr",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*384",
+    "uniqueId": "",
+    "title": "World History",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*384",
+    "uniqueId": "",
+    "title": "Modern Latin America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*384D",
+    "uniqueId": "",
+    "title": "Modern Latin America",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*385",
+    "uniqueId": "",
+    "title": "The History of Mexico",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*385D",
+    "uniqueId": "",
+    "title": "The History of Mexico",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HS*386",
+    "uniqueId": "",
+    "title": "History of the Police",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*386",
+    "uniqueId": "",
+    "title": "Soldiers&Guerrillas Mod Ltn Am",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*386D",
+    "uniqueId": "",
+    "title": "Soldiers&Guerrillas Mod Ltn Am",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "HS*388",
+    "uniqueId": "",
+    "title": "Colonial Africa",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*388",
+    "uniqueId": "",
+    "title": "Conqst&Colzat Africa:1884-1965",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*388D",
+    "uniqueId": "",
+    "title": "Conqst&Colzat Africa:1884-1965",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*389",
+    "uniqueId": "",
+    "title": "Gender&Power in Modern Africa",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*389",
+    "uniqueId": "",
+    "title": "Women&Social Chng Mod Africa",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*389D",
+    "uniqueId": "",
+    "title": "Gender&Power in Modern Africa",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*389D",
+    "uniqueId": "",
+    "title": "Women&Social Chng Mod Africa",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*390",
+    "uniqueId": "",
+    "title": "Gender&Sexuality Latin Amer",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*390",
+    "uniqueId": "",
+    "title": "Cntst Conserv:Env&Soc Mod Afr",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "HS*390D",
+    "uniqueId": "",
+    "title": "Gender&Sexuality Latin Amer",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*391",
+    "uniqueId": "",
+    "title": "The Middle East in the Media",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*392",
+    "uniqueId": "",
+    "title": "Magic in Ancient Greece and Ro",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*392",
+    "uniqueId": "",
+    "title": "Intro Latin Amer&Latino Stds",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*392D",
+    "uniqueId": "",
+    "title": "Intro Latin Amer&Latino Stds",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "HS*393",
+    "uniqueId": "",
+    "title": "Intro to Islamic History",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "HS*393",
+    "uniqueId": "",
+    "title": "Making of the Modern Mid East",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*393D",
+    "uniqueId": "",
+    "title": "Making of the Modern Mid East",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "HS*394",
+    "uniqueId": "",
+    "title": "Race & Geopol Amer Cent",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*394",
+    "uniqueId": "",
+    "title": "Beaut Game:Hist Mod Latin Am",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "HS*394",
+    "uniqueId": "",
+    "title": "Col & Nation Mid East & N Afr",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*395",
+    "uniqueId": "",
+    "title": "Viol&Holiness 20C El Salvador",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*396D",
+    "uniqueId": "",
+    "title": "Mdrn Mid East thrgh Lit&Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*397",
+    "uniqueId": "",
+    "title": "Women&Gender in Middle East",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HS*397",
+    "uniqueId": "",
+    "title": "Women&Gender in Arab World",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "HS*397D",
+    "uniqueId": "",
+    "title": "Women&Gender in Middle East",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HS*398",
+    "uniqueId": "",
+    "title": "Global Histories of Disability",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HS*399",
+    "uniqueId": "",
+    "title": "Global Environmental History",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*400",
+    "uniqueId": "",
+    "title": "The Historian's Craft",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*400",
+    "uniqueId": "",
+    "title": "History Methods",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Anml Trade W. Indies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: US Const Conv & Div",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Labor in Mid Ages",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Navaho Code Talkers",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Prv Sty:British Syrian Missio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Blood,Soil,&the Front",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Mstr of Japan Horror",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Cultrl Trnsfrm France",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Origins Drug in China",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Yeats,\"Golden Dawn\"",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Native American Folk",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Navajo Code Tlkr WWII",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Enlightened King Fr",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Human Rights E. Asia",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Memory Sites U.K.",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Christian&Islam Milit",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:East Asia,Poltc,&Soct",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Re-exam Renssnc Man",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study:Civil Rights Memory",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Contex Fem Gen Cuttng",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind St:Arab Nationalism 1950s",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Chinese Revolution",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:History of Anesthesia",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Forensic Anthropology",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Intro Mod Chinese His",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Indpnt Study:Japanese Culture",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Candide,&Lisbou Eathq",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Image&IdeasTrans Real",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:China's One-Chld Pol",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Shocking Therapies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Japanese Culture",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Chinese Cultral Rvltn",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Tibetan/U.S. Relation",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Chinese Politics",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Impact Chinese Lang",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Partit&After Ind&Pak",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Chinese Philosophy",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: The Samurai",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: The Korean War",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: East Asia in Mod Wor",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Chinese Bus Culture",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Intensive Independent Study I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Prv Sty:Persian Lang & Cul I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Prv Sty:His Crusades Art&Arch",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Prv Sty: Midnight's Children",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Prv Stu: Asian Studies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Teach Eng in China Ed",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Med Magic & Mummies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Intensive Independent Study",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: The Reinventing Marx",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Asian Studies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Reinvention of Marx",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Diff Mirr: Int Org Ra",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Asia the Chin Sto Mar",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: N America 1870-1946",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Demo Rep of Congo",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Priv Sty: Catherine the Great",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Origin Devil & Pers",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Boxer Uprising",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Reinvention Marx",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: Nietzsche & Nihilis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Inten IndSty:Political Change",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Inten Ind Sty:Rel of SilkRoad",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Intens Ind Sty: Asian Studies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Zarathustra's Sister",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Women and Witches",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Inten Ind Sty: Women & Witches",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Study: German Culture",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Inten Ind Sty: Women Lib China",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Inten Ind Sty: Hist Chin Med",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Inten Ind Sty: Post 1978 China",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Intensive Ind Sty: Immigration",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Inten Ind Sty: Priv Entr China",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Intens Ind Sty:CivWar Soldier",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind:Bob Dylan in the 1960's",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Nietzsche & Exstntlsm",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Nietzsche & Morality",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:WWI Housing",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind:Hist Exstntlsm:Nietzs-Sat",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Medieval Tech:Longbow",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*402",
+    "uniqueId": "",
+    "title": "Intens Ind Stdy II:Renais Man",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*402",
+    "uniqueId": "",
+    "title": "Ind Sty:Poisoner's Handbook",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*402",
+    "uniqueId": "",
+    "title": "Prv Sty: A Pox Upon Thee",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "HS*402",
+    "uniqueId": "",
+    "title": "Ind Study:Soldiers & Guerilla",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*402",
+    "uniqueId": "",
+    "title": "Ind Sty: Skeptics & Sophists",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*402",
+    "uniqueId": "",
+    "title": "IndStudy II:His Arch Evrgrn",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty: History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Ind Sty:History Honors 1",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty:History Honors 1",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty:History Honors l",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty: History Honors 1",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Ind Sty:History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty:History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty: History Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Pry Sty: History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Priv Study: History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty:History Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Private Stdy:History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty: History Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Prv Sty: Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Priv Sty: History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Ind Study: History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Ind Sty: History Honors I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*403",
+    "uniqueId": "",
+    "title": "Ind St:History Honors",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Prv Sty: History Hnrs ll",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Prv Sty:History Hnrs II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Prv Sty:History Hnrs Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Ind Sty:History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Prv Sty: History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Prv Sty:History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Priv Study:History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Private Sty:History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Prv Sty:HS Honors Thesis II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Prv Sty:History Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Prv Sty:Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Ind Study: History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Priv Study: History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Priv Sty: History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "Indp Study: History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*404",
+    "uniqueId": "",
+    "title": "History Honors II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*405",
+    "uniqueId": "",
+    "title": "Intshp: History Internship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*405",
+    "uniqueId": "",
+    "title": "Intshp: History Interrnship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "HS*405",
+    "uniqueId": "",
+    "title": "History Internship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "HS*405",
+    "uniqueId": "",
+    "title": "Intshp: Hist Intshp w MDEHR",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "HS*405",
+    "uniqueId": "",
+    "title": "Int: Amer Historical Assoc",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "HS*405",
+    "uniqueId": "",
+    "title": "Intshp: LNDL Archival Intshp",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "HS*405",
+    "uniqueId": "",
+    "title": "Int:History Internship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "HS*406",
+    "uniqueId": "",
+    "title": "Sem:History Honors Thesis I",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "HS*407",
+    "uniqueId": "",
+    "title": "Sem:History Honors Thesis II",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "HS*408",
+    "uniqueId": "",
+    "title": "Prv Sty:Cpstn Proj Americ Stu",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*408",
+    "uniqueId": "",
+    "title": "Prv Sty:CapStn Proj Amcn Stud",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "HS*410",
+    "uniqueId": "",
+    "title": "Gender, Race, Class Modern Eur",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*410",
+    "uniqueId": "",
+    "title": "Special Topics: The Crusades",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*411",
+    "uniqueId": "",
+    "title": "Special Top: Second World War",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*412",
+    "uniqueId": "",
+    "title": "Gods&Mnstrs:Icon 19 Cent Eurp",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*413",
+    "uniqueId": "",
+    "title": "Medieval Military History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*414",
+    "uniqueId": "",
+    "title": "Women in Europe",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*415",
+    "uniqueId": "",
+    "title": "Sci&Psych:Vict Sci Bndrs Blf",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*416",
+    "uniqueId": "",
+    "title": "Sex and the City",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HS*416",
+    "uniqueId": "",
+    "title": "World War I",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*417D",
+    "uniqueId": "",
+    "title": "Germns in Afrc, Africn in Ger",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HS*418",
+    "uniqueId": "",
+    "title": "Mussolini & Fascist Italy",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*419",
+    "uniqueId": "",
+    "title": "Medieval Bodies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "HS*422",
+    "uniqueId": "",
+    "title": "Environ Hist of Latin America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*423",
+    "uniqueId": "",
+    "title": "Disasters in American History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*423",
+    "uniqueId": "",
+    "title": "Privsty: Disaster in Amer Hist",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*424",
+    "uniqueId": "",
+    "title": "Race, Viol & Empir in US His",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*424",
+    "uniqueId": "",
+    "title": "Race, Place,Memory Am History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HS*424",
+    "uniqueId": "",
+    "title": "Race, Place, Memory Am History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*424",
+    "uniqueId": "",
+    "title": "Race, Place Memory Am History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "HS*424D",
+    "uniqueId": "",
+    "title": "Race, Place,Memory Am History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*425",
+    "uniqueId": "",
+    "title": "Race and Childhood in America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*426",
+    "uniqueId": "",
+    "title": "Prop,Cul,&Amr Soc:1780-1830",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*426",
+    "uniqueId": "",
+    "title": "Prop,Cul,&Amr Soc:1760-1830",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "HS*426D",
+    "uniqueId": "",
+    "title": "Prop,Cul,&Amr Soc:1780-1830",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*427",
+    "uniqueId": "",
+    "title": "Gilded Age America,1865-1900",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*429",
+    "uniqueId": "",
+    "title": "Hist of American News Media",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "HS*430",
+    "uniqueId": "",
+    "title": "African American Women's Hist",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*431",
+    "uniqueId": "",
+    "title": "Introduction to Public History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "HS*432",
+    "uniqueId": "",
+    "title": "Loyola: Slavery&Its Repercuss",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*441",
+    "uniqueId": "",
+    "title": "Gender and Power in Modern Afr",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*441",
+    "uniqueId": "",
+    "title": "Sp Top: Gendr&Powr Mod Africa",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "HS*441D",
+    "uniqueId": "",
+    "title": "Sp Top: Gendr&Powr Mod Africa",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*442",
+    "uniqueId": "",
+    "title": "Hlth&Illness in Latin America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*442D",
+    "uniqueId": "",
+    "title": "Hlth&Illness in Latin America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*443",
+    "uniqueId": "",
+    "title": "Nat&Declnztn Afro-Atltic Wrld",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*443",
+    "uniqueId": "",
+    "title": "Apartheid Demise South Africa",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "HS*443D",
+    "uniqueId": "",
+    "title": "Apartheid Demise South Africa",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*444",
+    "uniqueId": "",
+    "title": "War&Rev:East Asia, 1937-1954",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*444D",
+    "uniqueId": "",
+    "title": "War&Rev:East Asia, 1937-1954",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HS*445D",
+    "uniqueId": "",
+    "title": "Mod Iran Between Mon,Dem,Theo",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*446",
+    "uniqueId": "",
+    "title": "Mod Latin Am Cities",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*447",
+    "uniqueId": "",
+    "title": "War Memory",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*448",
+    "uniqueId": "",
+    "title": "Women & Gender in Middle East",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "HS*448D",
+    "uniqueId": "",
+    "title": "Women & Gender in Middle East",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HS*449",
+    "uniqueId": "",
+    "title": "Mdrn Mid East thrgh Lit&Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*450",
+    "uniqueId": "",
+    "title": "Sp Top:History of Afghanistan",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*451",
+    "uniqueId": "",
+    "title": "Vietnam War Through Film & Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*452",
+    "uniqueId": "",
+    "title": "Racial Just & Truth Tell Balti",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*455",
+    "uniqueId": "",
+    "title": "Historic Preservation",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*460",
+    "uniqueId": "",
+    "title": "Seminar:American Progressivism",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*461",
+    "uniqueId": "",
+    "title": "Sem: The African Diaspora",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*461",
+    "uniqueId": "",
+    "title": "Sem: the African Diaspora",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*461",
+    "uniqueId": "",
+    "title": "Seminar: The African Diaspora",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*461D",
+    "uniqueId": "",
+    "title": "Sem: The African Diaspora",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*461D",
+    "uniqueId": "",
+    "title": "Sem: the African Diaspora",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*462",
+    "uniqueId": "",
+    "title": "Sem: The U.S. in the 1960s",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*462",
+    "uniqueId": "",
+    "title": "Sem:Evl Am Bus Lrs 1600-1990",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "HS*462",
+    "uniqueId": "",
+    "title": "Sem:evl Am Bus Lrs 1600-1990",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HS*462",
+    "uniqueId": "",
+    "title": "Semn:Evl Am Bus Lrs 1600-1990",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "HS*463",
+    "uniqueId": "",
+    "title": "Sem:Colonial British America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*463D",
+    "uniqueId": "",
+    "title": "Sem:Colonial British America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*464",
+    "uniqueId": "",
+    "title": "Sem:Soc&Pol Hist Alch&Drug Am",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*465",
+    "uniqueId": "",
+    "title": "Sem: Inside the Civil War",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "HS*466",
+    "uniqueId": "",
+    "title": "Sem:Rev Lives: Bio&New Nation",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HS*472",
+    "uniqueId": "",
+    "title": "Sem:Frntrs&Frntr Pp Mid Ages",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*473",
+    "uniqueId": "",
+    "title": "Sem:Endg Anrchy 17 Cent Eurp",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "HS*474",
+    "uniqueId": "",
+    "title": "Holocaust Memory Germany&Amer",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "HS*475",
+    "uniqueId": "",
+    "title": "Sem:Persecut Christ Roman Wrld",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*476",
+    "uniqueId": "",
+    "title": "Seminar: Italy in the Mid Ages",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*477",
+    "uniqueId": "",
+    "title": "Sem:Legends Medieval History",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*478",
+    "uniqueId": "",
+    "title": "Sem: Global Hist of Sexuality",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "HS*478",
+    "uniqueId": "",
+    "title": "Global Histories of Sexuality",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "HS*479",
+    "uniqueId": "",
+    "title": "Sem:Msclnty & Hnr Mdrn Europe",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*480",
+    "uniqueId": "",
+    "title": "Seminar:Cold War Sthrn Africa",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "HS*480D",
+    "uniqueId": "",
+    "title": "Seminar:Cold War Sthrn Africa",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "HS*481",
+    "uniqueId": "",
+    "title": "Sem:History of Disability",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HS*482",
+    "uniqueId": "",
+    "title": "Asian Studies Seminar",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HS*482",
+    "uniqueId": "",
+    "title": "Prv Sty: Asian Studies Seminar",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "HS*482",
+    "uniqueId": "",
+    "title": "Prv Sty:Uighurs&Han Chinese",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HS*483",
+    "uniqueId": "",
+    "title": "Sem:Soseki&Mishima:Mir Mod Jpn",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "HS*483D",
+    "uniqueId": "",
+    "title": "Sem:Soseki&Mishima:Mir Mod Jpn",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "HS*484",
+    "uniqueId": "",
+    "title": "Sem:The Chinese Revolution",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HS*484D",
+    "uniqueId": "",
+    "title": "Sem:The Chinese Revolution",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "HS*485",
+    "uniqueId": "",
+    "title": "Sem:Oral Hist&Philnthrpy Amer",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HS*485",
+    "uniqueId": "",
+    "title": "Oral Hist&Philnthrpy Americas",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "HS*487",
+    "uniqueId": "",
+    "title": "Sem:Compar Rev Latin America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "HS*488",
+    "uniqueId": "",
+    "title": "Sem:Pol Viol&Terr Mod World",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "HS*488D",
+    "uniqueId": "",
+    "title": "Sem:Pol Viol&Terr Mod World",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HS*489",
+    "uniqueId": "",
+    "title": "Sm: Amrca in Middle East",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "HS*489D",
+    "uniqueId": "",
+    "title": "Sm: Amrca in Middle East",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HS*490",
+    "uniqueId": "",
+    "title": "Environ Hist in Latin America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HS*490",
+    "uniqueId": "",
+    "title": "Prv Stu: Amer Capstone Stdy",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "HS*491",
+    "uniqueId": "",
+    "title": "Sem:Migrt,Dsplce&Ref:Mid East",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "HS*492",
+    "uniqueId": "",
+    "title": "Sem: Min ID&Citizshp Mod Wrld",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*492",
+    "uniqueId": "",
+    "title": "Min ID&Citizenshp in Mod Wrld",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "HS*493",
+    "uniqueId": "",
+    "title": "Sem:Slavery&Freedom in Balto",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HS*495",
+    "uniqueId": "",
+    "title": "Sem: East Asia Global 1960's",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "HS*496",
+    "uniqueId": "",
+    "title": "Intshp:Enviro Studies Exper",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*496",
+    "uniqueId": "",
+    "title": "Int:Envir Stu Intshp:Envir MD",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*497",
+    "uniqueId": "",
+    "title": "Wonderful, Weep Wrld Marg Kemp",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HS*497",
+    "uniqueId": "",
+    "title": "Ind Sty: Amer Studies Capston",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "HS*498",
+    "uniqueId": "",
+    "title": "Sem:Hist Intellectual Disabil",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "HS*499",
+    "uniqueId": "",
+    "title": "History Capstone",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  }
+]

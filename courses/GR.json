@@ -1,0 +1,383 @@
+[
+  {
+    "courseNumber": "GR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Adv German Comp&Conv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "GR*001",
+    "uniqueId": "",
+    "title": "Ind St:Herta Muller&ID Banat",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GR*001",
+    "uniqueId": "",
+    "title": "Ind Study: Conflict German Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GR*001",
+    "uniqueId": "",
+    "title": "Indp Study: German Grammar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: German for Oral Prof",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GR*101",
+    "uniqueId": "",
+    "title": "Introductory German I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GR*102",
+    "uniqueId": "",
+    "title": "Introductory German II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GR*103",
+    "uniqueId": "",
+    "title": "Intermediate German I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GR*104",
+    "uniqueId": "",
+    "title": "Intermediate German II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GR*161",
+    "uniqueId": "",
+    "title": "Comprehensive Begin German",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "GR*201",
+    "uniqueId": "",
+    "title": "German Comp & Conversation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GR*202",
+    "uniqueId": "",
+    "title": "Living Lang:Technq Translat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "GR*202",
+    "uniqueId": "",
+    "title": "Living Lang:Tech of Translat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GR*204",
+    "uniqueId": "",
+    "title": "German for Oral Proficiency",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GR*210",
+    "uniqueId": "",
+    "title": "Advanced German Composition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GR*210",
+    "uniqueId": "",
+    "title": "Prv Sty: Adv German Comp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GR*216",
+    "uniqueId": "",
+    "title": "Venturing into the Text",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "GR*216",
+    "uniqueId": "",
+    "title": "German Reading Strategies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GR*301",
+    "uniqueId": "",
+    "title": "Ger Culture & Civilization I",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "GR*302",
+    "uniqueId": "",
+    "title": "Prv Sty:Ger Culture&Civ II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "GR*302",
+    "uniqueId": "",
+    "title": "Ger Culture & Civilization II",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GR*303",
+    "uniqueId": "",
+    "title": "Germany Today",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GR*303",
+    "uniqueId": "",
+    "title": "Priv Sty: Germany Today",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "GR*305",
+    "uniqueId": "",
+    "title": "Dungeons,Dragons,Damsels Dist",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "GR*309",
+    "uniqueId": "",
+    "title": "The Classic German Cinema",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GR*309",
+    "uniqueId": "",
+    "title": "Prv Sty: Classic German Cinema",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GR*315",
+    "uniqueId": "",
+    "title": "German & Nobel Prize in Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "GR*340",
+    "uniqueId": "",
+    "title": "German Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GR*341",
+    "uniqueId": "",
+    "title": "Contemporary German Cinema",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "GR*342",
+    "uniqueId": "",
+    "title": "Vienna:Imperial Splend&Decadnc",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GR*344",
+    "uniqueId": "",
+    "title": "Berlin: the Crucible of Europe",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "GR*352",
+    "uniqueId": "",
+    "title": "Prv Sty:Giants of German Lit",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GR*352",
+    "uniqueId": "",
+    "title": "Giants German Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GR*354",
+    "uniqueId": "",
+    "title": "Confrnt Other Contemp Grm Lit",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GR*356",
+    "uniqueId": "",
+    "title": "Enchnt Listen:Art of Strytel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GR*358",
+    "uniqueId": "",
+    "title": "Sexual Politics German Drama",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  }
+]

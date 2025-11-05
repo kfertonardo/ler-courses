@@ -1,0 +1,219 @@
+[
+  {
+    "courseNumber": "BA*201",
+    "uniqueId": "",
+    "title": "Business Essentials",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "BA*205",
+    "uniqueId": "",
+    "title": "Creative Mindset",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BA*210",
+    "uniqueId": "",
+    "title": "Design Think&Innovative Solut",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "BA*401",
+    "uniqueId": "",
+    "title": "New Venture Creation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "BA*420",
+    "uniqueId": "",
+    "title": "Invest Black&Women Entrepren",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BA*490",
+    "uniqueId": "",
+    "title": "Applied Angel Investing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Sp Tp Bus Admin: Fornsc Acct",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Sp Tp: Applied Angel Investing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Sp Tp Bus Admin: Forensic Acct",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Sp Tp:Applied Angel Investing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Spec Top: Sarbanes Oxley Act",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Sp Top: Sarbanes Oxley Act",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Sp Tp: Sarbanes Oxley Act",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Sp Tp BA: Sarbanes-Oxley Act",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BA*495",
+    "uniqueId": "",
+    "title": "Sp Tp B.A.:Sarbanes Oxley Act",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BA*498",
+    "uniqueId": "",
+    "title": "Innovation & Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "BA*498",
+    "uniqueId": "",
+    "title": "Intshp: Innvtn & Entrprnrshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "BA*499",
+    "uniqueId": "",
+    "title": "Business Administration Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "BA*499",
+    "uniqueId": "",
+    "title": "Business Administraton Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BA*499",
+    "uniqueId": "",
+    "title": "Int: Business Administration",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  }
+]

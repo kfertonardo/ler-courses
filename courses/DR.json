@@ -1,0 +1,764 @@
+[
+  {
+    "courseNumber": "DR*001",
+    "uniqueId": "",
+    "title": "Ind Sdy: Theater Indpt Stdy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "DR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Golden Age Music Thtr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "DR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Advance Audition Tech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "DR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Adv Solo Performance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "DR*001",
+    "uniqueId": "",
+    "title": "Ind Study: Sweeney Todd",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "DR*100",
+    "uniqueId": "",
+    "title": "Stagecraft",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*210",
+    "uniqueId": "",
+    "title": "Amer Music Theat:Uptown & Down",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "DR*250",
+    "uniqueId": "",
+    "title": "Intro to Theatre History",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*251",
+    "uniqueId": "",
+    "title": "Experience of Theatre",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*251",
+    "uniqueId": "",
+    "title": "Experience of Theater",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "DR*252",
+    "uniqueId": "",
+    "title": "Intro to Theatrical Production",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "DR*254",
+    "uniqueId": "",
+    "title": "Introduction to Theatre Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "DR*254",
+    "uniqueId": "",
+    "title": "Introduction to Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "DR*260",
+    "uniqueId": "",
+    "title": "Introduction to Dance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*261",
+    "uniqueId": "",
+    "title": "Dance Movement and Technique",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*263",
+    "uniqueId": "",
+    "title": "Modern Dance Technique",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*263",
+    "uniqueId": "",
+    "title": "Modern Dance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "DR*264",
+    "uniqueId": "",
+    "title": "Movement as Medium",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "DR*265",
+    "uniqueId": "",
+    "title": "Modern Dance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "DR*270",
+    "uniqueId": "",
+    "title": "Scene Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "DR*271",
+    "uniqueId": "",
+    "title": "Costume Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*275",
+    "uniqueId": "",
+    "title": "Theatre Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*275",
+    "uniqueId": "",
+    "title": "Prv Sty:Thr Pract:Lysistrata",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "DR*275",
+    "uniqueId": "",
+    "title": "Priv Sty: Theatre Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "DR*275",
+    "uniqueId": "",
+    "title": "Private Sty: Theatre Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "DR*276",
+    "uniqueId": "",
+    "title": "Theatre Practicum Capstone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "DR*278",
+    "uniqueId": "",
+    "title": "History of Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "DR*279",
+    "uniqueId": "",
+    "title": "Silent Cinema",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "DR*281",
+    "uniqueId": "",
+    "title": "Films of Alfred Hitchcock",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "DR*300",
+    "uniqueId": "",
+    "title": "Shakespeare in Performance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*301",
+    "uniqueId": "",
+    "title": "Improvisation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*309",
+    "uniqueId": "",
+    "title": "Opera and Theatre",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "DR*350",
+    "uniqueId": "",
+    "title": "Acting I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*351",
+    "uniqueId": "",
+    "title": "Directing I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "DR*351",
+    "uniqueId": "",
+    "title": "Prv Sty:Directing I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "DR*351",
+    "uniqueId": "",
+    "title": "Priv Sty: Directing I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "DR*354",
+    "uniqueId": "",
+    "title": "Acting II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "DR*355",
+    "uniqueId": "",
+    "title": "Theatre Criticism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "DR*356",
+    "uniqueId": "",
+    "title": "Directing II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*357",
+    "uniqueId": "",
+    "title": "Dramatic Adapt&New Play Devel",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "DR*359",
+    "uniqueId": "",
+    "title": "Playwriting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "DR*360",
+    "uniqueId": "",
+    "title": "Voice and Speech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "DR*360",
+    "uniqueId": "",
+    "title": "Classic Hollywood Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "DR*361",
+    "uniqueId": "",
+    "title": "Voice and Movement",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Spc Tpc: London Theatre",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Spc Tp Drama: Urban Dramas",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Sp Tp:Queer Theatre & Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Sp Tp: Women Playwrights",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Sp Tp Drama Hist/Lit:Beckett",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Spec Top: Bec & Thea of Absd",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Sp Top:Shakespeare thrgh Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Sp Tp:Perf Clasical Grk Drama",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "DR*362",
+    "uniqueId": "",
+    "title": "Spc Tpc:Playwriting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "DR*363",
+    "uniqueId": "",
+    "title": "Prv Sty:Sp Tp: Prodctn Mmgmmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "DR*363",
+    "uniqueId": "",
+    "title": "Sp Tp:Putnam Cty Spelling Bee",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "DR*363",
+    "uniqueId": "",
+    "title": "Spec Top in Perf:Hedda Gabler",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "DR*363",
+    "uniqueId": "",
+    "title": "Sp Tp Performance: Mamma Mia",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "DR*363",
+    "uniqueId": "",
+    "title": "Sp Top: Docudrama",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "DR*363",
+    "uniqueId": "",
+    "title": "Sp Topics in Performance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "DR*363",
+    "uniqueId": "",
+    "title": "Sp Top: Aud & Bus of the Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "DR*363",
+    "uniqueId": "",
+    "title": "Sp Tp:Audition&Bus of Theatre",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "DR*364",
+    "uniqueId": "",
+    "title": "Solo Performance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "DR*366",
+    "uniqueId": "",
+    "title": "Sp Tp:Comp Rndring Thtre Dsg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "DR*370",
+    "uniqueId": "",
+    "title": "Queer Theatre and Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "DR*370D",
+    "uniqueId": "",
+    "title": "Queer Theatre and Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "DR*374",
+    "uniqueId": "",
+    "title": "Theatre Production Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "DR*374",
+    "uniqueId": "",
+    "title": "Intshp: Stdy Drama:The Prom",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "DR*374",
+    "uniqueId": "",
+    "title": "Theater Production Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "DR*374",
+    "uniqueId": "",
+    "title": "Internship:Theatre Production",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "DR*375",
+    "uniqueId": "",
+    "title": "Evergreen Players Production",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "DR*412",
+    "uniqueId": "",
+    "title": "Senior Project in Theatre",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  }
+]

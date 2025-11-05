@@ -1,0 +1,4973 @@
+[
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Music and Moving Img",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Ind Sty: History of Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Ind Stu:Gldn Age Music Thetr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Ear Training/ Chorale",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Prv Sty: Classical Guit Ensemb",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Ind Study: Class Guitar Ensemb",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Ind Sty Mus:Chorale/Ear Train",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Ind Study: Loyola Chorale II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MU*001",
+    "uniqueId": "",
+    "title": "Ind St:Voice Lecture Recital",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MU*007",
+    "uniqueId": "",
+    "title": "Internship in Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MU*101",
+    "uniqueId": "",
+    "title": "Ear Training I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*102",
+    "uniqueId": "",
+    "title": "Ear Training II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*102",
+    "uniqueId": "",
+    "title": "Priv Study: Ear Training II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*103",
+    "uniqueId": "",
+    "title": "Ear Training III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*104",
+    "uniqueId": "",
+    "title": "Ear Training IV",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*104",
+    "uniqueId": "",
+    "title": "Prv Sty: Ear Training IV",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MU*104",
+    "uniqueId": "",
+    "title": "Priv Study: Ear Training IV",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*110",
+    "uniqueId": "",
+    "title": "Class Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*118",
+    "uniqueId": "",
+    "title": "Voice Class I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MU*118",
+    "uniqueId": "",
+    "title": "Vocal Fundamentals I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MU*120",
+    "uniqueId": "",
+    "title": "Classical Guitar Class",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "MU*200",
+    "uniqueId": "",
+    "title": "Loyola Chorale I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*201",
+    "uniqueId": "",
+    "title": "Music Fundamentals",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*202",
+    "uniqueId": "",
+    "title": "Class Piano",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MU*203",
+    "uniqueId": "",
+    "title": "The Art of Listening",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "MU*203",
+    "uniqueId": "",
+    "title": "Mozart to Mahler:Class&Roman",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MU*204",
+    "uniqueId": "",
+    "title": "Western Musical Traditions",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "MU*205",
+    "uniqueId": "",
+    "title": "Musicianship I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "MU*205",
+    "uniqueId": "",
+    "title": "Ind Sty:Musicianship 1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*206",
+    "uniqueId": "",
+    "title": "Musicianship II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "MU*207",
+    "uniqueId": "",
+    "title": "Musicianship III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "MU*207",
+    "uniqueId": "",
+    "title": "Prv Sty: Musicianship III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "MU*208",
+    "uniqueId": "",
+    "title": "Musicianship IV",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "MU*208",
+    "uniqueId": "",
+    "title": "American Roots Music",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MU*209",
+    "uniqueId": "",
+    "title": "Priv Study: Piano & Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MU*209",
+    "uniqueId": "",
+    "title": "Ind:Spc Tpc Piano&Voice Trng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MU*210",
+    "uniqueId": "",
+    "title": "Amer Music Thear:Uptown&Down",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MU*211",
+    "uniqueId": "",
+    "title": "Jazz Ensemble I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*211",
+    "uniqueId": "",
+    "title": "Prv Sty:Jazz Ensemble I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "MU*216",
+    "uniqueId": "",
+    "title": "Orchestra I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MU*217",
+    "uniqueId": "",
+    "title": "Scenes for Singers",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "MU*217",
+    "uniqueId": "",
+    "title": "Scenes for Singers I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "App Music:Sight Read Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "App Music: Sight Read Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "App Mus: Sight-Read At Key",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "App Mus:Sightread at Key",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "App Mus: Sightread At Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "App Mus:Sightread at Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Applied Music:Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*218",
+    "uniqueId": "",
+    "title": "Priv:Applied Music Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "App Music:Sight Read Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "App Music: Sight Read Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Mus: Ear Training III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "App Mus:Sight-Read at Key",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "App Mus:Sightread at Key",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "App Mus: Sightread At Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "App Mus:Sightread at Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Applied Music:Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*219",
+    "uniqueId": "",
+    "title": "Aplied Music:Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MU*220",
+    "uniqueId": "",
+    "title": "Chamber Ensemble I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*221",
+    "uniqueId": "",
+    "title": "Concert Choir I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MU*221",
+    "uniqueId": "",
+    "title": "Ind Sty: Concert Choir Chrl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*221",
+    "uniqueId": "",
+    "title": "Prv Sty:Concert Choir I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*221",
+    "uniqueId": "",
+    "title": "Prv Sty:Concert Choir 1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MU*221",
+    "uniqueId": "",
+    "title": "Loyola Singers I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MU*230",
+    "uniqueId": "",
+    "title": "Guitar Ensemble I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MU*230",
+    "uniqueId": "",
+    "title": "Classical Guitar Ensemble I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "MU*230",
+    "uniqueId": "",
+    "title": "Priv Study: Class Guitar Ens I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MU*230",
+    "uniqueId": "",
+    "title": "Priv Study: Classical Guitar I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*231",
+    "uniqueId": "",
+    "title": "Steel Pan Ensemble I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Repertoires of Western Music",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Loyola Chorale II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Prv Sty:Loyola Chorale II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Prv Sty: Loyola Chorale",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Priv Study: Loyola Chorale II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Priv Study: Loyola Chorale",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Ind: Loyola Chorale II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Priv: Loyola Chorale II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MU*300",
+    "uniqueId": "",
+    "title": "Priv Stdy: Loyola Chorale II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MU*301",
+    "uniqueId": "",
+    "title": "Pasn&Grce:Mus 17th&18th Cen",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*301",
+    "uniqueId": "",
+    "title": "Pasn&Grce:Mus 17th&18th-Cen",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "MU*302",
+    "uniqueId": "",
+    "title": "Structure of Music: Theory I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*303",
+    "uniqueId": "",
+    "title": "American Jazz",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*304",
+    "uniqueId": "",
+    "title": "Music and Medicine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "MU*305",
+    "uniqueId": "",
+    "title": "Music in the 20th Century",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*305",
+    "uniqueId": "",
+    "title": "Ind: Music of the 20th Century",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MU*306",
+    "uniqueId": "",
+    "title": "Wrld Mus:Com Grnd Sprt Sound",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "MU*306D",
+    "uniqueId": "",
+    "title": "Wrld Mus:Com Grnd Sprt Sound",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MU*307",
+    "uniqueId": "",
+    "title": "Music of the Romantic Period",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "MU*308",
+    "uniqueId": "",
+    "title": "Hearing the Movies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "MU*309",
+    "uniqueId": "",
+    "title": "Opera and Theatre",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "MU*309",
+    "uniqueId": "",
+    "title": "Opera and Theater",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*310",
+    "uniqueId": "",
+    "title": "Structure of Music: Theory II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "MU*310",
+    "uniqueId": "",
+    "title": "Theory II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MU*310",
+    "uniqueId": "",
+    "title": "Private Study: Theory II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*311",
+    "uniqueId": "",
+    "title": "Jazz Ensemble II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*312",
+    "uniqueId": "",
+    "title": "Class Piano II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MU*312",
+    "uniqueId": "",
+    "title": "Jazz Improvisation I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "MU*313",
+    "uniqueId": "",
+    "title": "Music Performance Workshop",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "MU*314",
+    "uniqueId": "",
+    "title": "Madrigals",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*315",
+    "uniqueId": "",
+    "title": "Conducting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "MU*316",
+    "uniqueId": "",
+    "title": "Orchestra II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MU*317",
+    "uniqueId": "",
+    "title": "Scenes for Singers II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "App Music: Sight Read Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music (One Half Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Mus:Sight-Read at Key",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "AppliedMus:Sightread at Key",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "App Mus: Sightread At Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "Applied Music:Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*318",
+    "uniqueId": "",
+    "title": "App Mus:Sightread at Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "App Music: Sight Read Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "App Mus:Sight-Read at Key",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "App Mus:Sightread at Key",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "App Mus: Sightread At Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "App Mus:Sightread at Keyboard",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*319",
+    "uniqueId": "",
+    "title": "Applied Music:Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MU*320",
+    "uniqueId": "",
+    "title": "Chamber Ensemble II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*321",
+    "uniqueId": "",
+    "title": "Concert Choir II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MU*321",
+    "uniqueId": "",
+    "title": "Loyola Singers II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MU*321",
+    "uniqueId": "",
+    "title": "Prv Sty: Loyola Singers II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MU*323",
+    "uniqueId": "",
+    "title": "Jazz Combo",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MU*324",
+    "uniqueId": "",
+    "title": "Prv Sty:Composition",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "MU*324",
+    "uniqueId": "",
+    "title": "Private Study: Composition",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MU*324",
+    "uniqueId": "",
+    "title": "Private Study:Composition",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MU*325",
+    "uniqueId": "",
+    "title": "Prv Sty:Counterpoint",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "MU*325",
+    "uniqueId": "",
+    "title": "Prv Sty: Counterpoint",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MU*325",
+    "uniqueId": "",
+    "title": "Private Study: Counterpoint",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MU*326",
+    "uniqueId": "",
+    "title": "Songwriting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "MU*326",
+    "uniqueId": "",
+    "title": "Songwriting and Arranging",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "MU*327",
+    "uniqueId": "",
+    "title": "Cantorei",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MU*327",
+    "uniqueId": "",
+    "title": "Repertory Choir",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MU*330",
+    "uniqueId": "",
+    "title": "Classical Guitar Ensemble II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "MU*331",
+    "uniqueId": "",
+    "title": "Steel Pan Ensemble II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "MU*350",
+    "uniqueId": "",
+    "title": "Recording Studio I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "MU*350",
+    "uniqueId": "",
+    "title": "Electronic Music Studio I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MU*350",
+    "uniqueId": "",
+    "title": "Electronic Music Studio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*351",
+    "uniqueId": "",
+    "title": "Recording Studio II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MU*351",
+    "uniqueId": "",
+    "title": "Electronic Music Studio II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MU*351",
+    "uniqueId": "",
+    "title": "E-Mus Stud II:Dig Rec Trk Mast",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*355",
+    "uniqueId": "",
+    "title": "Ind Sty:sp Tp:adv Cndctng Tech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*355",
+    "uniqueId": "",
+    "title": "Tp Mus: Dylan, Motown, Beatles",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*355",
+    "uniqueId": "",
+    "title": "Ind Sty:Sp Tp:Arranging&Orch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*355",
+    "uniqueId": "",
+    "title": "Sp Tp: Mus Mix and Mastering",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "MU*355",
+    "uniqueId": "",
+    "title": "Prv Sty:Stu Chor Mus,Hist&Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "MU*355",
+    "uniqueId": "",
+    "title": "Spc Top:Synths, Sampl, Sequen",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Music (1/2 Hour) Percussi",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus: Percussio (1/2 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus: Piano/Key (1/2 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Mus: Voice (1/2 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus: Guitar (1/2 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus: Woodwinds (1/2 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus: Strings (1/2 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Mus: Brass (1/2 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music (1/2 Hour) Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music (1/2 Hour) Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus (1/2 Hour) Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Music (1/2 Hour) Woodwind",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music (1/2 Hour) Brass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Music (1/2 Hour) Strings",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Piano & Keyboar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus: Acous Elec Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Woodwinds",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Brass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Strings",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus: Acoust & Elec Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Mus: Piano & Keyboards",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "App Mus: Acst&Elect Guit&Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music:Piano&Keyboards",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Ap Mus:Acous&Elec Guitar&Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Appl Music: Piano & Keyboards",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*360",
+    "uniqueId": "",
+    "title": "Applied Music: French Horn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Music (3/4 Hour) Percussi",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus: Percussio (3/4 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus: Piano (3/4 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus: Voice (3/4 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus: Guitar (3/4 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus: Woodwinds (3/4 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus: Strings (3/4 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus: Brass (3/4 Hour)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music (3/4 Hour) Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music (3/4 Hour) Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Music (3/4 Hour) Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Music (3/4 Hour) Woodwind",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music (3/4 Hour) Brass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Music (3/4 Hour) Strings",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus 3/4: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus 3/4: Piano & Keyboar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus 3/4: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "App Mus 3/4: Acous Elec Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus 3/4: Woodwinds",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus 3/4: Brass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus 3/4: Strings",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Woodwinds",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Music: Piano & Keyboards",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Appl Mus: Acous & Elec Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Brass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Strings",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "App Mus: Acst&Elect Guit&Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Piano & Keyboar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Ap Mus:Acous&Elec Guitar&Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Lesson: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*361",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*370",
+    "uniqueId": "",
+    "title": "Applied Music(1/2 Hour):Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*375",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*380",
+    "uniqueId": "",
+    "title": "Applied Music: Clarionet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Harp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Saxophone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Voice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Guitar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Flute",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Violin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Viola",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Cello",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Clarinet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Piano",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Bassoon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Trumpet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Oboe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Bass",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Trombone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Organ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*385",
+    "uniqueId": "",
+    "title": "Applied Music: Percussion",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "MU*400",
+    "uniqueId": "",
+    "title": "Prv Sty:Mus Writing for Pub",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MU*412",
+    "uniqueId": "",
+    "title": "Ind Sty: Senior Project Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "MU*412",
+    "uniqueId": "",
+    "title": "Senior Project in Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MU*412",
+    "uniqueId": "",
+    "title": "Ind Sty:Senior Proj in Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  }
+]

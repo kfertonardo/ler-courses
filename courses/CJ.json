@@ -1,0 +1,124 @@
+[
+  {
+    "courseNumber": "CJ*360",
+    "uniqueId": "",
+    "title": "Broadcast News Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CJ*361",
+    "uniqueId": "",
+    "title": "Copy Editing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CJ*362",
+    "uniqueId": "",
+    "title": "Editorial and Opinion Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CJ*363",
+    "uniqueId": "",
+    "title": "The Magazine Article",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CJ*364",
+    "uniqueId": "",
+    "title": "Newspaper Feature Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CJ*365",
+    "uniqueId": "",
+    "title": "Priv Study: Book Publishing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CJ*365",
+    "uniqueId": "",
+    "title": "Book Publishing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CJ*366",
+    "uniqueId": "",
+    "title": "Reporting on Urban Affairs",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CJ*367",
+    "uniqueId": "",
+    "title": "Sports Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CJ*386",
+    "uniqueId": "",
+    "title": "Special Topics in Journalism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CJ*386",
+    "uniqueId": "",
+    "title": "Sp Tp: Creative Non Fiction",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CJ*400",
+    "uniqueId": "",
+    "title": "Magazine Publishing Sen Sem",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  }
+]

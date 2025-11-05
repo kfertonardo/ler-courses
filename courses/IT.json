@@ -1,0 +1,503 @@
+[
+  {
+    "courseNumber": "IT*100",
+    "uniqueId": "",
+    "title": "StudyStrat&Basic Skills Ital",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "IT*101",
+    "uniqueId": "",
+    "title": "Introductory Italian I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*102",
+    "uniqueId": "",
+    "title": "Introductory Italian II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*103",
+    "uniqueId": "",
+    "title": "Intermediate Italian I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*104",
+    "uniqueId": "",
+    "title": "Intermediate Italian II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*104D",
+    "uniqueId": "",
+    "title": "Intermediate Italian II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "IT*110",
+    "uniqueId": "",
+    "title": "Intro Italian Language in Rome",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "IT*111",
+    "uniqueId": "",
+    "title": "Italian Language&Cltre I(Rome",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*111",
+    "uniqueId": "",
+    "title": "Italian Language&cltre I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "IT*112",
+    "uniqueId": "",
+    "title": "Italian Language&Cult II(Rome",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*113",
+    "uniqueId": "",
+    "title": "Italian Lang &Cult III(Rome)",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*150",
+    "uniqueId": "",
+    "title": "Italian in Context I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "IT*151",
+    "uniqueId": "",
+    "title": "Italian in Context II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "IT*161",
+    "uniqueId": "",
+    "title": "Comprehensive Begin Italian",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "IT*162",
+    "uniqueId": "",
+    "title": "Comprehensive Intermed Italian",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "IT*201",
+    "uniqueId": "",
+    "title": "Italian Composition & Conver I",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "IT*201",
+    "uniqueId": "",
+    "title": "Italian Composition & Conver",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "IT*202",
+    "uniqueId": "",
+    "title": "The Living Language",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*202D",
+    "uniqueId": "",
+    "title": "The Living Language",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "IT*203",
+    "uniqueId": "",
+    "title": "Oral Proficiency in Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IT*205",
+    "uniqueId": "",
+    "title": "High Intrm Ital:Ital B2 Lev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IT*205",
+    "uniqueId": "",
+    "title": "Italian for Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "IT*210",
+    "uniqueId": "",
+    "title": "Italian Composition&Convst II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "IT*212",
+    "uniqueId": "",
+    "title": "Italian Language&Cult II:Rome",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "IT*212",
+    "uniqueId": "",
+    "title": "Italian Language&Cult II(Rome",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "IT*212",
+    "uniqueId": "",
+    "title": "Italian Language Culture I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "IT*213",
+    "uniqueId": "",
+    "title": "Italian Lang & Cult III:Rome",
+    "tags": [
+      "2ndLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "IT*213",
+    "uniqueId": "",
+    "title": "Italian Lang &Cult III:Rome",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "IT*213",
+    "uniqueId": "",
+    "title": "Italian Lang &Cult III(Rome)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "IT*213",
+    "uniqueId": "",
+    "title": "Italian Language & Culture II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "IT*214",
+    "uniqueId": "",
+    "title": "Oral Proficiency in Rome",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "IT*215",
+    "uniqueId": "",
+    "title": "Contemporary Italian Culture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "IT*216",
+    "uniqueId": "",
+    "title": "Exploring the Text",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "IT*301",
+    "uniqueId": "",
+    "title": "Ital Lit&CivI:Orig to Reform",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "IT*302",
+    "uniqueId": "",
+    "title": "Ital Lit&Civ II: Romanticism",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "IT*303",
+    "uniqueId": "",
+    "title": "Ital Lit&Civ III: Realism",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "IT*303",
+    "uniqueId": "",
+    "title": "Ital Lit&CivII:Rom,Real,Deriv",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "IT*304",
+    "uniqueId": "",
+    "title": "Ital Lit&CivIII:Contemp Italy",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "IT*310",
+    "uniqueId": "",
+    "title": "The Cinema of Italy",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "IT*312",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Gram,Read,Comp",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IT*312",
+    "uniqueId": "",
+    "title": "Adv Grammar,Read,Composition",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "IT*315",
+    "uniqueId": "",
+    "title": "Italian Society and Culture",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IT*321",
+    "uniqueId": "",
+    "title": "Italy Today",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "IT*322",
+    "uniqueId": "",
+    "title": "Italy in Song",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "IT*333",
+    "uniqueId": "",
+    "title": "Tps Italian: Boccaccio Novella",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "IT*333",
+    "uniqueId": "",
+    "title": "Lyr,Epic&Sci:Surv It Ren Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "IT*352",
+    "uniqueId": "",
+    "title": "Dante's Divine Comedy",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  }
+]

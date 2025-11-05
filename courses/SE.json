@@ -1,0 +1,997 @@
+[
+  {
+    "courseNumber": "SE*296",
+    "uniqueId": "",
+    "title": "Introduction to Special Educ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SE*481",
+    "uniqueId": "",
+    "title": "Diffrnt Curr&Instr Diverse Lrn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*482",
+    "uniqueId": "",
+    "title": "Assess&Evaluation for Spec Ed",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "SE*482",
+    "uniqueId": "",
+    "title": "Assess & Instr Plan Spec Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SE*483",
+    "uniqueId": "",
+    "title": "Colab&Consult Students Spc Nds",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*483",
+    "uniqueId": "",
+    "title": "Prv Sty:Cllbrtn & Cnsttn Stdn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SE*483",
+    "uniqueId": "",
+    "title": "Prv Sty:Colab & Cnslt Spcl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SE*483",
+    "uniqueId": "",
+    "title": "Prv Sty:Colab&Consult Stdnts",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SE*484",
+    "uniqueId": "",
+    "title": "Prin Behavior Mgmt for Spec Ed",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SE*484",
+    "uniqueId": "",
+    "title": "Ind Sty:Prncpl Bhvr Managemnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SE*484",
+    "uniqueId": "",
+    "title": "Field Service in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SE*485",
+    "uniqueId": "",
+    "title": "Curric&Instruct for Spec Educ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SE*495",
+    "uniqueId": "",
+    "title": "Improv Access Gen Curriculum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SE*495",
+    "uniqueId": "",
+    "title": "Prv Sty:Improv Access Gen Crr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SE*495",
+    "uniqueId": "",
+    "title": "Prv Sty: Imprv Access Gen Curr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SE*495",
+    "uniqueId": "",
+    "title": "Prv Sty: Impr Access Gen Curr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SE*496",
+    "uniqueId": "",
+    "title": "Introduction to Special Educ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*720",
+    "uniqueId": "",
+    "title": "Child & Adolescent Development",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SE*720",
+    "uniqueId": "",
+    "title": "Human Growth & Development",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SE*761",
+    "uniqueId": "",
+    "title": "Intro to Special Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*761",
+    "uniqueId": "",
+    "title": "Prv Sty:Intro Spcl Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SE*769",
+    "uniqueId": "",
+    "title": "Tch Stu w/Spec Need Reg Class",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "SE*769",
+    "uniqueId": "",
+    "title": "Tch Stu w/ Sp Nd Reg Class",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SE*769",
+    "uniqueId": "",
+    "title": "Tch Students Sp Needs(Gr K-8)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SE*780",
+    "uniqueId": "",
+    "title": "Pract Stu Sp Nd(Inft/Toddler)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SE*780",
+    "uniqueId": "",
+    "title": "Pract Stud Sp Nd(Inft/Toddler)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SE*781",
+    "uniqueId": "",
+    "title": "Pract Students Sp Nd (Pre-Sch)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*800",
+    "uniqueId": "",
+    "title": "Inclusive Music Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SE*800",
+    "uniqueId": "",
+    "title": "Prv Sty: Incl Music Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SE*800",
+    "uniqueId": "",
+    "title": "Tch Stu w/Spec Need Mus Class",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "SE*861",
+    "uniqueId": "",
+    "title": "Practicum Students Special Nds",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*900",
+    "uniqueId": "",
+    "title": "Observ & Participat Spec Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*901",
+    "uniqueId": "",
+    "title": "Principles Behav Mgmt Sp Ed",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SE*901",
+    "uniqueId": "",
+    "title": "Applied Behavioral Program",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SE*902",
+    "uniqueId": "",
+    "title": "Lit Instr Lrn Mild/Mod Disbl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SE*902",
+    "uniqueId": "",
+    "title": "Lit Instr Stu w/Hi-Prev Dis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SE*902",
+    "uniqueId": "",
+    "title": "Prv Sty:Lit Intr St H-Prv Dis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SE*902",
+    "uniqueId": "",
+    "title": "Read Methd Stu Mild&Mod Disab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SE*902",
+    "uniqueId": "",
+    "title": "Read Meth Stu Mild&Mod Disab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SE*905",
+    "uniqueId": "",
+    "title": "Dev&Charct Lrn W/ Disbl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SE*905",
+    "uniqueId": "",
+    "title": "Dev&Charct Stu W/ Disbl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SE*905",
+    "uniqueId": "",
+    "title": "Dev&Charct Stu w/Hi-Prev Dis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SE*905",
+    "uniqueId": "",
+    "title": "Chrct Lrnrs Mild&Modrt Disblts",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SE*906",
+    "uniqueId": "",
+    "title": "Develop,Remedial,&Corrct Read",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*907",
+    "uniqueId": "",
+    "title": "Math Mth,Strat,&Inst Spc Need",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SE*907",
+    "uniqueId": "",
+    "title": "Develop,Remedial,&Correct Math",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SE*908",
+    "uniqueId": "",
+    "title": "Com Lng Dev:Mth Rsrc Tch Sp Nd",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*909",
+    "uniqueId": "",
+    "title": "Inst Meth&Intg Tech Elem SwD",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SE*909",
+    "uniqueId": "",
+    "title": "Ins Elem Cont Stu w/ Mld&Mod",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SE*909",
+    "uniqueId": "",
+    "title": "Sci&Soc St:Cnt,Mth&Mdf Mld&Mod",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SE*911",
+    "uniqueId": "",
+    "title": "Asmt,Diag&Eval Lrnr Disbl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SE*911",
+    "uniqueId": "",
+    "title": "Asmt,Diag&Eval Spec Needs",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "SE*911",
+    "uniqueId": "",
+    "title": "Prv Sty:Asmt,Diag&Evl Spc Nds",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SE*911",
+    "uniqueId": "",
+    "title": "Asmt,Diag&Eval Lrn&Behav Prob",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SE*912",
+    "uniqueId": "",
+    "title": "Instr Pln,Adpt&Lrn Lrns Dsbls",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SE*912",
+    "uniqueId": "",
+    "title": "Instr Pln,Adpt&Lrn Strt Sp Nds",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SE*912",
+    "uniqueId": "",
+    "title": "Instr Pln Adpt&Lrn Std Sp Nds",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SE*913",
+    "uniqueId": "",
+    "title": "Comp Clsrm Mgmt Tch Stdn Sp Nd",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*914",
+    "uniqueId": "",
+    "title": "Com,Col&Cnslt Prnt&Prf Lr Dis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SE*914",
+    "uniqueId": "",
+    "title": "Com,Colb&Cnslt Prnt&Prf St Dis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SE*915",
+    "uniqueId": "",
+    "title": "Diagnosis&Intervnt Read Disord",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*916",
+    "uniqueId": "",
+    "title": "Prmt Trn Pstsec Std Spec Need",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SE*916",
+    "uniqueId": "",
+    "title": "Ind Sty:Prmt Trns Pstsc Sttng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SE*916",
+    "uniqueId": "",
+    "title": "Prmt Trns Pstsec Std Mld&Mod",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SE*916",
+    "uniqueId": "",
+    "title": "Prv St:Trn Pstsec Std Mld&Mod",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SE*916",
+    "uniqueId": "",
+    "title": "Prv Sty:Transition Adult Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SE*917",
+    "uniqueId": "",
+    "title": "Inst Meth&Intg Tech Sec SwD",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SE*917",
+    "uniqueId": "",
+    "title": "Inst Scd Cont Ars Mld&Mod Dis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SE*918",
+    "uniqueId": "",
+    "title": "Pract I:Tch Stdnts Spec Needs",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*919",
+    "uniqueId": "",
+    "title": "Pract II:Tch Stdnts Spec Needs",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*920",
+    "uniqueId": "",
+    "title": "Seminar in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SE*921",
+    "uniqueId": "",
+    "title": "Autism:Charac, Rsrch&Interven",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SE*921",
+    "uniqueId": "",
+    "title": "Ind Sty:Autsm:Chrc,Res&Intrvn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SE*922",
+    "uniqueId": "",
+    "title": "Internship I: Special Educatio",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SE*922",
+    "uniqueId": "",
+    "title": "Med Aspects of Devel Disablty",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SE*923",
+    "uniqueId": "",
+    "title": "Internship II: Special Educat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SE*923",
+    "uniqueId": "",
+    "title": "Asmt&Intvn Yng Chld:Brth-Age2",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SE*923",
+    "uniqueId": "",
+    "title": "Prv Sty:Asmt&Intvn Chd:Brth-2",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SE*924",
+    "uniqueId": "",
+    "title": "Assmt&Intvnt Yng Chldn:Ag 3-5",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SE*925",
+    "uniqueId": "",
+    "title": "Asmt&Intvn Chld Sp Nd:Ag 5-8",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SE*925",
+    "uniqueId": "",
+    "title": "Asmt&Intvn Yng Chld Sp Nd",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SE*925",
+    "uniqueId": "",
+    "title": "Asm&IntvnYngChldSpNd:Foc 5-8",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SE*925",
+    "uniqueId": "",
+    "title": "Asmt&Intvn Yng Chld Sp Nd:5-8",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SE*926",
+    "uniqueId": "",
+    "title": "Comm Dev&Ely Lit:Birth-Age 5",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SE*926",
+    "uniqueId": "",
+    "title": "Comm Dev&Early Lit:Mtrl,Rsrch",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SE*926",
+    "uniqueId": "",
+    "title": "Comm Dev & Early Lit: Mtrl Res",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SE*930",
+    "uniqueId": "",
+    "title": "Induction Intshp Special Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SE*931",
+    "uniqueId": "",
+    "title": "Culmination Intern Special Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SE*932",
+    "uniqueId": "",
+    "title": "Spec Educ Law & Compliance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SE*933",
+    "uniqueId": "",
+    "title": "Promoting Soc-Emotional Comptc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  }
+]

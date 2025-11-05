@@ -1,0 +1,941 @@
+[
+  {
+    "courseNumber": "FO*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Blgl Basis Frnsc Scn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*001",
+    "uniqueId": "",
+    "title": "Prv Sdy: Ltnt Fngrprnt Dtctn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*100",
+    "uniqueId": "",
+    "title": "How Get Away w/Murder(Or Not)",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*101",
+    "uniqueId": "",
+    "title": "Intro to Forensic Sci w/Lab",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*101D",
+    "uniqueId": "",
+    "title": "Intro to Forensic Sci w/Lab",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*102",
+    "uniqueId": "",
+    "title": "Scientific Basis of Forensic I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*230",
+    "uniqueId": "",
+    "title": "Introduction to Criminalistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "FO*284",
+    "uniqueId": "",
+    "title": "Forensic Chemistry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*300",
+    "uniqueId": "",
+    "title": "Crime Scene Investigation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "FO*310",
+    "uniqueId": "",
+    "title": "Introduction to Fingerprints",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "FO*319",
+    "uniqueId": "",
+    "title": "21st Cent Policing Forensc Evd",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*320",
+    "uniqueId": "",
+    "title": "Frnsc Serology Animal Hum Flui",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*322",
+    "uniqueId": "",
+    "title": "Forensic Ecological Evidence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*325",
+    "uniqueId": "",
+    "title": "DNA Analysis in Forensic Inve",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*330",
+    "uniqueId": "",
+    "title": "Biol&Forensic Sci Qual Assrnc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "FO*347",
+    "uniqueId": "",
+    "title": "Trace Evidence & Question Docs",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*350",
+    "uniqueId": "",
+    "title": "Foundations of Comparative Sci",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*351",
+    "uniqueId": "",
+    "title": "Forensic Entomology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*356",
+    "uniqueId": "",
+    "title": "Prv Sty: Blgcl Forensics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*356",
+    "uniqueId": "",
+    "title": "Biological Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FO*357",
+    "uniqueId": "",
+    "title": "Biological Forensic Laboratory",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*376",
+    "uniqueId": "",
+    "title": "Digital and Forensic Imaging",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*377",
+    "uniqueId": "",
+    "title": "Death Investigation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "FO*385",
+    "uniqueId": "",
+    "title": "Intro Firearms & Tool Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*390",
+    "uniqueId": "",
+    "title": "Tp Fr Sci: Unsolv Serial Homic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*390",
+    "uniqueId": "",
+    "title": "Tp Foren Sci:Humn Trafficking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FO*390",
+    "uniqueId": "",
+    "title": "Tp Forensic Sci: Contemp Issue",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FO*390",
+    "uniqueId": "",
+    "title": "Tp Fr Sci: Invst Unsol Ser Hom",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FO*390",
+    "uniqueId": "",
+    "title": "Tp Forens Sci: Contempo Issues",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "FO*390",
+    "uniqueId": "",
+    "title": "Topics in Forensic Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "FO*395",
+    "uniqueId": "",
+    "title": "Crime Scene and Evidence Photo",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*406",
+    "uniqueId": "",
+    "title": "Investigations Violent Crimes",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*410",
+    "uniqueId": "",
+    "title": "Adv Top&Tech in Fingerprints",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FO*411",
+    "uniqueId": "",
+    "title": "Animal Law",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*415",
+    "uniqueId": "",
+    "title": "Forensic Anthropology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*440",
+    "uniqueId": "",
+    "title": "Bloodstain Pttrn Anlys & Crime",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*450",
+    "uniqueId": "",
+    "title": "Forensic Cognitive Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FO*452",
+    "uniqueId": "",
+    "title": "For Sci Errors&Wrongful Convc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FO*481",
+    "uniqueId": "",
+    "title": "Cold Case Investigations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*482",
+    "uniqueId": "",
+    "title": "Advanced Cold Case Investigati",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*494",
+    "uniqueId": "",
+    "title": "Forensic Science Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*495",
+    "uniqueId": "",
+    "title": "Forensic Science Research II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*497",
+    "uniqueId": "",
+    "title": "Forensic Science Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*497",
+    "uniqueId": "",
+    "title": "Forensic Studies Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "FO*498",
+    "uniqueId": "",
+    "title": "Forensic Science Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*498",
+    "uniqueId": "",
+    "title": "Forensic Studies Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "FO*499",
+    "uniqueId": "",
+    "title": "Forensic Science Indepnt Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*499",
+    "uniqueId": "",
+    "title": "Forensic Studies Indepnt Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "FO*500",
+    "uniqueId": "",
+    "title": "Forensic Studies Seminar",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FO*530",
+    "uniqueId": "",
+    "title": "Criminalistics",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*530",
+    "uniqueId": "",
+    "title": "Introduction to Criminalistics",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "FO*584",
+    "uniqueId": "",
+    "title": "Forensic Chemistry",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*600",
+    "uniqueId": "",
+    "title": "Crime Scene Investigation",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "FO*610",
+    "uniqueId": "",
+    "title": "Fingerprints",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*610",
+    "uniqueId": "",
+    "title": "Introduction to Fingerprints",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "FO*630",
+    "uniqueId": "",
+    "title": "Qual Cont&Assur Forensic Lab",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*630",
+    "uniqueId": "",
+    "title": "Bio&Fornsc Sci Lab Qual Assur",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "FO*645",
+    "uniqueId": "",
+    "title": "Veterinary Forensics",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*645",
+    "uniqueId": "",
+    "title": "Veterinary&Wildlife Forensics",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FO*650",
+    "uniqueId": "",
+    "title": "Forensic Pattern Evidence",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FO*651",
+    "uniqueId": "",
+    "title": "Forensic Entomology with Lab",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*656",
+    "uniqueId": "",
+    "title": "Biological Forensics",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*657",
+    "uniqueId": "",
+    "title": "Biological Forensic Laboratory",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*675",
+    "uniqueId": "",
+    "title": "Mock Trial Forensic Pat Eviden",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "FO*676",
+    "uniqueId": "",
+    "title": "Digital and Forensic Imaging",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*677",
+    "uniqueId": "",
+    "title": "Death Investigation",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "FO*680",
+    "uniqueId": "",
+    "title": "Forensic Microbiology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*685",
+    "uniqueId": "",
+    "title": "Intro Firearms & Tool Analysis",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*690",
+    "uniqueId": "",
+    "title": "Tp Fr Sci: Unsolv Serial Homi",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*690",
+    "uniqueId": "",
+    "title": "Topic:Questnd Docmt&Trace Evi",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FO*690",
+    "uniqueId": "",
+    "title": "Tp Fr Sci: Invst Unsol Ser Hom",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FO*690",
+    "uniqueId": "",
+    "title": "Topics in FS:Firearms&Toolmks",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "FO*690",
+    "uniqueId": "",
+    "title": "Topics Forensic Science: Photo",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "FO*695",
+    "uniqueId": "",
+    "title": "Crime Scene&Evidence Photo",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*700",
+    "uniqueId": "",
+    "title": "Statistics in Forensic Science",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*710",
+    "uniqueId": "",
+    "title": "Adv Top&Tech in Fingerprints",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FO*711",
+    "uniqueId": "",
+    "title": "Animal Law",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*715",
+    "uniqueId": "",
+    "title": "Forensic Anthropology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "FO*725",
+    "uniqueId": "",
+    "title": "DNA Analysis",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*731",
+    "uniqueId": "",
+    "title": "Forensic Science Management",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*740",
+    "uniqueId": "",
+    "title": "Bloodstain Pttrn Anlsy & Recon",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*750",
+    "uniqueId": "",
+    "title": "Forensic Cognitive Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "FO*752",
+    "uniqueId": "",
+    "title": "For Sci Errors&Wrongful Convc",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FO*780",
+    "uniqueId": "",
+    "title": "Patrn Evidnce Recog&Stat Meth",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "FO*785",
+    "uniqueId": "",
+    "title": "Advanced Firearms and Toolmark",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*785",
+    "uniqueId": "",
+    "title": "Adv Firearm&Toolmark Analysis",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "FO*790",
+    "uniqueId": "",
+    "title": "Forensic Science Internship",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "FO*790",
+    "uniqueId": "",
+    "title": "Forensic Patrn Analys Internsh",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "FO*791",
+    "uniqueId": "",
+    "title": "Forensic Science Resrch",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "FO*792",
+    "uniqueId": "",
+    "title": "Frnsc Patrn Anlysis Ind Study",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  }
+]

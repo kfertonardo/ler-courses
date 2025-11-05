@@ -1,0 +1,308 @@
+[
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Singapore",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Santiago",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Osaka",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Montpellier",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Seoul",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Buenos Aires",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Madrid",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Amsterdam",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Montpelier",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Barcelona",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Montepellier",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Koblenz",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: la Rochelle",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Larochelle",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: LaRochelle",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Bueos Aires",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Hirakata",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: La Rochelle",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange:Hirakata",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange:Montpellier",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange:Amsterdam",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange:Buenos Aires",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange:La Rochelle",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange: Jonkoping",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LE*100",
+    "uniqueId": "",
+    "title": "Loyola Exchange:Santiago",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  }
+]

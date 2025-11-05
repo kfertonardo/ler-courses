@@ -1,0 +1,1137 @@
+[
+  {
+    "courseNumber": "EC*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Dispprnc Smll Fvrs Ec",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EC*001",
+    "uniqueId": "",
+    "title": "Ind Study in Econ: Intro Econ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EC*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Austrian Sch Econ Srv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EC*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Law, Govmt, and Econ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EC*001",
+    "uniqueId": "",
+    "title": "Ind Study:Economics of Crime",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EC*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Agric Sub&Food Prod",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EC*001",
+    "uniqueId": "",
+    "title": "Ind:Theory Austrian Bus Cycle",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EC*001",
+    "uniqueId": "",
+    "title": "Ind Sty: STATA for Economics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EC*102",
+    "uniqueId": "",
+    "title": "Microeconomic Principles",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*102",
+    "uniqueId": "",
+    "title": "Prv Stdy:Microecon Principles",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EC*103",
+    "uniqueId": "",
+    "title": "Macroeconomic Principles",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*220",
+    "uniqueId": "",
+    "title": "Business Statistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*220",
+    "uniqueId": "",
+    "title": "Priv Study: Bus Statistics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EC*250",
+    "uniqueId": "",
+    "title": "Capitalism and Its Critics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EC*260",
+    "uniqueId": "",
+    "title": "Law and Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*290",
+    "uniqueId": "",
+    "title": "Growth,Globalization& History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EC*290",
+    "uniqueId": "",
+    "title": "European Economic History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EC*301",
+    "uniqueId": "",
+    "title": "Intermed Macroeconomic Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "EC*301",
+    "uniqueId": "",
+    "title": "Intermed Macroeconomics Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EC*301",
+    "uniqueId": "",
+    "title": "Intermediate Macroeconomics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EC*302",
+    "uniqueId": "",
+    "title": "Intermed Microeconomic Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "EC*302",
+    "uniqueId": "",
+    "title": "Prv Sty:Intermed Microecon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EC*302",
+    "uniqueId": "",
+    "title": "Intermed Microeconomics Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EC*302",
+    "uniqueId": "",
+    "title": "Intermediate Microeconomics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EC*302",
+    "uniqueId": "",
+    "title": "Microeconomics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EC*304",
+    "uniqueId": "",
+    "title": "Survey of International Econ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "EC*305",
+    "uniqueId": "",
+    "title": "Mathematical Economics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EC*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Mathematical Econ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EC*310",
+    "uniqueId": "",
+    "title": "American Economic History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EC*320",
+    "uniqueId": "",
+    "title": "Political Economy of War",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "EC*330",
+    "uniqueId": "",
+    "title": "Law and Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EC*340",
+    "uniqueId": "",
+    "title": "Economic Problems of Cities",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EC*341",
+    "uniqueId": "",
+    "title": "SpTp: Ethics, Econ, & Pub Pol",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EC*341",
+    "uniqueId": "",
+    "title": "Special Topics Econ: Comm Dev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EC*341",
+    "uniqueId": "",
+    "title": "Special Topics: Fed Challenge",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EC*341",
+    "uniqueId": "",
+    "title": "Sp Top in Econ: Fed Challenge",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EC*341",
+    "uniqueId": "",
+    "title": "Sp Tp:Econ of Race&Discrimin",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EC*341",
+    "uniqueId": "",
+    "title": "Sp Top:Econ of Sin Industries",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EC*341",
+    "uniqueId": "",
+    "title": "Sp Top:Economies of East Asia",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EC*347",
+    "uniqueId": "",
+    "title": "Economics of Race&Inequality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EC*348",
+    "uniqueId": "",
+    "title": "Development Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EC*348D",
+    "uniqueId": "",
+    "title": "Development Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EC*349",
+    "uniqueId": "",
+    "title": "Community Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EC*350",
+    "uniqueId": "",
+    "title": "Capitalism and Its Critics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "EC*360",
+    "uniqueId": "",
+    "title": "Environmental Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*380",
+    "uniqueId": "",
+    "title": "Sports Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*405",
+    "uniqueId": "",
+    "title": "Game Theory & Economics Info",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EC*420",
+    "uniqueId": "",
+    "title": "Econometrics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*420",
+    "uniqueId": "",
+    "title": "Ind Sty: Econometrics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EC*425",
+    "uniqueId": "",
+    "title": "Applied Economic Forecasting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EC*425",
+    "uniqueId": "",
+    "title": "Prv Sty:Applied Econ Forecast",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EC*430",
+    "uniqueId": "",
+    "title": "Monetary Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EC*435",
+    "uniqueId": "",
+    "title": "Public Sector Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*440",
+    "uniqueId": "",
+    "title": "International Fincl Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*446",
+    "uniqueId": "",
+    "title": "International Trade",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*448",
+    "uniqueId": "",
+    "title": "Development Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*448D",
+    "uniqueId": "",
+    "title": "Development Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EC*450",
+    "uniqueId": "",
+    "title": "Managerial Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EC*460",
+    "uniqueId": "",
+    "title": "Business and Government",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*470",
+    "uniqueId": "",
+    "title": "Pricing Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EC*475",
+    "uniqueId": "",
+    "title": "Behavioral&Experimental Econ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EC*480",
+    "uniqueId": "",
+    "title": "Labor Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*480D",
+    "uniqueId": "",
+    "title": "Labor Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "EC*490",
+    "uniqueId": "",
+    "title": "Health Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EC*491",
+    "uniqueId": "",
+    "title": "Intshp:Environment Studies Ex",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EC*491",
+    "uniqueId": "",
+    "title": "Intshp: Envirol Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EC*491",
+    "uniqueId": "",
+    "title": "Intshp: Enviro Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EC*491",
+    "uniqueId": "",
+    "title": "Int:Envir&Sust Stu Exp Capst",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EC*496",
+    "uniqueId": "",
+    "title": "Ind Sty in Stata for Economist",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EC*497",
+    "uniqueId": "",
+    "title": "Prv Sty: SAS for Economics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EC*497",
+    "uniqueId": "",
+    "title": "Indep Sty:SAS for Economists",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EC*497",
+    "uniqueId": "",
+    "title": "Indep Stdy: SAS for Economics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty: Discrm Wlth Mngmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Econ of Reg&Enforc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Panel Est Methds",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Econ of Venezuela Sec",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:C.Koch Institute&NTUF",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Frgn Drct Invst&Econ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Forcasting&Struc Time",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Public Choice Theory",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Economies East Asia",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Strc&Incntv U.S. Bdgt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Strtgy&Tactics Pricng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Economics Writing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Banking&the Unbanked",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Sty: Econ Austr Busi Cycl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Economics Independent Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind Study: Int'l Finance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Econ Ind Study: Global Oil",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Ind St:Economic Development",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EC*498",
+    "uniqueId": "",
+    "title": "Econ Independent Study:SAS",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Economics Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Intshp: Economic Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Int:Heritage Fou Center Int'l",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Internship: Republic Bank",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Int:Insurance Industry&Econs",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Int Stu: Economics Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Smith Barney Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Internship: Legg Mason",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Internship: Economics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Internship: Morgan Stanley",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EC*499",
+    "uniqueId": "",
+    "title": "Econ Int:Impact Analysis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  }
+]

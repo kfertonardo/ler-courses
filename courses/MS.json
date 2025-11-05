@@ -1,0 +1,511 @@
+[
+  {
+    "courseNumber": "MS*001",
+    "uniqueId": "",
+    "title": "Ind Study in Military Science",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "MS*009",
+    "uniqueId": "",
+    "title": "Physical Training Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MS*099",
+    "uniqueId": "",
+    "title": "Leadership Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*099",
+    "uniqueId": "",
+    "title": "Prv Sty: Leadership Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MS*099",
+    "uniqueId": "",
+    "title": "Priv Study: Leadership Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MS*099",
+    "uniqueId": "",
+    "title": "Ind Stu: Leadership Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MS*099",
+    "uniqueId": "",
+    "title": "Ind Study: Leadership Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MS*101",
+    "uniqueId": "",
+    "title": "Leadership & Personal Devlpmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MS*101",
+    "uniqueId": "",
+    "title": "Foundations of Officership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MS*102",
+    "uniqueId": "",
+    "title": "Foundations of Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MS*102",
+    "uniqueId": "",
+    "title": "Intro to Tactical Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MS*102",
+    "uniqueId": "",
+    "title": "Basic Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MS*103",
+    "uniqueId": "",
+    "title": "Intensive Ind Military Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MS*105",
+    "uniqueId": "",
+    "title": "Intensive Ind Military Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*106",
+    "uniqueId": "",
+    "title": "Foundations of Officership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*107",
+    "uniqueId": "",
+    "title": "Basic Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*201",
+    "uniqueId": "",
+    "title": "Innovative Team Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MS*201",
+    "uniqueId": "",
+    "title": "Leadership and Teamwork",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MS*202",
+    "uniqueId": "",
+    "title": "Army Doctrine and Decision-Mak",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MS*202",
+    "uniqueId": "",
+    "title": "U.S. Military History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MS*203",
+    "uniqueId": "",
+    "title": "Intensive Ind Military Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MS*207",
+    "uniqueId": "",
+    "title": "Leadership and Teamwork",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*208",
+    "uniqueId": "",
+    "title": "Intensive Ind Military Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*209",
+    "uniqueId": "",
+    "title": "Found of Tactical Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MS*210",
+    "uniqueId": "",
+    "title": "U.S. Military History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*299",
+    "uniqueId": "",
+    "title": "U.S. Military History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "MS*301",
+    "uniqueId": "",
+    "title": "Adaptive Team Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "MS*301",
+    "uniqueId": "",
+    "title": "Adaptive Tactical Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MS*301",
+    "uniqueId": "",
+    "title": "Leadership and Problem Solvng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MS*301",
+    "uniqueId": "",
+    "title": "Prvt:Leadership&Prblm Solving",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MS*302",
+    "uniqueId": "",
+    "title": "Applied Leadership Small Unit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MS*302",
+    "uniqueId": "",
+    "title": "Applied Team Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MS*302",
+    "uniqueId": "",
+    "title": "Leadrshp in Chngng Envirnmnts",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MS*302",
+    "uniqueId": "",
+    "title": "Leadership and Ethics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MS*303",
+    "uniqueId": "",
+    "title": "Intensive Ind Military Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*303",
+    "uniqueId": "",
+    "title": "Ind:Intens Ind Military Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MS*401",
+    "uniqueId": "",
+    "title": "Developing Adaptive Leaders",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MS*401",
+    "uniqueId": "",
+    "title": "Leadership and Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MS*401",
+    "uniqueId": "",
+    "title": "Prvt: Leadership & Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MS*402",
+    "uniqueId": "",
+    "title": "Company Grade Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MS*402",
+    "uniqueId": "",
+    "title": "Leadership in a Complex World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MS*402",
+    "uniqueId": "",
+    "title": "Officership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MS*403",
+    "uniqueId": "",
+    "title": "Senior Independent Military St",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MS*403",
+    "uniqueId": "",
+    "title": "Intensive Ind Military Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MS*403",
+    "uniqueId": "",
+    "title": "Ind Sty:Bat Anlys Gettysburg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "MS*499",
+    "uniqueId": "",
+    "title": "Command and Staff Simulation L",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  }
+]

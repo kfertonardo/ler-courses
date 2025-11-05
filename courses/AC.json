@@ -1,0 +1,808 @@
+[
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Pepsi and Cams",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Ind Sy: Expl Tax Evas of Wlthy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Hyacinth Business Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Ind Sty:AC Soc Responsibility",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Contemp Issues Mg Acc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Ind Study:AC Social Resps",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Impct Advisory Boards",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Accounting Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Internship: Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Intl Con Thr Acct Tr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AC*001",
+    "uniqueId": "",
+    "title": "Independent Stdy in Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "AC*201",
+    "uniqueId": "",
+    "title": "Financial Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AC*202",
+    "uniqueId": "",
+    "title": "Managerial Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AC*202",
+    "uniqueId": "",
+    "title": "Pr Sty: Managerial Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "AC*301",
+    "uniqueId": "",
+    "title": "Intermediate Accounting I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AC*301",
+    "uniqueId": "",
+    "title": "Prv Sty: Intermed Accntng I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AC*302",
+    "uniqueId": "",
+    "title": "Intermediate Accounting II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AC*303",
+    "uniqueId": "",
+    "title": "Intermediate Accounting III",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "AC*310",
+    "uniqueId": "",
+    "title": "Accounting Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "AC*310",
+    "uniqueId": "",
+    "title": "Priv Study: Accounting Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "AC*311",
+    "uniqueId": "",
+    "title": "Cost Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AC*311",
+    "uniqueId": "",
+    "title": "Prv Sty:Cost Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "AC*311",
+    "uniqueId": "",
+    "title": "Ind Sty:Cost Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "AC*311",
+    "uniqueId": "",
+    "title": "Priv Sty: Cost Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "AC*312",
+    "uniqueId": "",
+    "title": "Interm Accounting II Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "AC*315",
+    "uniqueId": "",
+    "title": "Intnl Travel Course: Comp Busi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "AC*320",
+    "uniqueId": "",
+    "title": "International Acc: Study Tour",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*320",
+    "uniqueId": "",
+    "title": "Intl Acc: Intl Ac & Fi Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AC*320",
+    "uniqueId": "",
+    "title": "Internatntl AC & FI Sty Tour",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "AC*401",
+    "uniqueId": "",
+    "title": "Advanced Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AC*401",
+    "uniqueId": "",
+    "title": "Prv Sty:Advanced Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "AC*401",
+    "uniqueId": "",
+    "title": "Prv Sty: Advanced Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AC*401",
+    "uniqueId": "",
+    "title": "Priv Study:Advancd Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "AC*402",
+    "uniqueId": "",
+    "title": "Auditing Accounting Info Syst",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "AC*402",
+    "uniqueId": "",
+    "title": "Accounting Information Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "AC*409",
+    "uniqueId": "",
+    "title": "Individual Income Tax",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*409",
+    "uniqueId": "",
+    "title": "AC Sem:Personal Income Tax",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "AC*409",
+    "uniqueId": "",
+    "title": "Ac Sem:Personal Income Tax",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AC*412",
+    "uniqueId": "",
+    "title": "Taxation of Business Entities",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AC*412",
+    "uniqueId": "",
+    "title": "Pvt:Taxatn of Bsness Entities",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "AC*420",
+    "uniqueId": "",
+    "title": "Forensic Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "AC*421",
+    "uniqueId": "",
+    "title": "Auditing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AC*421",
+    "uniqueId": "",
+    "title": "Private Sty: Auditing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "AC*459",
+    "uniqueId": "",
+    "title": "Prv Sty: Research Topics Acct",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "AC*459",
+    "uniqueId": "",
+    "title": "Prv Sty:Glo Appr ESG Invst&Mn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "AC*459",
+    "uniqueId": "",
+    "title": "Research Top in AC:Fraud Acc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AC*495",
+    "uniqueId": "",
+    "title": "Basic Volun Income Tax Assist",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "AC*496",
+    "uniqueId": "",
+    "title": "Advanced Volunteer Tax Assista",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "AC*498",
+    "uniqueId": "",
+    "title": "Accnting Intrnshp (100 Hours)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "AC*499",
+    "uniqueId": "",
+    "title": "Accnting Intrnshp (150 Hours)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "AC*499",
+    "uniqueId": "",
+    "title": "Internship: Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AC*499",
+    "uniqueId": "",
+    "title": "Accounting Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "AC*499",
+    "uniqueId": "",
+    "title": "Intshp: Accounting Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AC*700",
+    "uniqueId": "",
+    "title": "Ethics for Acc Professionals",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*701",
+    "uniqueId": "",
+    "title": "Adv International Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*702",
+    "uniqueId": "",
+    "title": "Advanced Financial Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "AC*703",
+    "uniqueId": "",
+    "title": "Perform Meas&Strat Cost Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*704",
+    "uniqueId": "",
+    "title": "Tax Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "AC*705",
+    "uniqueId": "",
+    "title": "Audit Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "AC*705",
+    "uniqueId": "",
+    "title": "Adv Accounting Inform Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "AC*706",
+    "uniqueId": "",
+    "title": "Advanced Auditing/Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "AC*707",
+    "uniqueId": "",
+    "title": "Government&Nonprofit Acc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*708",
+    "uniqueId": "",
+    "title": "Advanced Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*709",
+    "uniqueId": "",
+    "title": "Accounting Internship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*709",
+    "uniqueId": "",
+    "title": "Int:Accounting Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "AC*710",
+    "uniqueId": "",
+    "title": "Professional Communications",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "AC*711",
+    "uniqueId": "",
+    "title": "Seminar in Accounting Practice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AC*711",
+    "uniqueId": "",
+    "title": "Prv Sty: Sem in Acc Practice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AC*712",
+    "uniqueId": "",
+    "title": "SEC Reporting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "AC*713",
+    "uniqueId": "",
+    "title": "Sustainability&ESG Reporting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AC*714",
+    "uniqueId": "",
+    "title": "State and Local Taxes",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AC*719",
+    "uniqueId": "",
+    "title": "Individual Income Tax",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "AC*720",
+    "uniqueId": "",
+    "title": "Forensic Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  }
+]

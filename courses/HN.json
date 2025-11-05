@@ -1,0 +1,616 @@
+[
+  {
+    "courseNumber": "HN*100",
+    "uniqueId": "",
+    "title": "The Honors Experience",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*200",
+    "uniqueId": "",
+    "title": "Honors: Freshman Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*201",
+    "uniqueId": "",
+    "title": "Human Drama:Ancient World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HN*202",
+    "uniqueId": "",
+    "title": "Human Drama:Medvl World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HN*203",
+    "uniqueId": "",
+    "title": "Prv Sty: Human Dram: Rnssnce",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "HN*203",
+    "uniqueId": "",
+    "title": "Human Drama:Renaiss to Mod",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HN*204",
+    "uniqueId": "",
+    "title": "Human Drama:The Modern World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HN*210",
+    "uniqueId": "",
+    "title": "Eloquentia Perfecta",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HN*210D",
+    "uniqueId": "",
+    "title": "Eloquentia Perfecta",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HN*215",
+    "uniqueId": "",
+    "title": "Engaging Nature",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HN*216",
+    "uniqueId": "",
+    "title": "Honors Sci:Strands Connect Us",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HN*216",
+    "uniqueId": "",
+    "title": "Honors Science: Strands Connec",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "HN*216",
+    "uniqueId": "",
+    "title": "Honors Sci:strands Connect Us",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "HN*217",
+    "uniqueId": "",
+    "title": "The Chemistry Within Us",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HN*218",
+    "uniqueId": "",
+    "title": "Computational Thnkng:Robotics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HN*218",
+    "uniqueId": "",
+    "title": "Comp Think:Comp thrg Robotics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "HN*220",
+    "uniqueId": "",
+    "title": "Chemistry of Food and Cooking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "HN*220",
+    "uniqueId": "",
+    "title": "Honors: The Ancient World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "HN*221",
+    "uniqueId": "",
+    "title": "Poe,Holmes,&Evol Forensc Sci",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HN*231",
+    "uniqueId": "",
+    "title": "Honors Sem:Macroeconomic Prin",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HN*232",
+    "uniqueId": "",
+    "title": "Honors Sem:Intro Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HN*234",
+    "uniqueId": "",
+    "title": "Honors Seminar: Politics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "HN*237",
+    "uniqueId": "",
+    "title": "Honor Sem:Soc Power&Soc Chnge",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HN*237",
+    "uniqueId": "",
+    "title": "Honors Sem: Societies&Insti",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "HN*240",
+    "uniqueId": "",
+    "title": "Honors:Medieval to Renaissance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*260",
+    "uniqueId": "",
+    "title": "Honors: Renaissance to Modern",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*280",
+    "uniqueId": "",
+    "title": "Honors: The Modern World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*290",
+    "uniqueId": "",
+    "title": "Honors: Art History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*291",
+    "uniqueId": "",
+    "title": "Honors: Music",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*292",
+    "uniqueId": "",
+    "title": "Honors: Theatre",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*293",
+    "uniqueId": "",
+    "title": "Honors: Photography",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "HN*300",
+    "uniqueId": "",
+    "title": "Honors: Junior Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*304",
+    "uniqueId": "",
+    "title": "Music and Medicine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HN*315D",
+    "uniqueId": "",
+    "title": "Disc Diffr:Art&Age of Explore",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HN*316",
+    "uniqueId": "",
+    "title": "Grand Challenges and Nanotech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HN*318",
+    "uniqueId": "",
+    "title": "Greek and Roman Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "HN*318",
+    "uniqueId": "",
+    "title": "Computational Thnkng:Robotics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "HN*320",
+    "uniqueId": "",
+    "title": "Renaissance to Modern",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HN*321",
+    "uniqueId": "",
+    "title": "Intro to Theatrical Production",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HN*322",
+    "uniqueId": "",
+    "title": "Western Musical Traditions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "HN*323",
+    "uniqueId": "",
+    "title": "Photo Vision:Tools,Tech&Theor",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HN*350",
+    "uniqueId": "",
+    "title": "Restortve Justic & Crimin Law",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HN*352",
+    "uniqueId": "",
+    "title": "Mdrn Art Europe & America",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HN*360",
+    "uniqueId": "",
+    "title": "Biblical Imagt:Eden to Apclyp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HN*376",
+    "uniqueId": "",
+    "title": "Self, Society, and Revenge",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HN*385",
+    "uniqueId": "",
+    "title": "Literary Biography",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HN*390",
+    "uniqueId": "",
+    "title": "What Is Patience?",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HN*392",
+    "uniqueId": "",
+    "title": "Global, Incultrtion, &Justice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HN*396",
+    "uniqueId": "",
+    "title": "Classics of Asian Philosophy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HN*399",
+    "uniqueId": "",
+    "title": "James Joyce's Ulysses",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HN*400",
+    "uniqueId": "",
+    "title": "Honors: Senior Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "HN*400",
+    "uniqueId": "",
+    "title": "Priv Study: Honors Senior Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "HN*406",
+    "uniqueId": "",
+    "title": "Philosophies of the Other",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "HN*409",
+    "uniqueId": "",
+    "title": "Creating World: Theories Imgnt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HN*420",
+    "uniqueId": "",
+    "title": "American Political Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "HN*449",
+    "uniqueId": "",
+    "title": "Mdrn Mid East thrgh Lit&Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HN*471",
+    "uniqueId": "",
+    "title": "Statistical Quality Control",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "HN*499",
+    "uniqueId": "",
+    "title": "The Examined Life",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "HN*499",
+    "uniqueId": "",
+    "title": "Prv Sty: The Examined Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "HN*499",
+    "uniqueId": "",
+    "title": "Prv Sty:The Examined Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 21
+  }
+]

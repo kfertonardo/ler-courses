@@ -1,0 +1,752 @@
+[
+  {
+    "courseNumber": "CH*003",
+    "uniqueId": "",
+    "title": "Intshp:Neuropathology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CH*003",
+    "uniqueId": "",
+    "title": "Int:Bio Res:Leukemia Bld Smpl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "CH*003",
+    "uniqueId": "",
+    "title": "Intern: Biomedical Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "CH*005",
+    "uniqueId": "",
+    "title": "Skills for Chemistry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CH*100",
+    "uniqueId": "",
+    "title": "Introduction to Chemistry",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CH*101",
+    "uniqueId": "",
+    "title": "General Chemistry I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*102",
+    "uniqueId": "",
+    "title": "General Chemistry II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*105",
+    "uniqueId": "",
+    "title": "General Chemistry Lab I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*105",
+    "uniqueId": "",
+    "title": "Prv Sty: Gen Chemistry Lab 1",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CH*105",
+    "uniqueId": "",
+    "title": "Prv Sty:Gen Chemistry Lab 1",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CH*106",
+    "uniqueId": "",
+    "title": "General Chemistry Lab II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*110",
+    "uniqueId": "",
+    "title": "Chemistry and Society",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*112",
+    "uniqueId": "",
+    "title": "Chem of Drugs&Drug Dependency",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*113",
+    "uniqueId": "",
+    "title": "Living Dangerously?",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*114",
+    "uniqueId": "",
+    "title": "Global Environment",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "CH*114D",
+    "uniqueId": "",
+    "title": "Global Environment",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "CH*201",
+    "uniqueId": "",
+    "title": "Quantitative Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*220",
+    "uniqueId": "",
+    "title": "Env Sci&Sustain w/Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CH*220",
+    "uniqueId": "",
+    "title": "Prv Sty:Env Sci&Sstn w/Anlys",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "CH*301",
+    "uniqueId": "",
+    "title": "Organic Chemistry I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*302",
+    "uniqueId": "",
+    "title": "Organic Chemistry II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*307",
+    "uniqueId": "",
+    "title": "Organic Chemistry Lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*308",
+    "uniqueId": "",
+    "title": "Organic Chemistry Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*308",
+    "uniqueId": "",
+    "title": "Priv Study: Org Chem Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CH*310",
+    "uniqueId": "",
+    "title": "Medicinal Chemistry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*311",
+    "uniqueId": "",
+    "title": "Physical Chemistry I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*312",
+    "uniqueId": "",
+    "title": "Physical Chemistry II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*315",
+    "uniqueId": "",
+    "title": "Physical Chemistry Lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*315",
+    "uniqueId": "",
+    "title": "Ind Sty:Physcl Chmistry lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "CH*316",
+    "uniqueId": "",
+    "title": "Physical Chemistry Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*316",
+    "uniqueId": "",
+    "title": "Prv Sty:Physical Chem Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "CH*340",
+    "uniqueId": "",
+    "title": "Sci&Phil Hum:Teilhard&Polanyi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "CH*406",
+    "uniqueId": "",
+    "title": "Organic Synthesis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "CH*406",
+    "uniqueId": "",
+    "title": "Prv Sty:Organic Synthesis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CH*406",
+    "uniqueId": "",
+    "title": "Org Synthesis & Spectroscopy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "CH*406",
+    "uniqueId": "",
+    "title": "Adv Synthesis & Spectroscopy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CH*410",
+    "uniqueId": "",
+    "title": "Instrumental Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*411",
+    "uniqueId": "",
+    "title": "Instrumental Methods Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*411",
+    "uniqueId": "",
+    "title": "Prv Sty:Instrmntl Mthds Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CH*411",
+    "uniqueId": "",
+    "title": "Priv Study: Instru Methods Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CH*412",
+    "uniqueId": "",
+    "title": "Inorganic Chemistry with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "CH*412",
+    "uniqueId": "",
+    "title": "Prv Sty: Inorganic Chemistry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CH*412",
+    "uniqueId": "",
+    "title": "Inorganic Chemistry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CH*412",
+    "uniqueId": "",
+    "title": "Prv Sty: Inorganic Chem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "CH*420",
+    "uniqueId": "",
+    "title": "Chemistry Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CH*420",
+    "uniqueId": "",
+    "title": "Ind Sty:Ped Cul Med Sch Grnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "CH*420",
+    "uniqueId": "",
+    "title": "Prv Sty:Ped Cul Med Sch Grnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "CH*420",
+    "uniqueId": "",
+    "title": "Prv Sty: Chemistry Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "CH*431",
+    "uniqueId": "",
+    "title": "Biochemistry I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CH*431",
+    "uniqueId": "",
+    "title": "Biochemistry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CH*432",
+    "uniqueId": "",
+    "title": "Biochemistry II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CH*433",
+    "uniqueId": "",
+    "title": "Biochemistry Lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CH*434",
+    "uniqueId": "",
+    "title": "Biochemistry Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CH*434",
+    "uniqueId": "",
+    "title": "Techniques in Biochemistry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CH*440",
+    "uniqueId": "",
+    "title": "Research Methods Organic Chem",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "CH*491",
+    "uniqueId": "",
+    "title": "Intshp: Chemistry Intrnshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "CH*491",
+    "uniqueId": "",
+    "title": "Int: Chemistry Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CH*496",
+    "uniqueId": "",
+    "title": "Int:Environmental Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CH*496",
+    "uniqueId": "",
+    "title": "Environmental Studies Exp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CH*496",
+    "uniqueId": "",
+    "title": "Ind Sty:Enviro Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "CH*496",
+    "uniqueId": "",
+    "title": "Prv Sty:Envrnmntl Stdies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "CH*496",
+    "uniqueId": "",
+    "title": "Prv Sty: Environment Sty Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "CH*496",
+    "uniqueId": "",
+    "title": "Prv Sty: Environmental Sty Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "CH*498",
+    "uniqueId": "",
+    "title": "Int:Forensic Science Experien",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CH*498",
+    "uniqueId": "",
+    "title": "Int:Medical Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CH*498",
+    "uniqueId": "",
+    "title": "Intern:Early OOCYTE Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "CH*498",
+    "uniqueId": "",
+    "title": "Int: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "CH*498",
+    "uniqueId": "",
+    "title": "Int:Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  }
+]

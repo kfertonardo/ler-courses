@@ -1,0 +1,34 @@
+[
+  {
+    "courseNumber": "NUR*101",
+    "uniqueId": "",
+    "title": "Nursing Prof Dev Cath Trad",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "NUR*102",
+    "uniqueId": "",
+    "title": "Nursing Prof Dev Clin Judg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "NUR*205",
+    "uniqueId": "",
+    "title": "Ev Based Res & Prac Nursing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  }
+]

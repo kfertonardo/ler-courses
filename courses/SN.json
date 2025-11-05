@@ -1,0 +1,992 @@
+[
+  {
+    "courseNumber": "SN*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Lat Amer Cult Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SN*001",
+    "uniqueId": "",
+    "title": "Ind Study:Trans Latin Am Ess",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SN*001",
+    "uniqueId": "",
+    "title": "Ind Sty; Translating the Essay",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SN*001",
+    "uniqueId": "",
+    "title": "Ind Stdy: Pol Cult Venezuela",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SN*001",
+    "uniqueId": "",
+    "title": "Independent Study in Spanish",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SN*101",
+    "uniqueId": "",
+    "title": "Introductory Spanish I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*102",
+    "uniqueId": "",
+    "title": "Introductory Spanish II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*103",
+    "uniqueId": "",
+    "title": "Intermediate Spanish I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*103",
+    "uniqueId": "",
+    "title": "Priv Sty: Intermed Spanish I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SN*104",
+    "uniqueId": "",
+    "title": "Intermediate Spanish II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*104",
+    "uniqueId": "",
+    "title": "Prv Sty:Intermedt Spansh II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SN*104",
+    "uniqueId": "",
+    "title": "Priv Sty: Intermedi Spanish II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SN*161",
+    "uniqueId": "",
+    "title": "Comprehensive Begin Spanish",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SN*161",
+    "uniqueId": "",
+    "title": "Priv Sty: Begin Comp Spanish",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SN*201",
+    "uniqueId": "",
+    "title": "Spanish Comp & Conversation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*201D",
+    "uniqueId": "",
+    "title": "Spanish Comp & Conversation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SN*203",
+    "uniqueId": "",
+    "title": "Intro to Reading Literature",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*203D",
+    "uniqueId": "",
+    "title": "Intro to Reading Literature",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SN*217",
+    "uniqueId": "",
+    "title": "Vent Into Text:Read Comp Lit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*300",
+    "uniqueId": "",
+    "title": "Spanish for Prof:Healthcare",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SN*301",
+    "uniqueId": "",
+    "title": "Culture & Civilization Spain",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SN*302",
+    "uniqueId": "",
+    "title": "Culture&Civilization Latin Am",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*303",
+    "uniqueId": "",
+    "title": "Intro to Mexican Culture",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SN*303",
+    "uniqueId": "",
+    "title": "Hispanic Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SN*304D",
+    "uniqueId": "",
+    "title": "Contemporary Central America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SN*305",
+    "uniqueId": "",
+    "title": "Colonial Latin America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SN*305",
+    "uniqueId": "",
+    "title": "Chron Conquest, Restnc&Trnsclt",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SN*306",
+    "uniqueId": "",
+    "title": "Music&Latin Amer Soc Movemnts",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SN*306",
+    "uniqueId": "",
+    "title": "Literature&Identity Pol Peru",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SN*306D",
+    "uniqueId": "",
+    "title": "Literature&Identity Pol Peru",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SN*307",
+    "uniqueId": "",
+    "title": "Contemp Spanish Civ & Culture",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SN*308",
+    "uniqueId": "",
+    "title": "Violen&Cult: Colomb 20th Cent",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SN*320",
+    "uniqueId": "",
+    "title": "Intro to Spanish Linguistics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SN*321",
+    "uniqueId": "",
+    "title": "Spanish Phonetics & Phonology",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SN*325",
+    "uniqueId": "",
+    "title": "Spanish Applied Linguistics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SN*329",
+    "uniqueId": "",
+    "title": "Spanish in the U.S.",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SN*329",
+    "uniqueId": "",
+    "title": "Prv Sty: Spanish in the U.S.",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SN*329D",
+    "uniqueId": "",
+    "title": "Spanish in the U.S.",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SN*335",
+    "uniqueId": "",
+    "title": "Contemp Span Lit:1975 to Prsnt",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*336",
+    "uniqueId": "",
+    "title": "Women's Lit Contemporary Spain",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SN*338",
+    "uniqueId": "",
+    "title": "World Crisis: Writing Con Spai",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SN*345",
+    "uniqueId": "",
+    "title": "Hispanic Caribbean Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SN*346",
+    "uniqueId": "",
+    "title": "Violen&Cult Colomb 20th Cent",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SN*350",
+    "uniqueId": "",
+    "title": "Short Hispanic Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SN*351",
+    "uniqueId": "",
+    "title": "Literature&Identity Pol Peru",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SN*351D",
+    "uniqueId": "",
+    "title": "Literature&Identity Pol Peru",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SN*352",
+    "uniqueId": "",
+    "title": "The Golden Age",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SN*354",
+    "uniqueId": "",
+    "title": "Contemp Latin American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SN*355",
+    "uniqueId": "",
+    "title": "Spanish Postwar Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SN*357",
+    "uniqueId": "",
+    "title": "Spanish Literature 18th Cent",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SN*358",
+    "uniqueId": "",
+    "title": "A Survey of Spanish Theatre",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SN*360",
+    "uniqueId": "",
+    "title": "Latin American Short Story",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SN*361",
+    "uniqueId": "",
+    "title": "Civil&Barbarism Argentine Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SN*362",
+    "uniqueId": "",
+    "title": "Origin Contmp Spain:1898-1920",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SN*362",
+    "uniqueId": "",
+    "title": "Spanish Lit Turn of Century",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SN*363",
+    "uniqueId": "",
+    "title": "Cont Span Lit:Gener 1914&1927",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SN*363",
+    "uniqueId": "",
+    "title": "Cont Span Lit:Gener 1910&1927",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SN*364",
+    "uniqueId": "",
+    "title": "Spanish Lit Exile: 1939-1975",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SN*364",
+    "uniqueId": "",
+    "title": "Prv Sty:Spanish Lit Exile",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SN*364",
+    "uniqueId": "",
+    "title": "Spanish Lit Exile, 1939-1975",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SN*364",
+    "uniqueId": "",
+    "title": "Spanish Lit Exile (1939-1975)",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SN*365",
+    "uniqueId": "",
+    "title": "Latin Amr Ess&Early Cul Study",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "SN*365",
+    "uniqueId": "",
+    "title": "Latin American Essay",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SN*365D",
+    "uniqueId": "",
+    "title": "Latin Amr Ess&Early Cul Study",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "SN*365D",
+    "uniqueId": "",
+    "title": "Latin American Essay",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SN*366",
+    "uniqueId": "",
+    "title": "Latin American Testimony",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SN*367",
+    "uniqueId": "",
+    "title": "Short Story Spain Since 1936",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SN*368",
+    "uniqueId": "",
+    "title": "Travelers&Migrants Colomb Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SN*369",
+    "uniqueId": "",
+    "title": "Novo-Hispanic Perspectives",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SN*370",
+    "uniqueId": "",
+    "title": "19th Cent Latin American Novel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SN*370D",
+    "uniqueId": "",
+    "title": "19th Cent Latin American Novel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SN*371",
+    "uniqueId": "",
+    "title": "Short Story in Spain,1875-1925",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "SN*371",
+    "uniqueId": "",
+    "title": "Span Short Stories 19th Cent",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SN*372",
+    "uniqueId": "",
+    "title": "19th-Century Spanish Novel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SN*372",
+    "uniqueId": "",
+    "title": "Realism & Naturalism in Spain",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SN*372",
+    "uniqueId": "",
+    "title": "Realism and Naturalism in Spai",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SN*373",
+    "uniqueId": "",
+    "title": "Literature&Identity Pol Peru",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SN*374",
+    "uniqueId": "",
+    "title": "Three Mstrwrks Guatemalan Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SN*375",
+    "uniqueId": "",
+    "title": "Wom&Men 20th Cnt Lat Amer Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SN*376",
+    "uniqueId": "",
+    "title": "Romantic Revolution in Spain",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SN*376",
+    "uniqueId": "",
+    "title": "Romanticism in Spain",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "SN*376",
+    "uniqueId": "",
+    "title": "Span Prose Rmtic Prd,1800-1870",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "SN*376",
+    "uniqueId": "",
+    "title": "Spanish Romantic Prose",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SN*376",
+    "uniqueId": "",
+    "title": "Span Rom Prose:Frdm&Soc Order",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SN*377",
+    "uniqueId": "",
+    "title": "Span Lit Fantsy,Myst,Terror",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SN*377",
+    "uniqueId": "",
+    "title": "Span Rom:Poetry and Theatre",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SN*377",
+    "uniqueId": "",
+    "title": "Span Rom:Poetry and Theater",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SN*378",
+    "uniqueId": "",
+    "title": "Crime Fiction in Spain",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SN*378",
+    "uniqueId": "",
+    "title": "Prv St:Crime Fiction in Spain",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SN*380",
+    "uniqueId": "",
+    "title": "Modernismo",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SN*381",
+    "uniqueId": "",
+    "title": "Latin American Avant-Garde",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SN*382",
+    "uniqueId": "",
+    "title": "Women Against Current Latin Am",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SN*390",
+    "uniqueId": "",
+    "title": "Chron Conquest, Restnc&Trnsclt",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SN*390D",
+    "uniqueId": "",
+    "title": "Chron Conquest, Restnc&Trnsclt",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SN*391",
+    "uniqueId": "",
+    "title": "Travel Writings New World",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "courseNumber": "LR*100",
+    "uniqueId": "",
+    "title": "Loyola School of Record",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "LR*100",
+    "uniqueId": "",
+    "title": "Loyola School of Record:",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  }
+]

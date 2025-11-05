@@ -1,0 +1,371 @@
+[
+  {
+    "courseNumber": "BH*196",
+    "uniqueId": "",
+    "title": "Sellinger Schol Intrnshp Prep",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BH*196",
+    "uniqueId": "",
+    "title": "Prv Sty:Intrnshp Prp Scholar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "BH*197",
+    "uniqueId": "",
+    "title": "Sellinger Scholar Experience",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "BH*198",
+    "uniqueId": "",
+    "title": "Sellinger Scholar Junior Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BH*198",
+    "uniqueId": "",
+    "title": "Sellinger Scholar Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "BH*198",
+    "uniqueId": "",
+    "title": "Prv Sty: Sellinger Schlr Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "BH*199",
+    "uniqueId": "",
+    "title": "Sellinger Scholar Senior Semin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BH*199",
+    "uniqueId": "",
+    "title": "Sellinger Scholars Experience",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BH*199",
+    "uniqueId": "",
+    "title": "Prv Sty:Sellinger Schlrs Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BH*200",
+    "uniqueId": "",
+    "title": "Financial Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "BH*201",
+    "uniqueId": "",
+    "title": "Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "BH*201",
+    "uniqueId": "",
+    "title": "Organizational Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BH*201D",
+    "uniqueId": "",
+    "title": "Organizational Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BH*202",
+    "uniqueId": "",
+    "title": "Managerial Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BH*230",
+    "uniqueId": "",
+    "title": "Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "BH*240",
+    "uniqueId": "",
+    "title": "Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "BH*251",
+    "uniqueId": "",
+    "title": "Data Analytics&Inform Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "BH*251",
+    "uniqueId": "",
+    "title": "Data Analytics&Inform System",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BH*251",
+    "uniqueId": "",
+    "title": "Information Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BH*251",
+    "uniqueId": "",
+    "title": "Foundations of e-Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BH*251",
+    "uniqueId": "",
+    "title": "Management Information Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BH*260",
+    "uniqueId": "",
+    "title": "Supply Chain&Operations Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "BH*282",
+    "uniqueId": "",
+    "title": "Global Environment of Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "BH*282",
+    "uniqueId": "",
+    "title": "International Business",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BH*305",
+    "uniqueId": "",
+    "title": "Legal Environment of Business",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BH*305D",
+    "uniqueId": "",
+    "title": "Legal Environment of Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BH*320",
+    "uniqueId": "",
+    "title": "Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "BH*330",
+    "uniqueId": "",
+    "title": "Operations Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "BH*402",
+    "uniqueId": "",
+    "title": "Strategic Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "BH*402",
+    "uniqueId": "",
+    "title": "Business Policy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BH*403",
+    "uniqueId": "",
+    "title": "Sellinger Scholars Conslt Prac",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BH*403",
+    "uniqueId": "",
+    "title": "Prv Sty:Sllgr Schlrs Cnsltng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "BH*403",
+    "uniqueId": "",
+    "title": "Prv Sty:Sellinger Consulting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "BH*406",
+    "uniqueId": "",
+    "title": "Commercial Law",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  }
+]

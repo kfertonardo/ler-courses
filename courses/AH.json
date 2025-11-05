@@ -1,0 +1,983 @@
+[
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Vasari&Progress Art",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Asante Gold Weights",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Abstrct Expressnst Wm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Egyptian Art",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Ind Sty: JH Art Collector",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Gender Studies Cap",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Survey of Archit His",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Art History Internship-Sotheby",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Ind Study: Measure for Measure",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "AH*001",
+    "uniqueId": "",
+    "title": "Internship: Evergreen House",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "AH*100",
+    "uniqueId": "",
+    "title": "Introduction to Art History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AH*109",
+    "uniqueId": "",
+    "title": "Non-Western Art",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "AH*110",
+    "uniqueId": "",
+    "title": "Western Art:Paleolit to Gthic",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "AH*110",
+    "uniqueId": "",
+    "title": "Srvy of Art:Paleolit to Gthic",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "AH*110",
+    "uniqueId": "",
+    "title": "Sur Art: Paleolitic to Gothic",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "AH*111",
+    "uniqueId": "",
+    "title": "West Art: Renaiss to Contemp",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "AH*111",
+    "uniqueId": "",
+    "title": "Survey of Art:Renais to Modern",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "AH*188",
+    "uniqueId": "",
+    "title": "Med Humnt: Vis Arts & Hlth Sci",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "AH*200",
+    "uniqueId": "",
+    "title": "Women in Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AH*202",
+    "uniqueId": "",
+    "title": "African Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "AH*202D",
+    "uniqueId": "",
+    "title": "African Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "AH*203",
+    "uniqueId": "",
+    "title": "The Arts of East Asia",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "AH*203D",
+    "uniqueId": "",
+    "title": "The Arts of East Asia",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "AH*204",
+    "uniqueId": "",
+    "title": "Islamic Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "AH*204D",
+    "uniqueId": "",
+    "title": "Islamic Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "AH*205",
+    "uniqueId": "",
+    "title": "Colonial Art of Latin America",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AH*207D",
+    "uniqueId": "",
+    "title": "African-American Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "AH*210",
+    "uniqueId": "",
+    "title": "Survey of Architectrl History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "AH*301",
+    "uniqueId": "",
+    "title": "Women in Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "AH*306D",
+    "uniqueId": "",
+    "title": "Ancient Egypt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "AH*307D",
+    "uniqueId": "",
+    "title": "Disc Diffr:Art&Age of Explore",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "AH*308",
+    "uniqueId": "",
+    "title": "Art of Ancient Greece",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "AH*309",
+    "uniqueId": "",
+    "title": "Art of Ancient Rome",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AH*310",
+    "uniqueId": "",
+    "title": "Pr St:Earl Med Art c.250-1050",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "AH*310",
+    "uniqueId": "",
+    "title": "Early Medieval Art c.250-1050",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "AH*310",
+    "uniqueId": "",
+    "title": "Early Medieval Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AH*311",
+    "uniqueId": "",
+    "title": "Medieval Art:Early Chrst Goth",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "AH*312",
+    "uniqueId": "",
+    "title": "The Renaissance in Italy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "AH*313",
+    "uniqueId": "",
+    "title": "Renaissance Art in Nrth Europe",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AH*314",
+    "uniqueId": "",
+    "title": "Caravaggio to Rembrandt: Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "AH*314",
+    "uniqueId": "",
+    "title": "Art of Baroque Europe",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "AH*315",
+    "uniqueId": "",
+    "title": "African American Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AH*315",
+    "uniqueId": "",
+    "title": "Art Rev Era:Europe 1780-1848",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "AH*315",
+    "uniqueId": "",
+    "title": "Art Rev Era:Neoclass&Romantic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "AH*315D",
+    "uniqueId": "",
+    "title": "African American Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AH*316",
+    "uniqueId": "",
+    "title": "Realism and Impressionism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "AH*316",
+    "uniqueId": "",
+    "title": "Realism and Impression",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AH*317",
+    "uniqueId": "",
+    "title": "Mod Art in Europe: 1880-1945",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "AH*318",
+    "uniqueId": "",
+    "title": "Amer Art:Art for Democracy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "AH*319",
+    "uniqueId": "",
+    "title": "History of Photography",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AH*320",
+    "uniqueId": "",
+    "title": "Contemporary Art,1945-Present",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "AH*320",
+    "uniqueId": "",
+    "title": "Contemporary Art:1945-Present",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "AH*321",
+    "uniqueId": "",
+    "title": "Mod Women Art:Impres Post-Mod",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AH*322",
+    "uniqueId": "",
+    "title": "Michelangelo",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AH*324D",
+    "uniqueId": "",
+    "title": "Timurid and Mughal Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "AH*325",
+    "uniqueId": "",
+    "title": "Gothic Art and Architecture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "AH*326",
+    "uniqueId": "",
+    "title": "Crusades Medieval Vis Culture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "AH*326D",
+    "uniqueId": "",
+    "title": "Crusades Medieval Vis Culture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "AH*327",
+    "uniqueId": "",
+    "title": "Islamic Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AH*327D",
+    "uniqueId": "",
+    "title": "Islamic Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AH*345",
+    "uniqueId": "",
+    "title": "Topics in Aesthetics&Art Hist",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "AH*349",
+    "uniqueId": "",
+    "title": "Baltimore: Hist&Architecture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "AH*350",
+    "uniqueId": "",
+    "title": "Visual Thinking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AH*351",
+    "uniqueId": "",
+    "title": "Am Urb Cult: Tale Four Cities",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "AH*352",
+    "uniqueId": "",
+    "title": "Modern Art in Europe&America",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "AH*353",
+    "uniqueId": "",
+    "title": "Posters! Hist Art&Persuasion",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "AH*360",
+    "uniqueId": "",
+    "title": "Sp Tp Art Hist: Parth to Panth",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "AH*360",
+    "uniqueId": "",
+    "title": "Sp Tp Art Hist: Art & Protest",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "AH*360",
+    "uniqueId": "",
+    "title": "SpTp: Parthenon to Pantheon",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "AH*360",
+    "uniqueId": "",
+    "title": "Sp Top:War&Peace in Anc Mesop",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AH*360",
+    "uniqueId": "",
+    "title": "Sp Top:Parthenon to Pantheon",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AH*391",
+    "uniqueId": "",
+    "title": "Amr West in Art and Literatur",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AH*400",
+    "uniqueId": "",
+    "title": "Methodology and Historiography",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "AH*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Intensive Ind Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AH*402",
+    "uniqueId": "",
+    "title": "Special Topics: Albrecht Durer",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "AH*402",
+    "uniqueId": "",
+    "title": "Sp Top AH:The Bible as Book",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AH*402",
+    "uniqueId": "",
+    "title": "Sp Top AH:Print&Printmaking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AH*403",
+    "uniqueId": "",
+    "title": "Intshp: Loyola Notre Dame Arh",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "AH*403",
+    "uniqueId": "",
+    "title": "Intshp: Art History",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "AH*403",
+    "uniqueId": "",
+    "title": "Intsp:Julio Fine Arts Gallery",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AH*403",
+    "uniqueId": "",
+    "title": "Internship: Art History",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "AH*403",
+    "uniqueId": "",
+    "title": "Internship:Walters Art Museum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AH*403",
+    "uniqueId": "",
+    "title": "Int:Walters Development Div",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AH*403",
+    "uniqueId": "",
+    "title": "Intern:Asian Art at Evergreen",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "AH*404",
+    "uniqueId": "",
+    "title": "Intern: Art History-Vatican",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "AH*404",
+    "uniqueId": "",
+    "title": "Internship: Summer Art History",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AH*405",
+    "uniqueId": "",
+    "title": "Prints & Printmaking: History",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "AH*406",
+    "uniqueId": "",
+    "title": "Museum Studies:His,Pol,&Prac",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "AH*412",
+    "uniqueId": "",
+    "title": "Prv Sty:Senior Proj Art Hist",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "AH*412",
+    "uniqueId": "",
+    "title": "Senior Project in Art History",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AH*490",
+    "uniqueId": "",
+    "title": "Prv Sty:Capst in Amer Studies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "AH*490",
+    "uniqueId": "",
+    "title": "Priv Stu: Capstn Proj in Am St",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  }
+]

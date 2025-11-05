@@ -1,0 +1,360 @@
+[
+  {
+    "courseNumber": "EM*601",
+    "uniqueId": "",
+    "title": "Residency Executive Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EM*602",
+    "uniqueId": "",
+    "title": "Leader&Organization Effective",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EM*603",
+    "uniqueId": "",
+    "title": "Financial&Managerial Accounti",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EM*605",
+    "uniqueId": "",
+    "title": "Econ&Business Analy Microecon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EM*607",
+    "uniqueId": "",
+    "title": "Decision-Making Tools",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EM*608",
+    "uniqueId": "",
+    "title": "International Macroeconomics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*608",
+    "uniqueId": "",
+    "title": "Ana Dom&Global Eco Mar Macro",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EM*609",
+    "uniqueId": "",
+    "title": "Global Business",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EM*613",
+    "uniqueId": "",
+    "title": "Govt&Legal Environ of Bus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EM*616",
+    "uniqueId": "",
+    "title": "Ethics & Social Responsibility",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EM*617",
+    "uniqueId": "",
+    "title": "Strategy Formulation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*650",
+    "uniqueId": "",
+    "title": "Integrating Knowledge",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*660",
+    "uniqueId": "",
+    "title": "Inter App II: Industry Analys",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EM*700",
+    "uniqueId": "",
+    "title": "International Field Study",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*701",
+    "uniqueId": "",
+    "title": "Team Development",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*703",
+    "uniqueId": "",
+    "title": "Leading Change",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*704",
+    "uniqueId": "",
+    "title": "Strategic Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*705",
+    "uniqueId": "",
+    "title": "Strategic Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*707",
+    "uniqueId": "",
+    "title": "Information Techno & Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EM*707",
+    "uniqueId": "",
+    "title": "Info Technology and Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EM*713",
+    "uniqueId": "",
+    "title": "Financial Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EM*715",
+    "uniqueId": "",
+    "title": "Strategy,Entrepren&Innovation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "EM*716",
+    "uniqueId": "",
+    "title": "Strat Imp&Cnslting Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EM*716",
+    "uniqueId": "",
+    "title": "Strat Imp/Cnslting Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EM*721",
+    "uniqueId": "",
+    "title": "Operations&Supply Chain Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EM*721",
+    "uniqueId": "",
+    "title": "Strategic Operations Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EM*750",
+    "uniqueId": "",
+    "title": "Deep Dive Elective",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "EM*750",
+    "uniqueId": "",
+    "title": "Deep Dive Elective I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EM*760",
+    "uniqueId": "",
+    "title": "Deep Dive Elective II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*762",
+    "uniqueId": "",
+    "title": "Power and Influence",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EM*763",
+    "uniqueId": "",
+    "title": "Special Topics in Exec Manage",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EM*763",
+    "uniqueId": "",
+    "title": "Innovation: Challenges & Opps",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EM*777",
+    "uniqueId": "",
+    "title": "Putting Values Into Action",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  }
+]

@@ -1,0 +1,1440 @@
+[
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Coronavirus Emp Data",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Tree's Defense Mechan",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Research Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Economic Crisis Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Stdy: Mng Frgn Ent Serv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Stdy: Hr Legal Select Proc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind:Sports Mgmt&Governance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind:Applied Resrch In HR Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Study: Sports Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind:Genertnl Diff Wrkplc:Eff",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*001",
+    "uniqueId": "",
+    "title": "Ind Study:Financial Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*100",
+    "uniqueId": "",
+    "title": "Introduction to Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MG*201",
+    "uniqueId": "",
+    "title": "Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "MG*201",
+    "uniqueId": "",
+    "title": "Organizational Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MG*201D",
+    "uniqueId": "",
+    "title": "Organizational Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MG*222",
+    "uniqueId": "",
+    "title": "Intro to Sustainable Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MG*300",
+    "uniqueId": "",
+    "title": "Intro Czech Business&Culture",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MG*304",
+    "uniqueId": "",
+    "title": "Managing Innov&Entrepreneur",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MG*305",
+    "uniqueId": "",
+    "title": "Managing Talent",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MG*306",
+    "uniqueId": "",
+    "title": "Managing Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MG*315",
+    "uniqueId": "",
+    "title": "International Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MG*333",
+    "uniqueId": "",
+    "title": "Global Strategy for Sustain",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "MG*371",
+    "uniqueId": "",
+    "title": "Global Sustain Bus Case Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MG*402",
+    "uniqueId": "",
+    "title": "Strategic Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "MG*402",
+    "uniqueId": "",
+    "title": "Prv Sty: Strategic Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MG*402",
+    "uniqueId": "",
+    "title": "Business Policy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "MG*403",
+    "uniqueId": "",
+    "title": "Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "MG*403",
+    "uniqueId": "",
+    "title": "Small Business Mgmt&Entrepren",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MG*404",
+    "uniqueId": "",
+    "title": "Managing Innovtn&Entreprenshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MG*405",
+    "uniqueId": "",
+    "title": "Managing Human Resources",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MG*406",
+    "uniqueId": "",
+    "title": "Managing Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MG*407",
+    "uniqueId": "",
+    "title": "Managemnt Consulting Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "MG*407",
+    "uniqueId": "",
+    "title": "Prv Sty: Mgmt Consul Practicu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MG*407",
+    "uniqueId": "",
+    "title": "Prv Sty:Mgmnt Consulting Prct",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MG*407",
+    "uniqueId": "",
+    "title": "Managing Corporate Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "MG*410",
+    "uniqueId": "",
+    "title": "Leadership in Organizations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MG*411",
+    "uniqueId": "",
+    "title": "Human Resources Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MG*412",
+    "uniqueId": "",
+    "title": "Leading Change",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MG*412",
+    "uniqueId": "",
+    "title": "Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MG*412",
+    "uniqueId": "",
+    "title": "Leadership & Decision-Making",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*415",
+    "uniqueId": "",
+    "title": "International Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Adv Bus Tech Glbl Worl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Adv Bus Tech Glbl World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Special Topic: ESG Report",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Special Topic: Emerging Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Management: ESG Report",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top:Emerging Technologies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tpc:Adv Bus Tech Glob Wrld",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top:Small Business Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:ESG Mgmt Sustain Report",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Spc Top:Emerging Technologies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Emerging Technologies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Trans of Glob Workforce",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top: Emerging Technologies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Czech Cult and Business",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top: Adv in Business Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tpc: Adv in Business Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Spec Top in Mgmt:Negotiations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top Mgmt: Negotiations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Prv Sty: Sports Law",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Adv in Bus Technologies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Prv Sty: Sp Top: Sports & Law",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Global Consulting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Spec Topic Mgt: Negotiations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Spc Top:Manage Groups & Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Global Collaborative Mg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Spec Top: Strategic Alliances",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Supply Chain Mgt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Strategic Alliances",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Managing Groups&Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Prv Sty:Haitian Orphan Proj",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Strategic Alliances",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top Mgmt: Spirit of Enterpr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Prv Sty Sp Tp:Managerial Lrng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Prv Sty Sp Tp:Dev Busnss Plan",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Negotiations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Social Entrepreneurship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Negotiations Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Mgt:Strategic Alliances",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Prv Sty:Prin Eth&Mgmt Coachng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Contemp Issues in HRM",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Project Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Emerging Issues in IB",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt:Social Entrepreshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top:Project Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt:Dark Side Ldrship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt:Managing Grps&Team",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt:Contemp Iss HRM",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt:Negotiations Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Prv Sty: Strategic Imple Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Contemp Issues HR Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Special Top: Negotiations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt:Intl Persp in Lead",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top:Contemp Iss in HR Mgnt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt: Power & Influence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top:Power and Influence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top: Adv Top Hum Res Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Ind Sty:Spec Top in Bus Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top: Social Capital & Entp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top Mgmt:Social Entrprnshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top Mgmt: Power & Influence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Special Topics: E-Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top: Power and Influence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top: Contemp Iss HR Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Ind:Spc Tpc Social Enterprise",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp: Comparative Ctry Analy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Persc Wrkpl Val",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Power and Influence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Special Topics in Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp:Opportunities&Challenge",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tp in Mgmt: E-Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Top Mgmt: New Venture Init",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tpc in Mgmt:E-Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tpc:Mgmt Div Domest&Intern",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tpc:Glb Pers Wkplc Values",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tpc:Power and Influence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*419",
+    "uniqueId": "",
+    "title": "Sp Tpc:Glob:Opport&Challenges",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MG*420",
+    "uniqueId": "",
+    "title": "Management Consulting Skills",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MG*429",
+    "uniqueId": "",
+    "title": "App Res Mgmt&Internatnl Bus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MG*429",
+    "uniqueId": "",
+    "title": "Priv Sty: Applied Research Mgt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*433",
+    "uniqueId": "",
+    "title": "Env, Soc, & Gov Reporting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MG*451",
+    "uniqueId": "",
+    "title": "Social Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MG*451",
+    "uniqueId": "",
+    "title": "Global Social Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "MG*451",
+    "uniqueId": "",
+    "title": "Social Capital & Entrprnshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "MG*452",
+    "uniqueId": "",
+    "title": "Power and Influence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "MG*499",
+    "uniqueId": "",
+    "title": "Management Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MG*499",
+    "uniqueId": "",
+    "title": "Int:Management Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MG*499",
+    "uniqueId": "",
+    "title": "Ind Study: Mgmt Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MG*499",
+    "uniqueId": "",
+    "title": "Mgmt Internshp:Legg Mason",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  }
+]

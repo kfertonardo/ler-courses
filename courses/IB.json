@@ -1,0 +1,1039 @@
+[
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Soc Med Use Emp Cont",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Allctng Intrn Clients",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Intr Business Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Globlztion Bdybuildng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Anlysis Czch Rep 1900",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sdy: Comp Anl Czh Rep Slov",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Intl Busines Europe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sdy: FDI&Gbl Soc Ent Init",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Span Bus in Glob Pers",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Special Topics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Security Global World",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind Study IB: Intl Intellig",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Inters in International Bus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind:Chile&Asian Pacif Bus/Cul",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*001",
+    "uniqueId": "",
+    "title": "Ind:Strenghtn Unionizing Asia",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*109",
+    "uniqueId": "",
+    "title": "Int Global Social Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "IB*282",
+    "uniqueId": "",
+    "title": "Global Environment of Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "IB*282",
+    "uniqueId": "",
+    "title": "International Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "IB*282",
+    "uniqueId": "",
+    "title": "Ind St:International Business",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*282",
+    "uniqueId": "",
+    "title": "Ind Study: Internatl Business",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*282D",
+    "uniqueId": "",
+    "title": "Global Environment of Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "IB*300",
+    "uniqueId": "",
+    "title": "Intro Czech Business&Culture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "IB*315",
+    "uniqueId": "",
+    "title": "International Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "IB*370",
+    "uniqueId": "",
+    "title": "Sp Tp:Adv Bus Tech Glbl World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "IB*370",
+    "uniqueId": "",
+    "title": "Sp Tp: Adv Bus Tech Glbl Worl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "IB*370",
+    "uniqueId": "",
+    "title": "Sp Tpc Int Bus: Emerging Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "IB*370",
+    "uniqueId": "",
+    "title": "Sp Tpc:Adv Bus Tech Glob Wrld",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "IB*370",
+    "uniqueId": "",
+    "title": "Sp Top:Emerging Technologies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "IB*370",
+    "uniqueId": "",
+    "title": "Sp Tp:ESG Mgmt Sustain Report",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "IB*371",
+    "uniqueId": "",
+    "title": "Global Sustain Bus Case Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "IB*372",
+    "uniqueId": "",
+    "title": "Cross Cultural Intr Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "IB*372",
+    "uniqueId": "",
+    "title": "Cross-Cultural Exchanges",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "IB*415",
+    "uniqueId": "",
+    "title": "International Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "IB*429",
+    "uniqueId": "",
+    "title": "Applied Res International Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "IB*429",
+    "uniqueId": "",
+    "title": "Prv Sty:App Res:Glbl Hlthcare",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "IB*429",
+    "uniqueId": "",
+    "title": "App Res Mgmt&Internatnl Bus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Top: Global Env of Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp: Czech Cult and Business",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Adv in Business Tech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Soc Entrepnshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc: Adv in Business Tech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Globl Social Entrepren",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Adv in Bus Technologies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Social Entrepren",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp: Global Consulting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp: Global Collaborative Mg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Spec Top: Strategic Alliances",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Supply Chain Mgt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Strategic Alliances",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Social Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Prv Sty:International Sports",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Labor Rights",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp IB:Strategic Alliances",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Prv Sty:Global Film Industry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp: Emerging Issues in IB",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:International Bus Law",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp IB:Social Entrepreneur",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Top:S Amer Inter Field Sty",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc in International Busin",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp IB:S Amer Bus Inst&Str",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt:Intl Persp in Lead",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Europe Bus Initiatives",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc: S Amer Bus Strategies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Emerg Issues Intl Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp: S.A. Bus Inst & Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc Emerging Iss Intl Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp IB:Sem Global Institut",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp: Global Institutions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Semnr in Global Institu",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Opportunity&Challenges",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Multntl Corp&Eco Dvlmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Ind:Business/Global, S E Asia",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Mgmt Div Dom&Internat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Sem in Global Institut",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Priv Sty: Asian Economic Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Glob:Opport&Challenges",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp:Readings in Int'l Econ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tp IB:Import&Export MGT",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Glb Pers Wkplc Values",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Sp Tpc:Global Institutions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*470",
+    "uniqueId": "",
+    "title": "Independent St:Globalization",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IB*471",
+    "uniqueId": "",
+    "title": "Cross-Cultural Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "IB*472",
+    "uniqueId": "",
+    "title": "Cross-Cultural Exchanges",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "IB*473",
+    "uniqueId": "",
+    "title": "Prv Sty:Stdy Global Stgy Alli",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "IB*473",
+    "uniqueId": "",
+    "title": "Ind Sty: Global Strat Alli",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "IB*482",
+    "uniqueId": "",
+    "title": "Global Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IB*482",
+    "uniqueId": "",
+    "title": "Priv Study: Global Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "IB*499",
+    "uniqueId": "",
+    "title": "Internat Business Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IB*499",
+    "uniqueId": "",
+    "title": "Int: ARD's NYC Branch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "IB*499",
+    "uniqueId": "",
+    "title": "International Business Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "IB*499",
+    "uniqueId": "",
+    "title": "Int'l Bus Internship: Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IB*499",
+    "uniqueId": "",
+    "title": "Int:Balt Council Foreign Affr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "courseNumber": "EL*699",
+    "uniqueId": "",
+    "title": "Opening Residency",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EL*700",
+    "uniqueId": "",
+    "title": "Bus Ethics&Corp Social Resp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*700",
+    "uniqueId": "",
+    "title": "Ethics & Social Responsibility",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*701",
+    "uniqueId": "",
+    "title": "Operations&Process Strategies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "EL*701",
+    "uniqueId": "",
+    "title": "Operations MG&Process Stratgs",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*701",
+    "uniqueId": "",
+    "title": "Rsk Assessment & Process Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EL*702",
+    "uniqueId": "",
+    "title": "Marketing Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EL*703",
+    "uniqueId": "",
+    "title": "Financial Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*703",
+    "uniqueId": "",
+    "title": "Financial Apps & Strategies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*703",
+    "uniqueId": "",
+    "title": "Financial Apps & Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EL*704",
+    "uniqueId": "",
+    "title": "Emerg Tech, Art Int, Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EL*704",
+    "uniqueId": "",
+    "title": "Emerging Tech&Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EL*704",
+    "uniqueId": "",
+    "title": "Info Tech&Analyt Comp Advant",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EL*704",
+    "uniqueId": "",
+    "title": "Strategic Info Systems&Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EL*704",
+    "uniqueId": "",
+    "title": "Info Systems&Technology Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EL*704",
+    "uniqueId": "",
+    "title": "Info & Tech Strategic Levers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*704",
+    "uniqueId": "",
+    "title": "Info & Tech for Managers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EL*704",
+    "uniqueId": "",
+    "title": "Info & Tech for Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EL*705",
+    "uniqueId": "",
+    "title": "Leading & Managing People",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*705",
+    "uniqueId": "",
+    "title": "Leadership and Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*706",
+    "uniqueId": "",
+    "title": "Accounting for Decision Making",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*706",
+    "uniqueId": "",
+    "title": "Accounting for Decision Makers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*706",
+    "uniqueId": "",
+    "title": "Accounting for Decision-Makers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EL*707",
+    "uniqueId": "",
+    "title": "Managerial Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EL*708",
+    "uniqueId": "",
+    "title": "New Governance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EL*709",
+    "uniqueId": "",
+    "title": "Strategic Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*709",
+    "uniqueId": "",
+    "title": "Business Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*710",
+    "uniqueId": "",
+    "title": "Globalization & Intl Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*710",
+    "uniqueId": "",
+    "title": "Globalization & Intl Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*710",
+    "uniqueId": "",
+    "title": "Globalization & Int Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EL*711",
+    "uniqueId": "",
+    "title": "Comm in Legal Reg Env of Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*711",
+    "uniqueId": "",
+    "title": "Entrepreneurship & Innovation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EL*712",
+    "uniqueId": "",
+    "title": "Sp Top:Advanced Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "EL*712",
+    "uniqueId": "",
+    "title": "Sp Top Adv Finance:Investment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EL*712",
+    "uniqueId": "",
+    "title": "Spc Tp Adv Finance:Investment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*712",
+    "uniqueId": "",
+    "title": "Sp Tp Adv Finance:Investments",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EL*712",
+    "uniqueId": "",
+    "title": "Special Topics in Adv Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EL*713",
+    "uniqueId": "",
+    "title": "Domestic Field Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EL*715",
+    "uniqueId": "",
+    "title": "Applied Business Statistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*715",
+    "uniqueId": "",
+    "title": "Internship I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EL*716",
+    "uniqueId": "",
+    "title": "Internship II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EL*717",
+    "uniqueId": "",
+    "title": "Emerging Leaders Sust Colloq",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EL*717",
+    "uniqueId": "",
+    "title": "Prv Sty:Emrg Lead Sust Colloq",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EL*718",
+    "uniqueId": "",
+    "title": "Closing Residency",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EL*719",
+    "uniqueId": "",
+    "title": "Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Spc Top Emerg Lead: Proj Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Top Emg Lead:Busn Communic",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Top:Enterprise Anlytics&BI",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Top: Leadership Innovation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Spc Tp Emerg Leader:Proj Mgt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Spc Top Emerg Leader:Bus Comm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp: Leadership Innovation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp:Entrpse Anly&Bus Intel",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp EL:Project Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp :Business Communication",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp:Ent Analytics&Bus Intel",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp:Em Ldrs:Ldrshp Innovatn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp ELMBA:Entrepreneurship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp EL:Entrepreneurship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp:Leadership Innovation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EL*720",
+    "uniqueId": "",
+    "title": "Sp Tp EL:Complxts Contmp Work",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EL*725",
+    "uniqueId": "",
+    "title": "Law, Ethics,&Social Responsib",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EL*775",
+    "uniqueId": "",
+    "title": "International Field Study",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EL*851",
+    "uniqueId": "",
+    "title": "Bus Intelligence&Data Mining",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  }
+]

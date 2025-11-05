@@ -1,0 +1,2279 @@
+[
+  {
+    "courseNumber": "SC*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Urban Anthropology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SC*001",
+    "uniqueId": "",
+    "title": "Ind. Stdy: Amer Stdy Capstone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SC*001",
+    "uniqueId": "",
+    "title": "Ind Study: Suicide in the Us",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SC*002",
+    "uniqueId": "",
+    "title": "Internship: Global Studies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SC*100",
+    "uniqueId": "",
+    "title": "Introduction to Sociology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*100D",
+    "uniqueId": "",
+    "title": "Introduction to Sociology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*101",
+    "uniqueId": "",
+    "title": "Self and Society",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*101D",
+    "uniqueId": "",
+    "title": "Self and Society",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SC*102",
+    "uniqueId": "",
+    "title": "Societies and Institutions",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*102D",
+    "uniqueId": "",
+    "title": "Societies and Institutions",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SC*103",
+    "uniqueId": "",
+    "title": "American Society",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*103D",
+    "uniqueId": "",
+    "title": "American Society",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SC*104",
+    "uniqueId": "",
+    "title": "Cultural Anthropology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*105",
+    "uniqueId": "",
+    "title": "Education in U.S. Society",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SC*106",
+    "uniqueId": "",
+    "title": "Health and Society",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SC*107",
+    "uniqueId": "",
+    "title": "Social Problems",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SC*201",
+    "uniqueId": "",
+    "title": "Self and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*201",
+    "uniqueId": "",
+    "title": "Prv Sty: Self and Society",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SC*201D",
+    "uniqueId": "",
+    "title": "Self and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*201D",
+    "uniqueId": "",
+    "title": "Prv Sty: Self and Society",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "SC*202",
+    "uniqueId": "",
+    "title": "Social Power and Social Change",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*202D",
+    "uniqueId": "",
+    "title": "Social Power and Social Change",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*203",
+    "uniqueId": "",
+    "title": "Globalization and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*203D",
+    "uniqueId": "",
+    "title": "Globalization and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*204",
+    "uniqueId": "",
+    "title": "The Family",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*204D",
+    "uniqueId": "",
+    "title": "The Family",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*205",
+    "uniqueId": "",
+    "title": "Education in U.S. Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*205",
+    "uniqueId": "",
+    "title": "Social Problems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SC*205D",
+    "uniqueId": "",
+    "title": "Education in U.S. Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*206",
+    "uniqueId": "",
+    "title": "Health and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*206",
+    "uniqueId": "",
+    "title": "Intro Soc Hlthcare&Profess",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SC*207",
+    "uniqueId": "",
+    "title": "Social Problems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*207",
+    "uniqueId": "",
+    "title": "Protest: Legacy of the Sixties",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SC*207D",
+    "uniqueId": "",
+    "title": "Social Problems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SC*209",
+    "uniqueId": "",
+    "title": "Cultural Anthropology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*209",
+    "uniqueId": "",
+    "title": "Sociology of the News",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "SC*209D",
+    "uniqueId": "",
+    "title": "Cultural Anthropology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SC*210",
+    "uniqueId": "",
+    "title": "Intro Gender&Sexualty Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SC*210",
+    "uniqueId": "",
+    "title": "Introduction to Gender Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SC*210D",
+    "uniqueId": "",
+    "title": "Intro Gender&Sexualty Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SC*210D",
+    "uniqueId": "",
+    "title": "Introduction to Gender Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SC*211",
+    "uniqueId": "",
+    "title": "Pol Comment in Popular Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SC*214",
+    "uniqueId": "",
+    "title": "Introduction to Social Work",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*220",
+    "uniqueId": "",
+    "title": "Sociology of Sexuality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SC*221",
+    "uniqueId": "",
+    "title": "Soc of Race, Class, Gender",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SC*221",
+    "uniqueId": "",
+    "title": "Sociology of Race Class Gender",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SC*222",
+    "uniqueId": "",
+    "title": "Sociology of Asian America",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SC*224",
+    "uniqueId": "",
+    "title": "Sociology of Religion",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SC*225",
+    "uniqueId": "",
+    "title": "Magic, Religion, & Witchcraft",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*226",
+    "uniqueId": "",
+    "title": "Sociology of Spirituality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SC*227",
+    "uniqueId": "",
+    "title": "Soc of Religion, Gender, & Sex",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SC*230",
+    "uniqueId": "",
+    "title": "Intro to Czech Culture & Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SC*230",
+    "uniqueId": "",
+    "title": "Intro to Czech Culture & Soc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SC*231",
+    "uniqueId": "",
+    "title": "Ind Sty Prague:Est Asia Czech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SC*233",
+    "uniqueId": "",
+    "title": "Juvenile Delinquency",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*260",
+    "uniqueId": "",
+    "title": "Intro to Criminal Justice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SC*266",
+    "uniqueId": "",
+    "title": "Soc of Cinema:Sex,Viol&Ident",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SC*276",
+    "uniqueId": "",
+    "title": "Human Health&the Environment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SC*277",
+    "uniqueId": "",
+    "title": "Sociology of Food & Foodscapes",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SC*309",
+    "uniqueId": "",
+    "title": "Child Welfare",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*310",
+    "uniqueId": "",
+    "title": "Sociology of Migration in U.S.",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SC*325",
+    "uniqueId": "",
+    "title": "Artificial Intel: Social Impli",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SC*330",
+    "uniqueId": "",
+    "title": "Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SC*331",
+    "uniqueId": "",
+    "title": "Deviance & Social Control",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SC*332",
+    "uniqueId": "",
+    "title": "Sociology of Crime & Criminals",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*333",
+    "uniqueId": "",
+    "title": "Juvenile Delinquency",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*334",
+    "uniqueId": "",
+    "title": "Sociology of Policing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SC*334",
+    "uniqueId": "",
+    "title": "Criminal Justice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "SC*339",
+    "uniqueId": "",
+    "title": "Conflict and Peace Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SC*339",
+    "uniqueId": "",
+    "title": "Conflict, War, and Peace",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "SC*339",
+    "uniqueId": "",
+    "title": "Conflict, War and Peace",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Sp Topic: Black Girlhood",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Sp Tp:Beyonce&Hot Girls Summr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Independent Study Project",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Ind Sty:Prnt Attitds Prgnancy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Ind Sty: Apocalyptic Terrorism",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Ind Study: Exp. of Czech Women",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Ind Sty Proj: Frankophone Afri",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Pri Sty: Blk Fem Exp Pre Wh Co",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Ind Study: African Amer in Sch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Ind Study Proj: GLBT Issues",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Individual Study Project",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Ind:Soc Eco Anlys Urbn Ineqty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "SC*340",
+    "uniqueId": "",
+    "title": "Ind St:Beh Med CNS,Emph Downs",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SC*341",
+    "uniqueId": "",
+    "title": "Ind Sty:Sex Ed College Studnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SC*341",
+    "uniqueId": "",
+    "title": "Ind Sty:LGBT Middle East N.Af",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SC*341",
+    "uniqueId": "",
+    "title": "Ind Sty:Sexl Miscond High Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SC*341",
+    "uniqueId": "",
+    "title": "Ind Sty:Sexual Miscondct H.Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SC*341",
+    "uniqueId": "",
+    "title": "Ind Study: Global Pol & Gender",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SC*342",
+    "uniqueId": "",
+    "title": "Social Research Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SC*343",
+    "uniqueId": "",
+    "title": "Survey Design and Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SC*343",
+    "uniqueId": "",
+    "title": "Prv Sty:Survy Design&Analysis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SC*344",
+    "uniqueId": "",
+    "title": "Qualitative Sociologic Inquiry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SC*344",
+    "uniqueId": "",
+    "title": "Qualitative Social Inquiry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SC*346",
+    "uniqueId": "",
+    "title": "Applied Anthropology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SC*348",
+    "uniqueId": "",
+    "title": "Sp Tp Peace & Just: Racial Jst",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SC*349",
+    "uniqueId": "",
+    "title": "Sp Tp: Health & Env Crisis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SC*349",
+    "uniqueId": "",
+    "title": "SpTp:Altrd States:Lgcy Substn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SC*349",
+    "uniqueId": "",
+    "title": "Sp Tp:Viol Agnst Black Bodies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SC*349",
+    "uniqueId": "",
+    "title": "Sp Tp:Mntal Hlth&Illnss in US",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SC*349",
+    "uniqueId": "",
+    "title": "Sp Tp:Hlth,Ill&Alter Medicine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SC*351",
+    "uniqueId": "",
+    "title": "Social Research Methods I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*352",
+    "uniqueId": "",
+    "title": "Social Research Methods I Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*353",
+    "uniqueId": "",
+    "title": "Social Research Methods II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*354",
+    "uniqueId": "",
+    "title": "Social Research Methods II Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*355",
+    "uniqueId": "",
+    "title": "Sociological Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*355",
+    "uniqueId": "",
+    "title": "Prv Stu: Sociological Theory",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SC*360",
+    "uniqueId": "",
+    "title": "Crit Anlys Crim Just Outcomes",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SC*361",
+    "uniqueId": "",
+    "title": "Social Inequality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*362",
+    "uniqueId": "",
+    "title": "Global Inequality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SC*363",
+    "uniqueId": "",
+    "title": "Topics: Global Immigration",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SC*363",
+    "uniqueId": "",
+    "title": "Sp Tp GS:Migration Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SC*363",
+    "uniqueId": "",
+    "title": "Sp Tp GS:Soc Crit Human Rghts",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SC*363",
+    "uniqueId": "",
+    "title": "Special Topics in Global Sty",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SC*364",
+    "uniqueId": "",
+    "title": "Soc of Hlth,Illness&Medicine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*364",
+    "uniqueId": "",
+    "title": "Psy Fctr Hlth, Illness, & Med",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SC*364",
+    "uniqueId": "",
+    "title": "Psy Factor Health Illness Medi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SC*364",
+    "uniqueId": "",
+    "title": "Priv Sty: Psy Fcty Hth Ill Med",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SC*365",
+    "uniqueId": "",
+    "title": "Nghborhd&Commty Urban America",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SC*365",
+    "uniqueId": "",
+    "title": "Nghborhd&Comuty Urban America",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "SC*366",
+    "uniqueId": "",
+    "title": "Sociology of Sexuality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SC*367",
+    "uniqueId": "",
+    "title": "Criminal Justice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SC*368",
+    "uniqueId": "",
+    "title": "Masculinities",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SC*369",
+    "uniqueId": "",
+    "title": "Mining Gap:Deter Ed Outcomes",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SC*370",
+    "uniqueId": "",
+    "title": "Population Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SC*371",
+    "uniqueId": "",
+    "title": "Soc of Serial&Mass Murder",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "SC*373",
+    "uniqueId": "",
+    "title": "Sociology of Human Rights",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SC*374",
+    "uniqueId": "",
+    "title": "Sociology of Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SC*375",
+    "uniqueId": "",
+    "title": "Political Sociology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SC*376",
+    "uniqueId": "",
+    "title": "Isrl-Palestine:Conf,Med,Peace",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SC*376",
+    "uniqueId": "",
+    "title": "Conflict Narr Israel-Palestine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SC*377",
+    "uniqueId": "",
+    "title": "Social Movements & Soc Protest",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SC*377",
+    "uniqueId": "",
+    "title": "Social Movements & Soc Change",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SC*377",
+    "uniqueId": "",
+    "title": "Social Change",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SC*378",
+    "uniqueId": "",
+    "title": "Islam and Politics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*378",
+    "uniqueId": "",
+    "title": "Islamic Social Movements",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*378",
+    "uniqueId": "",
+    "title": "Islamic Political Id&Activism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SC*380",
+    "uniqueId": "",
+    "title": "Sociological Inquiry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SC*380",
+    "uniqueId": "",
+    "title": "Social Research Applications",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SC*397",
+    "uniqueId": "",
+    "title": "Prv Sty:Gndr Sxlty Stds Cpstn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SC*397",
+    "uniqueId": "",
+    "title": "Gnder&Sexual Stdies Capstone",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*397",
+    "uniqueId": "",
+    "title": "Prv Sty:Gndr&Sexual Sty Cpstn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SC*397",
+    "uniqueId": "",
+    "title": "Cap:Gender,Peace,Just E Asia",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty: Sprvsd Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Prv Sty:Supervised Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Comm Engaged Rsrch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Aging&Sexuality",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty: Anomie Covid-19",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind St: Sociology of Devel",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Undrstd Camp Policing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Pos Dev&Acad Achiev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Pr Sty: Culture&Social Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Fld Exp Soc Wrk",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Crimin Fatalities Res",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Fibrous Dys&Qual Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Sociology of Agency",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Positive Deviance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Indstry&Prod Impa Afr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Soc of Everyday Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty: Soc of Everyday Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Prv Sty: Soc Impact Fibro Dysp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Race&Class in College",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Effects on Recidivism",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Assimiltn Refugees Am",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Amrcn Prolifc Killers",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Codes of Conduct",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty I:Psych Fctr Diabetes",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SC*398",
+    "uniqueId": "",
+    "title": "Ind Sty I:Race,SES,&Schl Clmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SC*399",
+    "uniqueId": "",
+    "title": "Indsty: Anomie&covid19",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SC*399",
+    "uniqueId": "",
+    "title": "Ind Sty: Indstrial & Impair",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*399",
+    "uniqueId": "",
+    "title": "Ind Sty:Semiotics:Sgns,Sym,&P",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*400",
+    "uniqueId": "",
+    "title": "Prv Sty:Ind Schlrshp Capstone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SC*400",
+    "uniqueId": "",
+    "title": "Intsp: Social Work Particum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SC*400",
+    "uniqueId": "",
+    "title": "Seminar:Generations&Institut",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SC*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Sem in Spec Topics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "SC*401",
+    "uniqueId": "",
+    "title": "Sociology Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "SC*401",
+    "uniqueId": "",
+    "title": "Int:Sociology Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SC*401",
+    "uniqueId": "",
+    "title": "Prv Sty: Sclgy Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SC*401",
+    "uniqueId": "",
+    "title": "Sociology Practicum&Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SC*402",
+    "uniqueId": "",
+    "title": "Soc Work Practicum & Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SC*403",
+    "uniqueId": "",
+    "title": "SumServe Practicum & Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SC*403",
+    "uniqueId": "",
+    "title": "Internship: Sumserve",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SC*405",
+    "uniqueId": "",
+    "title": "Sem: Sociolgy Mntl Hlth Illnes",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SC*410",
+    "uniqueId": "",
+    "title": "Sem:Soc Organ Everyday Life",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SC*410",
+    "uniqueId": "",
+    "title": "Prv Sty:Soc Org Everyday Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SC*415",
+    "uniqueId": "",
+    "title": "Sem: Qualitative Data Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "SC*420",
+    "uniqueId": "",
+    "title": "Sem:Social Constrct Opportuni",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SC*420",
+    "uniqueId": "",
+    "title": "Sem:Race,Cls&Soc Constrct Opp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "SC*420",
+    "uniqueId": "",
+    "title": "Sem:Soc Capital&Construct Opp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SC*421",
+    "uniqueId": "",
+    "title": "Sem:Race,Clss,Gender,Sexualty",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SC*421",
+    "uniqueId": "",
+    "title": "Sem:Race,Clss,Gender,&Sexulty",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SC*422",
+    "uniqueId": "",
+    "title": "Sem:Gender,Sexuality,&Capitsm",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SC*424",
+    "uniqueId": "",
+    "title": "Sem:Privilege&Inequality Edu",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SC*430",
+    "uniqueId": "",
+    "title": "Seminar: Gender and Justice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SC*434",
+    "uniqueId": "",
+    "title": "Seminar:Women & Deviance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SC*435",
+    "uniqueId": "",
+    "title": "Seminar: Forensic Sociology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SC*440",
+    "uniqueId": "",
+    "title": "Seminar: Global Sociology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SC*441",
+    "uniqueId": "",
+    "title": "Sem:Con&Recon in Divided Soc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*441",
+    "uniqueId": "",
+    "title": "Sem:Reconciliation&Justice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SC*442",
+    "uniqueId": "",
+    "title": "Food Fight: Inequality, Injust",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SC*448",
+    "uniqueId": "",
+    "title": "Sem: Analyze Race Class Gender",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SC*492",
+    "uniqueId": "",
+    "title": "African&African American Port",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SC*492",
+    "uniqueId": "",
+    "title": "Prv Sty:Afircn&Afri Amer Prt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SC*492",
+    "uniqueId": "",
+    "title": "Prv Sty:African&AfricanAmer",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SC*496",
+    "uniqueId": "",
+    "title": "Int:Environ Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SC*498",
+    "uniqueId": "",
+    "title": "Ind Sty: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SC*498",
+    "uniqueId": "",
+    "title": "Prv Sty: Covid-19 & Antic Crme",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SC*498",
+    "uniqueId": "",
+    "title": "Prv Sty:Forensic Stu Exper",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SC*498",
+    "uniqueId": "",
+    "title": "Int: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SC*498",
+    "uniqueId": "",
+    "title": "Prv Sty:Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SC*498",
+    "uniqueId": "",
+    "title": "Forensic Studies Experience",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  }
+]

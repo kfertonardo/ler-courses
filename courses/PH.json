@@ -1,0 +1,811 @@
+[
+  {
+    "courseNumber": "PH*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Physics Env Stu Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PH*005",
+    "uniqueId": "",
+    "title": "Electronics & Shop Techniques",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "PH*101",
+    "uniqueId": "",
+    "title": "Introductory Physics I w/ Lab",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "PH*101",
+    "uniqueId": "",
+    "title": "Introductory Physics I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PH*101",
+    "uniqueId": "",
+    "title": "Priv Study: Intro Physics I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PH*101",
+    "uniqueId": "",
+    "title": "Private:Intro To Physics I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PH*102",
+    "uniqueId": "",
+    "title": "Introductory Physics II w/Lab",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "PH*102",
+    "uniqueId": "",
+    "title": "Prv Sty:Intro Phys II w/Lab",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PH*102",
+    "uniqueId": "",
+    "title": "Introductory Physics II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PH*102",
+    "uniqueId": "",
+    "title": "Priv Study: Intro Physics II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PH*110",
+    "uniqueId": "",
+    "title": "Physical Science I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*111",
+    "uniqueId": "",
+    "title": "Physical Science II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*116",
+    "uniqueId": "",
+    "title": "Integrated Science I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "PH*117",
+    "uniqueId": "",
+    "title": "Integrated Science II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "PH*120",
+    "uniqueId": "",
+    "title": "Intro to the Universe",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PH*125",
+    "uniqueId": "",
+    "title": "Practical Meteorology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PH*132",
+    "uniqueId": "",
+    "title": "Nature:Mundane and Sacred",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PH*140",
+    "uniqueId": "",
+    "title": "Structure of the Solar System",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*141",
+    "uniqueId": "",
+    "title": "The Stellar Universe",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*150",
+    "uniqueId": "",
+    "title": "Energy and Environment",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PH*160",
+    "uniqueId": "",
+    "title": "Light and Color",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*165",
+    "uniqueId": "",
+    "title": "How Things Work",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PH*170",
+    "uniqueId": "",
+    "title": "Music and Sound",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PH*191",
+    "uniqueId": "",
+    "title": "Intro to Physics Research",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "PH*191",
+    "uniqueId": "",
+    "title": "Introductory Physics Lab I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PH*192",
+    "uniqueId": "",
+    "title": "Intro Physics Lab II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*200",
+    "uniqueId": "",
+    "title": "Opportunities in STEM",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "PH*200",
+    "uniqueId": "",
+    "title": "Prv Sty: Opprtnts in STEM",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PH*201",
+    "uniqueId": "",
+    "title": "General Physics I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*202",
+    "uniqueId": "",
+    "title": "General Physics II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*271",
+    "uniqueId": "",
+    "title": "Intro to Science Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "PH*291",
+    "uniqueId": "",
+    "title": "General Physics Lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*292",
+    "uniqueId": "",
+    "title": "General Physics Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*293",
+    "uniqueId": "",
+    "title": "Intermediate Laboratory I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*294",
+    "uniqueId": "",
+    "title": "Intermediate Laboratory II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*299",
+    "uniqueId": "",
+    "title": "Haig Scholars Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "PH*303",
+    "uniqueId": "",
+    "title": "Discovering Info in Data",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "PH*307",
+    "uniqueId": "",
+    "title": "Mathematical Methd in Physics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "PH*307",
+    "uniqueId": "",
+    "title": "Mathematical Meth in Physics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PH*307",
+    "uniqueId": "",
+    "title": "Waves and Fields",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PH*312",
+    "uniqueId": "",
+    "title": "Modern Physics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*312",
+    "uniqueId": "",
+    "title": "Priv Sty: Modern Physics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PH*316",
+    "uniqueId": "",
+    "title": "Classical Mechanics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*317",
+    "uniqueId": "",
+    "title": "Thermal Physics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*383",
+    "uniqueId": "",
+    "title": "Physics of Med&Human Body",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PH*384",
+    "uniqueId": "",
+    "title": "Waves&Physics of Medicine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Ind Sty: Grvttnl Lnsng: Hstry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Ind Sty: Adv Astronom Topics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Ind Proj Physic or Astronmy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Ind Sty: Studies in Sci Comm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Indep Proj Phys:Optical Spect",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Independent Study: Optics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Ind Sty:PH Med&Human Body II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Ind Sty:Cnstrct&Test Theremin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PH*388",
+    "uniqueId": "",
+    "title": "Independent Project in Physics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PH*391",
+    "uniqueId": "",
+    "title": "Prv Sty:Physics Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PH*391",
+    "uniqueId": "",
+    "title": "Physics Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PH*397",
+    "uniqueId": "",
+    "title": "Experimental Methods I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*397",
+    "uniqueId": "",
+    "title": "Prv Sty:Experimental Mthds I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PH*398",
+    "uniqueId": "",
+    "title": "Experimental Methods II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PH*415",
+    "uniqueId": "",
+    "title": "Quantum Mechanics I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PH*415",
+    "uniqueId": "",
+    "title": "Wave Mechanics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PH*416",
+    "uniqueId": "",
+    "title": "Quantum Mechanics II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "PH*417",
+    "uniqueId": "",
+    "title": "Electricity and Magnetism I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PH*417",
+    "uniqueId": "",
+    "title": "Electricity and Magnetism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PH*418",
+    "uniqueId": "",
+    "title": "Electricity and Magnetism II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "PH*450",
+    "uniqueId": "",
+    "title": "Quantum Mechanics II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PH*474",
+    "uniqueId": "",
+    "title": "Electricity and Magnetism II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PH*474",
+    "uniqueId": "",
+    "title": "Electrodynamics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PH*480",
+    "uniqueId": "",
+    "title": "Advanced Topics in Physics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PH*488",
+    "uniqueId": "",
+    "title": "Intro to Quantum Computing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PH*491",
+    "uniqueId": "",
+    "title": "Tech Innovtn&Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "PH*493",
+    "uniqueId": "",
+    "title": "Advanced Laboratory",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PH*493",
+    "uniqueId": "",
+    "title": "Advanced Laboratory I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PH*496",
+    "uniqueId": "",
+    "title": "Senior Honors Thesis II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  }
+]

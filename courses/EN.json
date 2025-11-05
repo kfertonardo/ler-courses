@@ -1,0 +1,4229 @@
+[
+  {
+    "courseNumber": "EN*001",
+    "uniqueId": "",
+    "title": "Independent Study in English",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EN*090",
+    "uniqueId": "",
+    "title": "English Internships (50 Hours)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EN*097",
+    "uniqueId": "",
+    "title": "Eng Intrn in Public Schools",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EN*098",
+    "uniqueId": "",
+    "title": "English Int in Private Sch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EN*099",
+    "uniqueId": "",
+    "title": "Eng Internships (150 Hours)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "EN*099",
+    "uniqueId": "",
+    "title": "English Internships",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*099",
+    "uniqueId": "",
+    "title": "Priv Sty: English Internships",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*099",
+    "uniqueId": "",
+    "title": "Internship: Pre-Law",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*099",
+    "uniqueId": "",
+    "title": "Internship in English",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*101",
+    "uniqueId": "",
+    "title": "The Art of Reading",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*101",
+    "uniqueId": "",
+    "title": "Understanding Literature",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*101D",
+    "uniqueId": "",
+    "title": "The Art of Reading",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*101D",
+    "uniqueId": "",
+    "title": "Understanding Literature",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*180",
+    "uniqueId": "",
+    "title": "Intro to Film & Literature",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Sp Tp: Cold War Literature",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writ:Env Ptry:Grn Rman",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writ:Lit & Climte Chng",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers: American Litera",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers: Nature Poetry",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers:Nature Poetry",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Sp Tp: Env Poetry: Green Roman",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers: Imagining Natn",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers Sp Top: Humor",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Sp Tp: Fable&Embod Genre&Gend",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Sp Tp: Detective Fiction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers Sp Tp: Humor",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Maj Writ Sp Tp: Harry Potter",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers: Humor",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers Sp Topic: Humor",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Maj Wrt:Cross-Cult Writers",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers: World Literatur",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Maj Writ:Italy Amer&Brit Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Majwrit: Italy Amer & Brit Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Maj Writ:italy Amer & Brit Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Maj Writ: Italy Amer&brit Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Maj Writ:italy Amer&brit Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Maj Writ: Italy Am & Brit Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Maj Writ:Italy Am & Brit Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers: Ital in Eng Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*200",
+    "uniqueId": "",
+    "title": "Major Writers: Special Topics",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*200D",
+    "uniqueId": "",
+    "title": "Maj Wrt:Cross-Cult Writers",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*201",
+    "uniqueId": "",
+    "title": "Major Writers: Monsters",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*201",
+    "uniqueId": "",
+    "title": "Monsters and the Monstrous",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*201",
+    "uniqueId": "",
+    "title": "Major Writers: English Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*202",
+    "uniqueId": "",
+    "title": "Texts and Contexts",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*203",
+    "uniqueId": "",
+    "title": "Major Writers: American Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*203",
+    "uniqueId": "",
+    "title": "Prv Sty: Maj Writers Amer Lit",
+    "tags": [
+      "2ndLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EN*203D",
+    "uniqueId": "",
+    "title": "Major Writers: American Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "EN*204",
+    "uniqueId": "",
+    "title": "Brit&Am Lit:Com Age Tme Confl",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "EN*205",
+    "uniqueId": "",
+    "title": "Major Writers: Shakespeare",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*206",
+    "uniqueId": "",
+    "title": "Maj Writ:Gender,Cult&Madness",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*206",
+    "uniqueId": "",
+    "title": "Major Writ:Gnder,Cult&Madness",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*208",
+    "uniqueId": "",
+    "title": "Black Women Writers",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*210D",
+    "uniqueId": "",
+    "title": "Medieval Africa",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*211",
+    "uniqueId": "",
+    "title": "Major Writers:Classical Myth",
+    "tags": [
+      "2ndLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*212",
+    "uniqueId": "",
+    "title": "Major Writers:Classical Epics",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EN*213",
+    "uniqueId": "",
+    "title": "Major Writers:Greek Drama",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*214",
+    "uniqueId": "",
+    "title": "Major Writers: Ancient Novel",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*214",
+    "uniqueId": "",
+    "title": "The Ancient Novel",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*214",
+    "uniqueId": "",
+    "title": "The Ancient World",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*215",
+    "uniqueId": "",
+    "title": "Spc Tpc: London Theatre",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*215",
+    "uniqueId": "",
+    "title": "Lit Onstage, Yesterday & Today",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*218",
+    "uniqueId": "",
+    "title": "Major Writers: Golden Age Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "EN*218",
+    "uniqueId": "",
+    "title": "Major Writers:\"Golden Age\"Rome",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*220",
+    "uniqueId": "",
+    "title": "Comic Books as Lit, TV&Cinema",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*261",
+    "uniqueId": "",
+    "title": "Literatures of Asia",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*265",
+    "uniqueId": "",
+    "title": "Justice&Hope:Writing the U.S.",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*265D",
+    "uniqueId": "",
+    "title": "Justice&Hope:Writing the U.S.",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*266D",
+    "uniqueId": "",
+    "title": "U.S. Lit:Imagining the Nation",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*280",
+    "uniqueId": "",
+    "title": "Growing Up Modern",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*281",
+    "uniqueId": "",
+    "title": "Introduction to Film",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*291",
+    "uniqueId": "",
+    "title": "Race, Law, and American Lit",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*300",
+    "uniqueId": "",
+    "title": "English Lit Hist before 1800",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EN*300",
+    "uniqueId": "",
+    "title": "English Lit Hist Before 1800",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*301",
+    "uniqueId": "",
+    "title": "Chaucer",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*303",
+    "uniqueId": "",
+    "title": "Tpcs in Itali Infl Maj Eng Wri",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EN*306",
+    "uniqueId": "",
+    "title": "Sp Top:Reinventing Mid Ages",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "EN*306",
+    "uniqueId": "",
+    "title": "Top in Med Lit: Pop Med Genres",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem: Reinvent the Middle Ages",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem Medv Lit: War, Chiv, Crus",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem Medieval Lit:Medv Passion",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem: War, Chivalry, Crusade",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem Med Lit: Medieval Passion",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem:Reinventing Middle Ages",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Seminar in Medieval Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem Med Lit:Reinvting Mid Age",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem Med Lit:Medieval Heroism",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Sem: Reinventing Middles Ages",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Seminar: Medieval Passion",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*307",
+    "uniqueId": "",
+    "title": "Seminar:Medieval Passion",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*308",
+    "uniqueId": "",
+    "title": "Crt Meth:Subl,Beaut&Pictursq",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EN*310",
+    "uniqueId": "",
+    "title": "Shakespeare:Hist&Tragedies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*310",
+    "uniqueId": "",
+    "title": "Shakespeare I",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*311",
+    "uniqueId": "",
+    "title": "Shakespeare:Comedies&Romances",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*311",
+    "uniqueId": "",
+    "title": "Prv Sty: Shkspr:Comds&Romancs",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*311",
+    "uniqueId": "",
+    "title": "Shakespeare II",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*313",
+    "uniqueId": "",
+    "title": "Renaissance Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EN*317",
+    "uniqueId": "",
+    "title": "Sem: Renaissance Comedy",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*317",
+    "uniqueId": "",
+    "title": "Sem: Shakespeare's Rivals",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*317",
+    "uniqueId": "",
+    "title": "Sem Ren Lit: Shakespeare's Riv",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*320",
+    "uniqueId": "",
+    "title": "Milton",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*322",
+    "uniqueId": "",
+    "title": "17th Century Poetry & Prose",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*327",
+    "uniqueId": "",
+    "title": "Sem:Early Mod Women Writing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*327",
+    "uniqueId": "",
+    "title": "Sem:Early Modern Prison Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*327",
+    "uniqueId": "",
+    "title": "Sem Seventeenth-Cent Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*327",
+    "uniqueId": "",
+    "title": "Sem:Transatlantic Women Wrtrs",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*327",
+    "uniqueId": "",
+    "title": "Sem 17th Cent Lit: John Donne",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*328",
+    "uniqueId": "",
+    "title": "Sem:Early Mod Catholic Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "EN*328",
+    "uniqueId": "",
+    "title": "Sem:Ely Mod Cath Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*328",
+    "uniqueId": "",
+    "title": "Seminar Lit & Cath (Pre-1800)",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*330",
+    "uniqueId": "",
+    "title": "The Long 18th Century",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EN*334",
+    "uniqueId": "",
+    "title": "Novels of the 18th Century",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EN*335",
+    "uniqueId": "",
+    "title": "Tp 18th Cent: Utopia & Empires",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Seminar: 18th-C Caribbean Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem:Jane Austen's Economics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem 18th-Cent Lit:Jane Austen",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem:Pirates,Slaves, & Witches",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem: Good & Evil in 18th-Cen",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem:Women in 18th Cen Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem 18th-Cnt Lit: Jane Austen",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem 18th-Ct Lit:Humor&Satire",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem:Jane Austen&Cntmporaries",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem 18C Lit: Comedy & Satire",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Seminar: Jane Austen",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem 18thC Lit:Humor&Satire",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem 18th-C Lit:Jane Austen",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem 18-C:Humor Long 18th C",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem 18TH-CEN Lit: Jane Austen",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem: Jane Austen & Her World",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*337",
+    "uniqueId": "",
+    "title": "Sem:Poetry&Drama 18th Cent",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*338",
+    "uniqueId": "",
+    "title": "Ind Sty: Month in Mtns",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*338",
+    "uniqueId": "",
+    "title": "Ind Sty:Erly Hist DeCussack",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*338",
+    "uniqueId": "",
+    "title": "Ind Sty:Evolution Gawain",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*338",
+    "uniqueId": "",
+    "title": "Ind Sty:Read Rmntsm Frnch Rev",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*338",
+    "uniqueId": "",
+    "title": "Ind Sty:Troilus&Criseyde Leg",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*338",
+    "uniqueId": "",
+    "title": "Ind Sty:Crit The Dream Vision",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*338",
+    "uniqueId": "",
+    "title": "Intensive Ind Study (Pre-1830)",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*339",
+    "uniqueId": "",
+    "title": "Sem:Life&Lit in Queer 18th C",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*339",
+    "uniqueId": "",
+    "title": "Sem: Extraordinary Bodies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*339",
+    "uniqueId": "",
+    "title": "Sem:Erly Mod Disability Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*339",
+    "uniqueId": "",
+    "title": "Sem:Lt Tp Bfr 1800:Jane Austn",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*339",
+    "uniqueId": "",
+    "title": "Sem Lit Topics before 1800",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*339",
+    "uniqueId": "",
+    "title": "Sem Lit: Art Biblical Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*339",
+    "uniqueId": "",
+    "title": "Sem Lit:The Mirror of Love",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*344",
+    "uniqueId": "",
+    "title": "Book, Edition, Archive",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "EN*345",
+    "uniqueId": "",
+    "title": "Literary Criticism and Theory",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*345",
+    "uniqueId": "",
+    "title": "Ind:Literary Criticism&Theory",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*346",
+    "uniqueId": "",
+    "title": "Seminar: Revising the Classics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*346",
+    "uniqueId": "",
+    "title": "Seminar: Humor Studies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EN*346",
+    "uniqueId": "",
+    "title": "Sem:Lit Critc&Thy:Banned Book",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*346",
+    "uniqueId": "",
+    "title": "Sem Literary Criticism&Theory",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*346",
+    "uniqueId": "",
+    "title": "Sem:Critical Mth:Banned Books",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*346",
+    "uniqueId": "",
+    "title": "Sem:Lit&Criticism 1710-1820",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*346D",
+    "uniqueId": "",
+    "title": "Seminar: Humor Studies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*347",
+    "uniqueId": "",
+    "title": "Sem:Romanticism&Gothic Trad",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "EN*347",
+    "uniqueId": "",
+    "title": "Sem Romantic Lit:Rom Revoltns",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "EN*347",
+    "uniqueId": "",
+    "title": "Sem:excess&the Monstrous",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*347",
+    "uniqueId": "",
+    "title": "Seminar Romantic Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*347",
+    "uniqueId": "",
+    "title": "Sem Rom Lit:Excess&Monstrous",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*347",
+    "uniqueId": "",
+    "title": "Sem: Excess and the Monstrous",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*350",
+    "uniqueId": "",
+    "title": "The Romantic Movement",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*350",
+    "uniqueId": "",
+    "title": "Priv Study: Romantic Movement",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*354",
+    "uniqueId": "",
+    "title": "Sp Top: The Gothic Tradition",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*354",
+    "uniqueId": "",
+    "title": "Top in Romantic: The Gothic",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*354",
+    "uniqueId": "",
+    "title": "Top Romantic:Gothic Tradition",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*354",
+    "uniqueId": "",
+    "title": "Top in Rom:Vision&Visionary",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*354",
+    "uniqueId": "",
+    "title": "Top in Romantic: Romantic Obj",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*354",
+    "uniqueId": "",
+    "title": "Tpc:Vision and the Visionary",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*357",
+    "uniqueId": "",
+    "title": "Philosophy and Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*360",
+    "uniqueId": "",
+    "title": "The Nineteenth-Ctry Eng Novel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "EN*360",
+    "uniqueId": "",
+    "title": "Nineteenth-Century Eng Novels",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*361",
+    "uniqueId": "",
+    "title": "Tp in Vict Lit: The Bront\u00ebs",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*361",
+    "uniqueId": "",
+    "title": "Tp Victorn Lit: Novel to Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*361",
+    "uniqueId": "",
+    "title": "Sp Tp:Vict Crme Mystry Dectct",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EN*361",
+    "uniqueId": "",
+    "title": "Top Vic:Brontes-Wild At Heart",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*361",
+    "uniqueId": "",
+    "title": "Sp Top:Victrn Crime,Mstry&Det",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*361",
+    "uniqueId": "",
+    "title": "Tp Victorian Lit:Protest&Prog",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*361",
+    "uniqueId": "",
+    "title": "Topics Vic Lit:Bronte Sisters",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*361",
+    "uniqueId": "",
+    "title": "Top Vic Lit:Crime,Myst, Detec",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*362",
+    "uniqueId": "",
+    "title": "Victorian Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EN*362",
+    "uniqueId": "",
+    "title": "Vict Poet:Madmen,Sts&Sinners",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*363",
+    "uniqueId": "",
+    "title": "Sem: Brontes Wild at Heart",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*363",
+    "uniqueId": "",
+    "title": "Sem:19th C Novels into Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*363",
+    "uniqueId": "",
+    "title": "Sem:Bronte Sis:Wild at Heart",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*363",
+    "uniqueId": "",
+    "title": "Sem:19th C Crime,Myst,Detect",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*364",
+    "uniqueId": "",
+    "title": "Lit&Catholic Imagin(Post-1800)",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EN*364",
+    "uniqueId": "",
+    "title": "Lit/Cath Imagin:Tolkien/Lewis",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*365",
+    "uniqueId": "",
+    "title": "Sem:Chesterton, Lewis,Tolkien",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*365",
+    "uniqueId": "",
+    "title": "Sem:Chesterton,Lewis,Tolkien",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*365",
+    "uniqueId": "",
+    "title": "Sem:Chesterton,Lewis,&Tolkien",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*366",
+    "uniqueId": "",
+    "title": "Amer Lit to First World War",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*367",
+    "uniqueId": "",
+    "title": "Tp Am Lit: Hidden Queerness",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*367",
+    "uniqueId": "",
+    "title": "Tp American Lit:First Gen Wtg",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*367",
+    "uniqueId": "",
+    "title": "Top:Amer Fem Public Intellect",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*367",
+    "uniqueId": "",
+    "title": "Topics Am Lit: Civil War Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*367",
+    "uniqueId": "",
+    "title": "Top Am Lit:Civil War&Am Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*367",
+    "uniqueId": "",
+    "title": "Top Am Lit: American Novel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*367",
+    "uniqueId": "",
+    "title": "Topics in American Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*367D",
+    "uniqueId": "",
+    "title": "Topics Am Lit: Civil War Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "EN*368",
+    "uniqueId": "",
+    "title": "Crtcl Mthdlgs(Pst-1800):Humor",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EN*368",
+    "uniqueId": "",
+    "title": "Crtcl Mthdlgs: Banned Books",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*368",
+    "uniqueId": "",
+    "title": "Crtcl Mthdlgs:Banned Books",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*369",
+    "uniqueId": "",
+    "title": "The Novel in America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "EN*370",
+    "uniqueId": "",
+    "title": "Modern Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*370",
+    "uniqueId": "",
+    "title": "Modern British&Amer Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*371",
+    "uniqueId": "",
+    "title": "Contemporary Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EN*371",
+    "uniqueId": "",
+    "title": "Post Mod British & Am Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*372",
+    "uniqueId": "",
+    "title": "Modern Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*372",
+    "uniqueId": "",
+    "title": "Mod British & American Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*373",
+    "uniqueId": "",
+    "title": "African American Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EN*373D",
+    "uniqueId": "",
+    "title": "African American Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EN*374",
+    "uniqueId": "",
+    "title": "Modern Drama",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*375",
+    "uniqueId": "",
+    "title": "Tp Afr-Am Lit:Blck Arts Mvmt",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*375",
+    "uniqueId": "",
+    "title": "Tp Afr-Amer Lit: Harlem Renais",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*375",
+    "uniqueId": "",
+    "title": "Tp Af-Am Lit: Black Arts Mvmt",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*376",
+    "uniqueId": "",
+    "title": "Postcolonial Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "EN*376",
+    "uniqueId": "",
+    "title": "Post-Colonial Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*377",
+    "uniqueId": "",
+    "title": "Top Twent Cent Lit: Bohemianis",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*377",
+    "uniqueId": "",
+    "title": "Tp 20th Cent Lit:Lit&Mdrn Img",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*377",
+    "uniqueId": "",
+    "title": "Tp 20C Lit:Poetry in Public",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*377",
+    "uniqueId": "",
+    "title": "Top:Literature of the City",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*378D",
+    "uniqueId": "",
+    "title": "Race&Ethn in Amer Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EN*379",
+    "uniqueId": "",
+    "title": "Gender in American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "EN*379D",
+    "uniqueId": "",
+    "title": "Gender in American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EN*380",
+    "uniqueId": "",
+    "title": "Nrdvrsty: Mntl Dsbl Lit&Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*380",
+    "uniqueId": "",
+    "title": "History of Narrative Cinema",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*380D",
+    "uniqueId": "",
+    "title": "Nrdvrsty: Mntl Dsbl Lit&Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*381",
+    "uniqueId": "",
+    "title": "Sem: Law&Just in Afr-Amer Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*381",
+    "uniqueId": "",
+    "title": "Fiction and Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Tp Lit Film: Animation & Liter",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Top Lit & Film:19th-C Novels",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Tpcs:Adapt:Film,Fict,Authshp",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Top in Lit & Film:Neurodivsty",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Tp Lit&Film:1960s England",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Top Lit&Film:Film Animation",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Top Lit&Film:Shades of Black",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Eng Swings:Lit,Film&Cul 1960",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*382",
+    "uniqueId": "",
+    "title": "Tpc:Crit Approaches to Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*383",
+    "uniqueId": "",
+    "title": "Sem: James Joyce & Ulysses",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*383",
+    "uniqueId": "",
+    "title": "Sem Mod Lit: Poetry in Public",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*383",
+    "uniqueId": "",
+    "title": "Sem in Modern Lit:James Joyce",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*383",
+    "uniqueId": "",
+    "title": "Sem Modern Lit:Bohemianism",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*383",
+    "uniqueId": "",
+    "title": "Sem Mod Lit:Plays of Stoppard",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*383",
+    "uniqueId": "",
+    "title": "Sem in Mod Lit: Drama",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*383",
+    "uniqueId": "",
+    "title": "Sem:Hist&Memory in 20th C Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*384",
+    "uniqueId": "",
+    "title": "Tp Postcolonial Lit:Homelands",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "EN*384",
+    "uniqueId": "",
+    "title": "Topic Postcolonial Lit:Travel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*384",
+    "uniqueId": "",
+    "title": "Top in Postcol Lit: Travel Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*384D",
+    "uniqueId": "",
+    "title": "Topic Postcolonial Lit:Travel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "EN*384D",
+    "uniqueId": "",
+    "title": "Top in Postcol Lit: Travel Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*385",
+    "uniqueId": "",
+    "title": "Sem Postcolonial:Travel Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "EN*385",
+    "uniqueId": "",
+    "title": "Sem Pstcolonial Lit:Homelands",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*385",
+    "uniqueId": "",
+    "title": "Sem Post Col Lit: Travel Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*385D",
+    "uniqueId": "",
+    "title": "Sem Post Col Lit: Travel Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem: Adapt - Fiction and Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem:Alfred Hitchcock",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Seminar: Film Animation",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem Lit&Flm Pst-1800:Neurodiv",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem:19thC Novels into Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem:Film Noir&Postwar America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem Lt&Flm(Pt-1800):Animation",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem:Cinm of Alfred Hitchcock",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem in Lit&Film:Fiction&Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem Lit&Film:19C Eng Novels",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem Lit: Berlin to Hollywood",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*386",
+    "uniqueId": "",
+    "title": "Sem: Cinema of Hitchcock",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*387",
+    "uniqueId": "",
+    "title": "Sem: 21st C Literature&Time",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*387",
+    "uniqueId": "",
+    "title": "Seminar: At Home in the World",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*387",
+    "uniqueId": "",
+    "title": "Sem: 21st Century Lit & Time",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*387",
+    "uniqueId": "",
+    "title": "Sem Cont Lit: Imagin Apocalyps",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*387",
+    "uniqueId": "",
+    "title": "Sem: 21st Cent Lit and Time",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*387",
+    "uniqueId": "",
+    "title": "Sem Post-Mod Lit: Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*387",
+    "uniqueId": "",
+    "title": "Sem:Century Literature:Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*387",
+    "uniqueId": "",
+    "title": "Sem:Post Mod Poetry 20th C Lt",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*387D",
+    "uniqueId": "",
+    "title": "Sem: 21st C Literature&Time",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*388",
+    "uniqueId": "",
+    "title": "Sem:Asian/Pacific U.S. Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*388",
+    "uniqueId": "",
+    "title": "Sem Multiethnic American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*388",
+    "uniqueId": "",
+    "title": "Sem Mltieth Lit:James Baldwin",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*388",
+    "uniqueId": "",
+    "title": "Seminar: Impersonating Race",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*388D",
+    "uniqueId": "",
+    "title": "Sem:Asian/Pacific U.S. Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*388D",
+    "uniqueId": "",
+    "title": "Sem Multiethnic American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*388D",
+    "uniqueId": "",
+    "title": "Sem Mltieth Lit:James Baldwin",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*389",
+    "uniqueId": "",
+    "title": "Sem:Read/Write Wmn 1890-1920",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "EN*389",
+    "uniqueId": "",
+    "title": "Seminar in Literature&Gender",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*389",
+    "uniqueId": "",
+    "title": "Seminar in Literature& Gender",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*390",
+    "uniqueId": "",
+    "title": "Lit of U.S.-Mexico Border",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*390D",
+    "uniqueId": "",
+    "title": "Lit of U.S.-Mexico Border",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EN*391",
+    "uniqueId": "",
+    "title": "Topic: Race,Law&American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*391",
+    "uniqueId": "",
+    "title": "Pry Sty: Tps Multicul US Lit",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*391",
+    "uniqueId": "",
+    "title": "Top:Lit of US/Mexico Border",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*391",
+    "uniqueId": "",
+    "title": "Amr West Art and Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*392",
+    "uniqueId": "",
+    "title": "Sp Top:U.S & Caribbean Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*392",
+    "uniqueId": "",
+    "title": "Top:Crosscurnt US & Carib Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*397",
+    "uniqueId": "",
+    "title": "Sem Amer Lit: Feminist Lives",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*397",
+    "uniqueId": "",
+    "title": "Seminar: Early American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*397",
+    "uniqueId": "",
+    "title": "Seminar: Literature of Jazz",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*397",
+    "uniqueId": "",
+    "title": "Sem: Henry James&Evo of Novel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*397",
+    "uniqueId": "",
+    "title": "Sem:The Book in America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*397",
+    "uniqueId": "",
+    "title": "Sem:Henry James & Evol Novel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind St: His Det Fic&Vic Crime",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Intens Indep Study (post-1800)",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Epcs&Cntmp Bard Trad",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Imgn Justce Blck Lit",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty: History of Animation",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Digital Hum&the WLCB",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty: Lit Crit Pst Col Afrc",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty:James Joyce's Ulysses",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Auteurism&Amer Cinema",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty:Wall Street Poetry",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Prv Stu:Lit Crit:Theory&Pract",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Study: Oscar Wilde & Ramon",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Intens Indep Study (Post-1800)",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Study: Struc of Worlds",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty: Read Psotmodern Cult",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Stdy 20th Cent Am Fiction",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Intens Ind Stdy: Paradise Lost",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Inten Ind Sty: Cntmp Eng Lit",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Ind Sty: Rdg Otherwise",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Intensive Independent Study",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*398",
+    "uniqueId": "",
+    "title": "Independent Study",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*399",
+    "uniqueId": "",
+    "title": "Seminar: Neurodiversity",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "EN*399",
+    "uniqueId": "",
+    "title": "Sem:Contmp Rewrit Canon Texts",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*399",
+    "uniqueId": "",
+    "title": "Sem:James Joyce's Ulysses",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*399",
+    "uniqueId": "",
+    "title": "Sem Lit Top:Visualizing 1890s",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*399",
+    "uniqueId": "",
+    "title": "Sem after 1800: Lit of Jazz",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*399",
+    "uniqueId": "",
+    "title": "Sem Lit aft 1800: Henry James",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*399",
+    "uniqueId": "",
+    "title": "Seminar: Narcissistic Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*399",
+    "uniqueId": "",
+    "title": "Sem:Blue Notes-Lit of Jazz",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*400",
+    "uniqueId": "",
+    "title": "Aperio Sem:Baltimore Jazz His",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EN*400",
+    "uniqueId": "",
+    "title": "Aperio Sem: Measr for Measr",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*405",
+    "uniqueId": "",
+    "title": "Ind Sty: Fict Amer Demo",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Cap Proj Amer Studies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*405",
+    "uniqueId": "",
+    "title": "Prv Sty:Capst Proj Amer Study",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*405",
+    "uniqueId": "",
+    "title": "Prv Sty:Capstone Amer Studies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*405",
+    "uniqueId": "",
+    "title": "Priv Sty:Cap Proj AmerStudies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*405",
+    "uniqueId": "",
+    "title": "Capstone Proj Amer Studies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*407",
+    "uniqueId": "",
+    "title": "Seminar in Medieval Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Honors Sem:England Swings",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sen Hon Sem: the American West",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "SR Hon Sem:Imagined Innocents",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sem:Myth of Great Amer Novel",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sr HN Sem:Bohemian in Mod Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Senior HN Sem:England Swings",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "SR Honor Sem:Books Conscience",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Senr Honors Sem:Humor Studies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Snior Honor Sem:Collaboration",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sr. Honors Sem: Dickens&Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sen Hnrs Sem:Mod Classic Rev",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sen Hon Sem: Read the Wst Land",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Senior Hon Sem: Henry James",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sr Hn Sem:Lit of Amer West",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sen Hon Sem: Read the World",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sen Hnrs Sem:19C Novels&Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sr HN Sem:Mod Clsic Revisions",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EN*409",
+    "uniqueId": "",
+    "title": "Sr Hn Sem:The American Renais",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EN*410",
+    "uniqueId": "",
+    "title": "Senior Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EN*410",
+    "uniqueId": "",
+    "title": "Prv Sty:Senior Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*410",
+    "uniqueId": "",
+    "title": "Priv Sty: Sen Hon Eng Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*410",
+    "uniqueId": "",
+    "title": "Priv Sty: Senior Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EN*410",
+    "uniqueId": "",
+    "title": "Priv Study: Sen Honors Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*410",
+    "uniqueId": "",
+    "title": "Priv Study: Senior Hnrs Thesis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EN*417",
+    "uniqueId": "",
+    "title": "Seminar: Shakespeare and Race",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "EN*430",
+    "uniqueId": "",
+    "title": "Honors Seminar Pre-1800",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*432",
+    "uniqueId": "",
+    "title": "Seminar in Early American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*437",
+    "uniqueId": "",
+    "title": "Seminar: 18th-C Caribbean Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*439",
+    "uniqueId": "",
+    "title": "Sem in Lit Topics before 1800",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*439",
+    "uniqueId": "",
+    "title": "Sem:Life&Lit in Queer 18th C",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*446",
+    "uniqueId": "",
+    "title": "Seminar:Revising the Classics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*446",
+    "uniqueId": "",
+    "title": "Seminar: Humor Studies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*446D",
+    "uniqueId": "",
+    "title": "Seminar: Humor Studies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*463",
+    "uniqueId": "",
+    "title": "Sem in Victorian Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*463",
+    "uniqueId": "",
+    "title": "Sem: Brontes Wild at Heart",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*470",
+    "uniqueId": "",
+    "title": "Honors Sem: 20th&21st Century",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*470",
+    "uniqueId": "",
+    "title": "Honors Sem: Child Narrators",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*481",
+    "uniqueId": "",
+    "title": "Sem in African American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*483",
+    "uniqueId": "",
+    "title": "Sem in Modern Lit: James Joyce",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*483",
+    "uniqueId": "",
+    "title": "Seminar: Radicals&Pretenders",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*483",
+    "uniqueId": "",
+    "title": "Sem: Modern Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "EN*483",
+    "uniqueId": "",
+    "title": "Sem in Modern Literature",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EN*486",
+    "uniqueId": "",
+    "title": "Sem in Film&Lit: Hitchcock",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*487",
+    "uniqueId": "",
+    "title": "Sem in Contemp Lit: Apocalypse",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*487",
+    "uniqueId": "",
+    "title": "Sem Contemp Lit: Poetry in Pub",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EN*487",
+    "uniqueId": "",
+    "title": "Sem: 21st C Literature&Time",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*487",
+    "uniqueId": "",
+    "title": "Seminar: At Home in the World",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*487D",
+    "uniqueId": "",
+    "title": "Sem: 21st C Literature&Time",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*488",
+    "uniqueId": "",
+    "title": "Sem Multiethnic American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EN*488",
+    "uniqueId": "",
+    "title": "Sem:Asian/Pacific U.S. Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*488D",
+    "uniqueId": "",
+    "title": "Sem:Asian/Pacific U.S. Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EN*497",
+    "uniqueId": "",
+    "title": "Sem in American Literatures",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EN*497",
+    "uniqueId": "",
+    "title": "Seminar: Early American Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EN*499D",
+    "uniqueId": "",
+    "title": "Sem Lit Tp 1800: Banned Books",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EN*499D",
+    "uniqueId": "",
+    "title": "Sem: Banned Books",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  }
+]

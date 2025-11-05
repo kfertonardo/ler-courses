@@ -1,0 +1,232 @@
+[
+  {
+    "courseNumber": "CI*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Spclzd Chinese Sty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "CI*001",
+    "uniqueId": "",
+    "title": "Ind:Adv Grammer&Conversation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CI*101",
+    "uniqueId": "",
+    "title": "Chinese I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CI*101",
+    "uniqueId": "",
+    "title": "Prv Sty: Chinese l",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CI*101",
+    "uniqueId": "",
+    "title": "Prv Sty:Chinese I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "CI*102",
+    "uniqueId": "",
+    "title": "Chinese II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CI*102",
+    "uniqueId": "",
+    "title": "Private Study: Chinese II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CI*103",
+    "uniqueId": "",
+    "title": "Chinese III",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CI*103",
+    "uniqueId": "",
+    "title": "Prv Sty: Chinese III",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "CI*104",
+    "uniqueId": "",
+    "title": "Chinese IV",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CI*104",
+    "uniqueId": "",
+    "title": "Prv Sty: Chinese IV",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "CI*104D",
+    "uniqueId": "",
+    "title": "Chinese IV",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CI*201",
+    "uniqueId": "",
+    "title": "Chinese Composition&Conversat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "CI*201",
+    "uniqueId": "",
+    "title": "Chinese Composition Conversat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CI*202",
+    "uniqueId": "",
+    "title": "Adv Chinese Compos & Conversat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "CI*303",
+    "uniqueId": "",
+    "title": "Selcted Readings Mod Chinese",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "CI*303",
+    "uniqueId": "",
+    "title": "Selcted Readings Mod Chinese I",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "CI*304",
+    "uniqueId": "",
+    "title": "Intro Formal Written Chinese",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CI*304",
+    "uniqueId": "",
+    "title": "Prv Sty:Intro Frml Wrttn Chin",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CI*304",
+    "uniqueId": "",
+    "title": "Prv Sty: Intro Frml Wrttn Chi",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "CI*304",
+    "uniqueId": "",
+    "title": "Selcted Readngs Mod Chinese II",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  }
+]

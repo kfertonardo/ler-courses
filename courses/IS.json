@@ -1,0 +1,475 @@
+[
+  {
+    "courseNumber": "IS*109",
+    "uniqueId": "",
+    "title": "Virtual Worlds",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "IS*251",
+    "uniqueId": "",
+    "title": "Data Analytics&Inform Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "IS*251",
+    "uniqueId": "",
+    "title": "Information Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "IS*251",
+    "uniqueId": "",
+    "title": "Foundations of Electronic Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "IS*251",
+    "uniqueId": "",
+    "title": "Management Information Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IS*253",
+    "uniqueId": "",
+    "title": "Presentations & Communication",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "IS*253",
+    "uniqueId": "",
+    "title": "Presentations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IS*352",
+    "uniqueId": "",
+    "title": "Intro to Programming in Python",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IS*352",
+    "uniqueId": "",
+    "title": "Applications Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "IS*352",
+    "uniqueId": "",
+    "title": "Applications Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IS*353",
+    "uniqueId": "",
+    "title": "Data Mgmt&Database Systems",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "IS*353",
+    "uniqueId": "",
+    "title": "Database Mgmt&Database System",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "IS*353",
+    "uniqueId": "",
+    "title": "Database Design & Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IS*353",
+    "uniqueId": "",
+    "title": "Database Design&Implementation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IS*355",
+    "uniqueId": "",
+    "title": "Cyber Security and Networks",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IS*355",
+    "uniqueId": "",
+    "title": "Networks and Cyber Security",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "IS*355",
+    "uniqueId": "",
+    "title": "Networks and Security",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "IS*355",
+    "uniqueId": "",
+    "title": "Telecommunications&Networking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "IS*355",
+    "uniqueId": "",
+    "title": "Telcommunications&Networking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "IS*355",
+    "uniqueId": "",
+    "title": "Telecommunications",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IS*356",
+    "uniqueId": "",
+    "title": "Info Tech for Financial Serv",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "IS*356",
+    "uniqueId": "",
+    "title": "Info Tech for Financial Servic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "IS*358",
+    "uniqueId": "",
+    "title": "Business Intellig&Data Mining",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "IS*358",
+    "uniqueId": "",
+    "title": "Business Intelligence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "IS*358",
+    "uniqueId": "",
+    "title": "Electronic Bus&Cmptve Advntge",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "IS*360",
+    "uniqueId": "",
+    "title": "Management of Global Info Tech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "IS*420",
+    "uniqueId": "",
+    "title": "Artificial Intelligence in Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "IS*452",
+    "uniqueId": "",
+    "title": "Special Topics: Climate Analyt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "IS*452",
+    "uniqueId": "",
+    "title": "Sp Tp:Artfcl Intll(AI) in Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "IS*452",
+    "uniqueId": "",
+    "title": "Decision Support Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "IS*453",
+    "uniqueId": "",
+    "title": "Info Sys Analysis & Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IS*457",
+    "uniqueId": "",
+    "title": "Special Topics in Java",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "IS*458",
+    "uniqueId": "",
+    "title": "Web-Enabled Entrepreneur Proj",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "IS*458",
+    "uniqueId": "",
+    "title": "Web-Enabled Applications",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "IS*458",
+    "uniqueId": "",
+    "title": "Web Technologies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "IS*459",
+    "uniqueId": "",
+    "title": "Prv Sty:Res BlkChn Bank Accts",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IS*459",
+    "uniqueId": "",
+    "title": "Prv Sty:Res Freemium Data",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "IS*460",
+    "uniqueId": "",
+    "title": "Data Visualization",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "IS*470",
+    "uniqueId": "",
+    "title": "Sports Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "IS*499",
+    "uniqueId": "",
+    "title": "Internship in Info Systems",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "IS*499",
+    "uniqueId": "",
+    "title": "Int:Internship Info Systems",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "IS*499",
+    "uniqueId": "",
+    "title": "Internship: Info Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "IS*499",
+    "uniqueId": "",
+    "title": "Internship in MIS",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "IS*499",
+    "uniqueId": "",
+    "title": "Ind Sty: MIS Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  }
+]

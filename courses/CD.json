@@ -1,0 +1,84 @@
+[
+  {
+    "courseNumber": "CD*329",
+    "uniqueId": "",
+    "title": "Advanced Radio Production",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CD*352",
+    "uniqueId": "",
+    "title": "Graphics II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CD*371",
+    "uniqueId": "",
+    "title": "Internet & Interact Media II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CD*372",
+    "uniqueId": "",
+    "title": "Studio TV and TV News",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CD*376",
+    "uniqueId": "",
+    "title": "Typographical Form & Function",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CD*401",
+    "uniqueId": "",
+    "title": "Private Study: Graphics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CD*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Sem in Digital Media",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CD*401",
+    "uniqueId": "",
+    "title": "Senior Seminar Digital Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  }
+]

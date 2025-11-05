@@ -1,0 +1,774 @@
+[
+  {
+    "courseNumber": "CL*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Archlgy of Rome Empir",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CL*001",
+    "uniqueId": "",
+    "title": "Ind: Adv Grammer&Converation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CL*090",
+    "uniqueId": "",
+    "title": "Classics Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CL*201",
+    "uniqueId": "",
+    "title": "Male&Female Greece&Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CL*205",
+    "uniqueId": "",
+    "title": "Gladiators and Olympians",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CL*205",
+    "uniqueId": "",
+    "title": "Cruel&Viol:Spt&Athlet Anc Wrld",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "CL*210",
+    "uniqueId": "",
+    "title": "Medical Terminology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CL*211",
+    "uniqueId": "",
+    "title": "Classical Mythology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CL*212",
+    "uniqueId": "",
+    "title": "The Classical Epics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CL*213",
+    "uniqueId": "",
+    "title": "Greek Drama",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CL*214",
+    "uniqueId": "",
+    "title": "The Ancient Novel",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "CL*218",
+    "uniqueId": "",
+    "title": "The Golden Age of Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "CL*218",
+    "uniqueId": "",
+    "title": "The \"Golden Age\" of Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CL*223",
+    "uniqueId": "",
+    "title": "History and Storytelling Bible",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CL*224",
+    "uniqueId": "",
+    "title": "Gospels&Earliest Churches",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*225",
+    "uniqueId": "",
+    "title": "Biographical Tales of Bible",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "CL*226",
+    "uniqueId": "",
+    "title": "Women in Christian Tradition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CL*227",
+    "uniqueId": "",
+    "title": "Comm Script Philo to Facebook",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CL*228",
+    "uniqueId": "",
+    "title": "Peace and War in Ancient Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CL*229",
+    "uniqueId": "",
+    "title": "Images of God in Scripture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*232",
+    "uniqueId": "",
+    "title": "Food, Hunger, and the Bible",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CL*241",
+    "uniqueId": "",
+    "title": "Western Art:Paleolit to Gthic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "CL*241",
+    "uniqueId": "",
+    "title": "Srvy of Art:Paleolit to Gthic",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CL*241",
+    "uniqueId": "",
+    "title": "Srvy of Art:Paleolit to Gothic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CL*246",
+    "uniqueId": "",
+    "title": "Who Is Jesus?",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*254",
+    "uniqueId": "",
+    "title": "History of Christmas",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CL*257",
+    "uniqueId": "",
+    "title": "The Golden Age of Athens",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CL*258",
+    "uniqueId": "",
+    "title": "Disasters of Ancient Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CL*260",
+    "uniqueId": "",
+    "title": "Christmas",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CL*270",
+    "uniqueId": "",
+    "title": "Greece and Rome on Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "CL*280",
+    "uniqueId": "",
+    "title": "Mythology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CL*290D",
+    "uniqueId": "",
+    "title": "East Meets West",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "CL*291",
+    "uniqueId": "",
+    "title": "The Gladiator",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "CL*291D",
+    "uniqueId": "",
+    "title": "The Gladiator",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*292D",
+    "uniqueId": "",
+    "title": "Race,Conq&Id Anc N Africa",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "CL*300",
+    "uniqueId": "",
+    "title": "Death of the Roman Republic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CL*301",
+    "uniqueId": "",
+    "title": "Church and the Roman Empire",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "CL*302",
+    "uniqueId": "",
+    "title": "City of Rome",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "CL*303",
+    "uniqueId": "",
+    "title": "Ethics:Anc,Mod&Christian Appr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "CL*307",
+    "uniqueId": "",
+    "title": "Peace and War in Ancient Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CL*308",
+    "uniqueId": "",
+    "title": "Art of Ancient Greece",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "CL*309",
+    "uniqueId": "",
+    "title": "Art of Ancient Rome",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CL*312",
+    "uniqueId": "",
+    "title": "History of Ancient Greece",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "CL*313",
+    "uniqueId": "",
+    "title": "History of Christmas",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CL*314",
+    "uniqueId": "",
+    "title": "History of the Roman Empire",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "CL*318",
+    "uniqueId": "",
+    "title": "Greek and Roman Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "CL*322",
+    "uniqueId": "",
+    "title": "Gladiators & Roman Spectacles",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*324",
+    "uniqueId": "",
+    "title": "Sem:Persecut Chrstns Roman Wld",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CL*326",
+    "uniqueId": "",
+    "title": "The Golden Age of Athens",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CL*327",
+    "uniqueId": "",
+    "title": "Disasters of Ancient Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*329",
+    "uniqueId": "",
+    "title": "Women in Greece and Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CL*334",
+    "uniqueId": "",
+    "title": "Roman Private Life",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CL*335",
+    "uniqueId": "",
+    "title": "Intro Theology of St Augustine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*337",
+    "uniqueId": "",
+    "title": "The Multicultural Roman Empire",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CL*337D",
+    "uniqueId": "",
+    "title": "The Multicultural Roman Empire",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "CL*339",
+    "uniqueId": "",
+    "title": "Fall Two Emprs:Rome&Byzantium",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*340",
+    "uniqueId": "",
+    "title": "Biblical Hebrew I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "CL*342",
+    "uniqueId": "",
+    "title": "Biblical Hebrew III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "CL*343",
+    "uniqueId": "",
+    "title": "Biblical Hebrew IV",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "CL*347",
+    "uniqueId": "",
+    "title": "Jesus and the Gospels",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "CL*349",
+    "uniqueId": "",
+    "title": "Lat Jes Drama&Phil Peace&War",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "CL*350",
+    "uniqueId": "",
+    "title": "Prophets and Peacemakers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "CL*353",
+    "uniqueId": "",
+    "title": "Sp Top in Gospels: Beatitudes",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CL*360",
+    "uniqueId": "",
+    "title": "Ind Sty: Rdngs in Greek Prose",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CL*366",
+    "uniqueId": "",
+    "title": "Studies in Plato",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "CL*376",
+    "uniqueId": "",
+    "title": "Self, Society, and Revenge",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "CL*380",
+    "uniqueId": "",
+    "title": "Platonic Political Philosophy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CL*381",
+    "uniqueId": "",
+    "title": "Aristotelian Political Phil",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CL*388",
+    "uniqueId": "",
+    "title": "Socratic Political Philosophy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CL*390",
+    "uniqueId": "",
+    "title": "Polit Challenge of Socrates",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "CL*392",
+    "uniqueId": "",
+    "title": "Magic in Ancient Greece and Ro",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "CL*450",
+    "uniqueId": "",
+    "title": "Senior Honors Thesis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "CL*450",
+    "uniqueId": "",
+    "title": "Prv Sty:Senior Honors Thesis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "CL*450",
+    "uniqueId": "",
+    "title": "Ind Sty: Neo Lat 20th Cen Poet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CL*450",
+    "uniqueId": "",
+    "title": "Pri Sty:Neo-Latin 20th Ce Poe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  }
+]

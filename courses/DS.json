@@ -1,0 +1,254 @@
+[
+  {
+    "courseNumber": "DS*303",
+    "uniqueId": "",
+    "title": "Discovering Info in Data",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "DS*496",
+    "uniqueId": "",
+    "title": "Ethical Data Science Capstone",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "DS*496",
+    "uniqueId": "",
+    "title": "Prv Sty:Ethcl Data Sci Cpstne",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "DS*496",
+    "uniqueId": "",
+    "title": "Prv Sty: Ethical Data Sci Cap",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "DS*510",
+    "uniqueId": "",
+    "title": "Applied Business Statistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "DS*730",
+    "uniqueId": "",
+    "title": "Introduction to Data Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "DS*730",
+    "uniqueId": "",
+    "title": "Business Anlytcs&Strg Dec Mkg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "DS*736",
+    "uniqueId": "",
+    "title": "Data Visualization Decs Makin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "DS*739",
+    "uniqueId": "",
+    "title": "Data Mgmt&Database Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "DS*759",
+    "uniqueId": "",
+    "title": "Sp Tp Data Sci: Location Anly",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "DS*759",
+    "uniqueId": "",
+    "title": "Topics: Sports Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "DS*759",
+    "uniqueId": "",
+    "title": "Sp Tp Data Sci: Loc Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "DS*759",
+    "uniqueId": "",
+    "title": "Spc Top: Location Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "DS*759",
+    "uniqueId": "",
+    "title": "Ind Sty Sports Analytics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "DS*759",
+    "uniqueId": "",
+    "title": "Spec Topic:Location Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "DS*795",
+    "uniqueId": "",
+    "title": "Data Science Project Design",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "DS*795",
+    "uniqueId": "",
+    "title": "Prv Sty:Data Sci Proj Design",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "DS*795",
+    "uniqueId": "",
+    "title": "Prv Sty:Data Sci Proj Dsgn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "DS*795",
+    "uniqueId": "",
+    "title": "Prv Sty: Data Sci Proj Design",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "DS*796",
+    "uniqueId": "",
+    "title": "Data Science Project",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "DS*796",
+    "uniqueId": "",
+    "title": "Prv Sty:Data Science Project",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "DS*851",
+    "uniqueId": "",
+    "title": "Applied Machine Learning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "DS*851",
+    "uniqueId": "",
+    "title": "Bus Intelligence&Data Mining",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 25
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "courseNumber": "AB*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Arabc Compos Conv II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "AB*101",
+    "uniqueId": "",
+    "title": "Arabic I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "AB*102",
+    "uniqueId": "",
+    "title": "Arabic II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "AB*103",
+    "uniqueId": "",
+    "title": "Arabic III",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "AB*104",
+    "uniqueId": "",
+    "title": "Arabic IV",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "AB*104D",
+    "uniqueId": "",
+    "title": "Arabic IV",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AB*201",
+    "uniqueId": "",
+    "title": "Arabic Compositn&Conversation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "AB*201",
+    "uniqueId": "",
+    "title": "Prv Sty: Arabic Comp and Conv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  }
+]

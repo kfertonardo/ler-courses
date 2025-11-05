@@ -1,0 +1,43 @@
+[
+  {
+    "courseNumber": "EDCT*602",
+    "uniqueId": "",
+    "title": "Deep Dive National Board Cert",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EDCT*603",
+    "uniqueId": "",
+    "title": "Differentiated Instruction",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EDCT*604",
+    "uniqueId": "",
+    "title": "Demo Content Knwldge in Class",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EDCT*605",
+    "uniqueId": "",
+    "title": "Effective&Reflect Practitione",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  }
+]

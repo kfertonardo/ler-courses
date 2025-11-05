@@ -1,0 +1,5423 @@
+[
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Biologicl Anthroplgy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Genet Bias Healthcare",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Biology Research V",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Biology Research IV",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Hlth Disp Skin Cancer",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Scientific Writing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Medical Microbiology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Exam of Early Embalm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Dentistry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Physical Therapy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Hyperbaric Oxygen",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intern:Physical Ther Field Ex",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship:Physical Therapy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int: Practical Prac Dentistry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Independ Sty: Neurophysiology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int:Physical Therapy Field Ex",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int:N.I.C.U. Johns Hopkins H",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Dental Medicine",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intnshp:Prac Exp in Dentistry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Internal Medicine",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Animal Husbandry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Study:Research in Biology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intern:Sinai Hospital P.A.",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intnsp:PA Patient Interaction",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship:Neurogenetics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int:Pediatric Emergency Dept",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Independent Study:Acupuncture",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Agricul Subsds&Hlth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship:Baby Basics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int:U.S. Medical Device Reg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internshp:Physician Shadowing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intrnshp:Endocrinology Rsrch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intshp: Physic Thrpy Fld Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int: Keeper Assistant",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intshp: Joint Diseases",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Study: Avian Biology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Veterinary Medicine",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int: Emergency Medical Tech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int: Forensic Patho Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Veterinary Med",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: St Joseph Hospital",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intshp: Thoracic Surgery UMD",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Pharmacy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Modulation MacRo Func",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Oceanography",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Biology Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Primate Enrichment",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Independent Study in Biology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int: Clinical Exp in Phy Thrpy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Mod Mac Fun Green Tea",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intern Stu: Vetinary Clinic",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intshp: Surgery Intern Spca",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Study: Mod MacRophage Func",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intshp: Fld Res Prim Biology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intshp: Avicult Bal Nat Aquar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Macro Func Nat Prod",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Dental Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Dental Intshp Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Bio Resear: Biofilms",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Immunology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Study: Gene of Cherubism",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Aquarium",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Study: Id of Phen Genes",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Health Care Volun",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship: Project Health",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Study: Global Pub Hlth Res",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Molecular Cloning",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Ind Study: Outpatient Chemo",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int: Health Care for Homeless",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int:American Cancer Society",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intern: Marine Animal Rescue",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Int:Neocrtical Intrneuron Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship:Molecular Biology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Internship in Cardiac Surgery",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*001",
+    "uniqueId": "",
+    "title": "Intshp:Medical Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Int:Health&Medicine Practices",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Int:Fld Exp Vascular Surgery",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Int:National Aquarium Intshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Int:Optometry Practice",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Internship: Physical Therapy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Internship: Physicians Assist",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Intrnshp:Occupational Therapy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Internship:Clinical Res Sinai",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*002",
+    "uniqueId": "",
+    "title": "Internship:Retinal Surgery",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*007",
+    "uniqueId": "",
+    "title": "STiNTS-Pro for Biology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "BL*100",
+    "uniqueId": "",
+    "title": "Insects in Our World",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*101",
+    "uniqueId": "",
+    "title": "Intro Forensic Science w/ Lab",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*101",
+    "uniqueId": "",
+    "title": "Intro to Forensic Science",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*103",
+    "uniqueId": "",
+    "title": "Microbes&Man:Good, Bad, &Ugly",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "BL*104",
+    "uniqueId": "",
+    "title": "Twisted Planet:Gbl Iss Biol",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*104D",
+    "uniqueId": "",
+    "title": "Twisted Planet:Gbl Iss Biol",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*105",
+    "uniqueId": "",
+    "title": "Intro to Anatomy & Physiology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*106",
+    "uniqueId": "",
+    "title": "Science of Life",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*107",
+    "uniqueId": "",
+    "title": "Life on the Edge",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "BL*109",
+    "uniqueId": "",
+    "title": "Modern Marvels of Biotechnolg",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*110",
+    "uniqueId": "",
+    "title": "Intro to Forensic Science",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BL*111",
+    "uniqueId": "",
+    "title": "Environmental Biology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*113",
+    "uniqueId": "",
+    "title": "Human Biology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*114",
+    "uniqueId": "",
+    "title": "Biology: A Human Approach",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*115",
+    "uniqueId": "",
+    "title": "Bio,Evolution,&Human Nature",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*116",
+    "uniqueId": "",
+    "title": "Chesapeake Bay Environment",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*117",
+    "uniqueId": "",
+    "title": "Beans&Bugs:Food Prodtn Impltn",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*118",
+    "uniqueId": "",
+    "title": "Intro Cellular& Molecular Bio",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*119",
+    "uniqueId": "",
+    "title": "Intro Cell/Molecular Bio Lab",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*120",
+    "uniqueId": "",
+    "title": "Food:Environment&Human Impact",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "BL*120",
+    "uniqueId": "",
+    "title": "Loaves and Fishes",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*121",
+    "uniqueId": "",
+    "title": "Organismal Biology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*122",
+    "uniqueId": "",
+    "title": "Ecology, Evolution & Diversity",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*123",
+    "uniqueId": "",
+    "title": "Cellular & Molecular Biology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*124",
+    "uniqueId": "",
+    "title": "Process of Science",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*124",
+    "uniqueId": "",
+    "title": "Process of Science I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*125",
+    "uniqueId": "",
+    "title": "Process of Science II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*126",
+    "uniqueId": "",
+    "title": "Organismal Biology Lab",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*150",
+    "uniqueId": "",
+    "title": "Foundations of Biology I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*151",
+    "uniqueId": "",
+    "title": "Foundations of Biology I Lab",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*152",
+    "uniqueId": "",
+    "title": "Foundations of Biology II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*153",
+    "uniqueId": "",
+    "title": "Foundations of Biology II Lab",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*154",
+    "uniqueId": "",
+    "title": "Foundations of Biology III",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*155",
+    "uniqueId": "",
+    "title": "Foundations of Biology III Lab",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*188",
+    "uniqueId": "",
+    "title": "Med Humnt: Vis Arts & Hlth Sci",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BL*201",
+    "uniqueId": "",
+    "title": "Ecology, Evol & Biodiversity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*201",
+    "uniqueId": "",
+    "title": "Ecology, Evolution & Diversity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*202",
+    "uniqueId": "",
+    "title": "Process Sci&Eco,Evo,&Biod Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "BL*202",
+    "uniqueId": "",
+    "title": "Ecology, Evoltn&Biodvrsty Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*206",
+    "uniqueId": "",
+    "title": "Human Anatomy and Physiology I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*207",
+    "uniqueId": "",
+    "title": "Human Anatomy and Physio Lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*207",
+    "uniqueId": "",
+    "title": "Human Anatomy and Physio Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*208",
+    "uniqueId": "",
+    "title": "Human Anatomy & Physiology II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*209",
+    "uniqueId": "",
+    "title": "Human Anatomy & Physio Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*210",
+    "uniqueId": "",
+    "title": "Intro to Human Nutrition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*220",
+    "uniqueId": "",
+    "title": "Natural History of MD Species",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "BL*222",
+    "uniqueId": "",
+    "title": "Aquatic Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*223",
+    "uniqueId": "",
+    "title": "Aquatic Biology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*230",
+    "uniqueId": "",
+    "title": "Avian Biology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BL*230",
+    "uniqueId": "",
+    "title": "Avian Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*231",
+    "uniqueId": "",
+    "title": "Avian Biology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*240",
+    "uniqueId": "",
+    "title": "Invertebrate Zoology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*241",
+    "uniqueId": "",
+    "title": "Invertebrate Zoology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*250",
+    "uniqueId": "",
+    "title": "General Entomology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*250",
+    "uniqueId": "",
+    "title": "General Entomology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*251",
+    "uniqueId": "",
+    "title": "Forensic Entomology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BL*255",
+    "uniqueId": "",
+    "title": "Intro to Biomedical Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "BL*260",
+    "uniqueId": "",
+    "title": "Vertebrate Morphology w/Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*260",
+    "uniqueId": "",
+    "title": "Vertebrate Morphology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*262",
+    "uniqueId": "",
+    "title": "Vertebrate Morphology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*270",
+    "uniqueId": "",
+    "title": "Ecology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "BL*270",
+    "uniqueId": "",
+    "title": "Ecology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*271",
+    "uniqueId": "",
+    "title": "Ecology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*276",
+    "uniqueId": "",
+    "title": "Human Health&the Environment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "BL*280",
+    "uniqueId": "",
+    "title": "General Genetics With Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*281",
+    "uniqueId": "",
+    "title": "General Genetics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*290",
+    "uniqueId": "",
+    "title": "Insect Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*299",
+    "uniqueId": "",
+    "title": "Exp Ecos:The Crl Reef Belize",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*301",
+    "uniqueId": "",
+    "title": "Vertebrate Anatomy with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "BL*302",
+    "uniqueId": "",
+    "title": "Ecology of the Burren",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "BL*303",
+    "uniqueId": "",
+    "title": "Natural&Cult Hist of Burren",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*305",
+    "uniqueId": "",
+    "title": "Plant Ecology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*305",
+    "uniqueId": "",
+    "title": "Plant Ecology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*307",
+    "uniqueId": "",
+    "title": "Plant Ecology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*310",
+    "uniqueId": "",
+    "title": "Botany with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*310",
+    "uniqueId": "",
+    "title": "Botany",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*311",
+    "uniqueId": "",
+    "title": "Research Meth:Plant Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "BL*315",
+    "uniqueId": "",
+    "title": "Bnch to Bed:Tran Sci to Care",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "BL*316",
+    "uniqueId": "",
+    "title": "Comparative Physiology w/Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*316",
+    "uniqueId": "",
+    "title": "Comparative Physiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*317",
+    "uniqueId": "",
+    "title": "Comparative Physiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "BL*318",
+    "uniqueId": "",
+    "title": "Comparative Physiology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*321",
+    "uniqueId": "",
+    "title": "Synthetic Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "BL*321",
+    "uniqueId": "",
+    "title": "Recombinant DNA Technology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*322",
+    "uniqueId": "",
+    "title": "Synthetic Biology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BL*324",
+    "uniqueId": "",
+    "title": "Subs Abuse&Effect in Adolesc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*326",
+    "uniqueId": "",
+    "title": "Cell Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*330",
+    "uniqueId": "",
+    "title": "The Biology of Sleep",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*330",
+    "uniqueId": "",
+    "title": "The Science of Sleep",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*332",
+    "uniqueId": "",
+    "title": "Microbiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*334",
+    "uniqueId": "",
+    "title": "Microbiology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*335",
+    "uniqueId": "",
+    "title": "Microbiology and Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*341",
+    "uniqueId": "",
+    "title": "Molecular Genetics with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*341",
+    "uniqueId": "",
+    "title": "Molecular Genetics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*342",
+    "uniqueId": "",
+    "title": "Molecular Genetics Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*343",
+    "uniqueId": "",
+    "title": "Molecular Genetics w/Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BL*346",
+    "uniqueId": "",
+    "title": "Plant-Animal Interactions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*347",
+    "uniqueId": "",
+    "title": "Plant-Animal Interactions Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*350",
+    "uniqueId": "",
+    "title": "Biology of Mammals with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*350",
+    "uniqueId": "",
+    "title": "Biology of Mammals",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*351",
+    "uniqueId": "",
+    "title": "Forensic Entomology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "BL*351",
+    "uniqueId": "",
+    "title": "Prv Sty:Forensic Entomology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*352",
+    "uniqueId": "",
+    "title": "Biology of Mammals Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*355",
+    "uniqueId": "",
+    "title": "Forensic Biology with Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "BL*355",
+    "uniqueId": "",
+    "title": "Prv Sty:Forensic Biol w/ Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*356",
+    "uniqueId": "",
+    "title": "Biological Forensics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*356",
+    "uniqueId": "",
+    "title": "Eukaryotic Genetics&Human Dise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*357",
+    "uniqueId": "",
+    "title": "Biological Forensic Laboratory",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*361",
+    "uniqueId": "",
+    "title": "Plant Physiology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*361",
+    "uniqueId": "",
+    "title": "Plant Physiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*361",
+    "uniqueId": "",
+    "title": "Experimental Plant Physiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*362",
+    "uniqueId": "",
+    "title": "Plant Physiology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*362",
+    "uniqueId": "",
+    "title": "Experimental Plnt Physiol Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*364",
+    "uniqueId": "",
+    "title": "Insect Biology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BL*370",
+    "uniqueId": "",
+    "title": "Pharmacology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "BL*370",
+    "uniqueId": "",
+    "title": "Animal Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*371",
+    "uniqueId": "",
+    "title": "Evolution&Ecological Genomics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*371",
+    "uniqueId": "",
+    "title": "Research in Animal Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*372",
+    "uniqueId": "",
+    "title": "Animal Behavior Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*380",
+    "uniqueId": "",
+    "title": "Aquatic Ecology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*390",
+    "uniqueId": "",
+    "title": "Conservation Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*392",
+    "uniqueId": "",
+    "title": "Conservation Biology Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*393",
+    "uniqueId": "",
+    "title": "Conservation Bio Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "BL*394",
+    "uniqueId": "",
+    "title": "Cancer Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Biology Internship I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Biology Intshp 1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Biology Internship I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Biology Intshp I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Biology Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Patient Care Allrgy&Asthm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Biology Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Phys Therapy Int Pal Well",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Health Outreach Baltimore",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Biology 1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Biology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Biology1",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Biology Internship I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Clinical Technician VA",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Mayo Clinic",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Outpatient Ortho Surg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Sinai Hosp Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Mercy Med Center",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Mercy Hospital",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Sports Phy Thpy Int",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Shock Trauma",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Bio Intrnsp I:Clinical Skills",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:EMT Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Intshp in Bio:Aquarist",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Dental Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Pediatric Emergency",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Stockton Vet Hospital",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Medstar Orthopedics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Medical Scribe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: EPA",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Veterinary Care",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Shock Trauma Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Forensic Nursing Intshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Biotech Industry&Rsrch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Biology Internship I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: OB/GYN",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Biology Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Cert Nursing Assistant",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Baltimore Zoo",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Physician Asst",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Balt City Crime Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Cancer Reserach",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp: Aquarium",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Hands-On Experience Rehab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Infection Ctrl Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Veterinary Experience",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Sustainability Office",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Enviro Maryland",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:UMD School Med Res Asst",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Orthop Op Rm Exper",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Veterinary Clinc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Biology Internship: HOB",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Public Health Int",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Res Asst Bos Child Hos",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Intshp Vet Clinic II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intshp:Biology Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Translational Medicine",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Animal Keeper&Behav Intsh",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:BL Elec Cross Keys Dental",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Physical Therapy Intshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Public Health",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Cancer Biology Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Vascular Medicine",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:IPM Admin Assistant",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Peds&Intervent Radiology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Biology Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Otolaryngology Chart Sty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intern:Kidney Transplant Mns",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Baltimore City Police Frc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Sport Medicine Asst",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Res on Dental Access",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship:Neurobio Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Infect Dis and Pub Health",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Res TBI",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Pediatric Dentistry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Animal Care Nat Aquarium",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Robotic Res in Spinal Inj",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Emergency Medicine",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Bio Intern: Pediatric Dental",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Spinal Cord Injury",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: PA",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Physical Therapy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "BL Internship:Physical Therap",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Bio Int: Industrial Microbio",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intern: Pediatric/Child Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intern:Veterinary Hospital",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Physical Therapy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Intern: UMB CURE Scholar Prog",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Dental",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Biology Int: Cancer Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Patient Ambassador",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Dental Clinic",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Molecular Tchs Cancer Res",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Physical Therapy Intern.",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Biology Int:Physical Therapy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int:Socioeconomics Medicine",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship:PA General Surgery",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internsh: Physician Assistant",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Bio Int:PA-Surgical Oncology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship:Orthopedic Surgery",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Biology Internship: Dental",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internsh:Pediatric Cardiology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Int: Companion Animal Vet Med",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internsh: Pediatric Shadowing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Dentist Shadowing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Interns:Shock Trauma Medicine",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Emergent Medicare",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Orthopedics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship:Pediatric Oncology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internsh:Physicians Assistant",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*399",
+    "uniqueId": "",
+    "title": "Internship: Medical Assistant",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*400",
+    "uniqueId": "",
+    "title": "Intshp: Biology Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "BL*400",
+    "uniqueId": "",
+    "title": "Biology Internship II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*400",
+    "uniqueId": "",
+    "title": "Intshp: Vet Clinic",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*400",
+    "uniqueId": "",
+    "title": "Intshp: Cancer Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*401",
+    "uniqueId": "",
+    "title": "Endocrinology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Endocrinology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*402",
+    "uniqueId": "",
+    "title": "Endocrinology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*403",
+    "uniqueId": "",
+    "title": "Neurobiology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*403",
+    "uniqueId": "",
+    "title": "Neurobiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*404",
+    "uniqueId": "",
+    "title": "Laboratory Exp in Neurobiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "BL*404",
+    "uniqueId": "",
+    "title": "Neurobiology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*405",
+    "uniqueId": "",
+    "title": "Neurobiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "BL*406",
+    "uniqueId": "",
+    "title": "Endocrinology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "BL*408",
+    "uniqueId": "",
+    "title": "Endocrinology With Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "BL*410",
+    "uniqueId": "",
+    "title": "Developmental Bio with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "BL*410",
+    "uniqueId": "",
+    "title": "Developmental Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*411",
+    "uniqueId": "",
+    "title": "Developmental Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*412",
+    "uniqueId": "",
+    "title": "Developmental Biology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*420",
+    "uniqueId": "",
+    "title": "Histology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*424",
+    "uniqueId": "",
+    "title": "Cancer Biology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*424",
+    "uniqueId": "",
+    "title": "Cancer Biology w/Seminar/Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*424",
+    "uniqueId": "",
+    "title": "Prv Sty:Cancer Bio w/Sem/Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*424",
+    "uniqueId": "",
+    "title": "Cancer Biology with Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*424",
+    "uniqueId": "",
+    "title": "Cancer Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*425",
+    "uniqueId": "",
+    "title": "Cancer Biology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*426",
+    "uniqueId": "",
+    "title": "Cell Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "BL*427",
+    "uniqueId": "",
+    "title": "Cell Biology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "BL*428",
+    "uniqueId": "",
+    "title": "Bioterrorism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "BL*431",
+    "uniqueId": "",
+    "title": "Biochemistry I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*431",
+    "uniqueId": "",
+    "title": "Biochemistry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*432",
+    "uniqueId": "",
+    "title": "Biochemistry II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*433",
+    "uniqueId": "",
+    "title": "Biochemistry Lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*433",
+    "uniqueId": "",
+    "title": "Pvt Sty: Biochemistry Lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*434",
+    "uniqueId": "",
+    "title": "Biochemistry Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "BL*434",
+    "uniqueId": "",
+    "title": "Techniques in Biochemistry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*435",
+    "uniqueId": "",
+    "title": "Evolution with Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "BL*435",
+    "uniqueId": "",
+    "title": "Evolution",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*436",
+    "uniqueId": "",
+    "title": "Evolution",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BL*437",
+    "uniqueId": "",
+    "title": "Evolution Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*438",
+    "uniqueId": "",
+    "title": "Exploring the Human Genome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "BL*438D",
+    "uniqueId": "",
+    "title": "Exploring the Human Genome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp Bio: Molec Basis Disease",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp: Molecular Basis Disease",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp:Molecular Basis Disease",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp in Bio:Endocrinlogy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Spec Top:Conservation Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp in Bio: Animal Nutrition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp in Bio: Endocrinlogy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Top:Evolutionary Medicine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp in Bio: Endocrinology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp: Consrv Bio-Fight Surviv",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Top:Reprdctive Endocrinlgy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Special Tp Bio:Endocrinology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Spc Top:Reprdctve Endocrinlgy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp in Bio: Cancer Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "BL*440",
+    "uniqueId": "",
+    "title": "Sp Tp Biology:Immunology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "BL*443",
+    "uniqueId": "",
+    "title": "Lab Techniques Stem Cell Bio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*444",
+    "uniqueId": "",
+    "title": "Stem Cell Biology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "BL*445",
+    "uniqueId": "",
+    "title": "Conservation&the Tree of Life",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "BL*448",
+    "uniqueId": "",
+    "title": "Integrative Human Physiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BL*449",
+    "uniqueId": "",
+    "title": "Intgrative Humn Phys with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "BL*452",
+    "uniqueId": "",
+    "title": "Gen & Human Physiology w/Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "BL*452",
+    "uniqueId": "",
+    "title": "General & Human Physiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*453",
+    "uniqueId": "",
+    "title": "General&Human Physiology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "BL*454",
+    "uniqueId": "",
+    "title": "Animal Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "BL*454",
+    "uniqueId": "",
+    "title": "Prv Sty:Animal Behavior",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*455",
+    "uniqueId": "",
+    "title": "Animal Behavior Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "BL*455",
+    "uniqueId": "",
+    "title": "Prv Sty:Animal Behavior Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*461",
+    "uniqueId": "",
+    "title": "Immunology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "BL*461",
+    "uniqueId": "",
+    "title": "Immunology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*463",
+    "uniqueId": "",
+    "title": "Immunology Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*467",
+    "uniqueId": "",
+    "title": "Seminar: Career Choices",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "BL*467",
+    "uniqueId": "",
+    "title": "Sem:Career Choices&Health Pro",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Current Iss Pediatric Med",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Current Issues in Ped Med",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Contemp Top Cardiac Med",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Sex, Hormones, & Drive",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Contmp Topics Cardiac Med",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Curr Iss Pediatric Med",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Glob Iss in Women's Healt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Sp Top in Pediatric Med",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem: Current Top in Human Bio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem: Current Top Human Bio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*470",
+    "uniqueId": "",
+    "title": "Sem:Curr Top in Cardiac Medcn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "BL*471",
+    "uniqueId": "",
+    "title": "Sem:Cons&Tree of Life",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "BL*471",
+    "uniqueId": "",
+    "title": "Sem: Cons & Tree of Life",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*471",
+    "uniqueId": "",
+    "title": "Sem:Cons & Tree of Life",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*471",
+    "uniqueId": "",
+    "title": "Sem Ecology:Plant Ecology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*471",
+    "uniqueId": "",
+    "title": "Seminar:Conservation Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*471",
+    "uniqueId": "",
+    "title": "Sem: Primate Biology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*471",
+    "uniqueId": "",
+    "title": "Sem: Cur Top Urban Entomology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "BL*471",
+    "uniqueId": "",
+    "title": "Sem:Sp Tpc:Adv in Prim Bio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*472",
+    "uniqueId": "",
+    "title": "Sem:Cell&Mol Bio: Genomics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "BL*472",
+    "uniqueId": "",
+    "title": "Sem:Cell&Mol Bio:Bioterrorism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "BL*472",
+    "uniqueId": "",
+    "title": "Sem Cell&Molec:Genomics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*472",
+    "uniqueId": "",
+    "title": "Sem Cell&Molec:Bioterrorism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*472",
+    "uniqueId": "",
+    "title": "Sem: Bioterrorism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*472",
+    "uniqueId": "",
+    "title": "Sem:Cell&Molec Bio:Bioterror",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*472",
+    "uniqueId": "",
+    "title": "Seminar: The Nucleus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*473",
+    "uniqueId": "",
+    "title": "Sp Top:Cold Case Investigatn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "BL*473",
+    "uniqueId": "",
+    "title": "Spec Topics in Forensic Bio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Biology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Prv Sty:Biology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Prv Sty: Biology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Prv Sty: Bio Res in Foren Ent",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Prv Sty: Biology Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Priv Study: Biology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Priv Sty: Biology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Ind Sty: Biology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Pri Sty:Mod of Macro Function",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Priv Study:Biology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Private: Biology Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "BL*481",
+    "uniqueId": "",
+    "title": "Private Stdy:Biology Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "BL*482",
+    "uniqueId": "",
+    "title": "Biology Research II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "BL*482",
+    "uniqueId": "",
+    "title": "Prv Sty: Biology Research II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "BL*482",
+    "uniqueId": "",
+    "title": "Priv Sty: Biology Research II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "BL*483",
+    "uniqueId": "",
+    "title": "Biology Research III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "BL*483",
+    "uniqueId": "",
+    "title": "Prv Sty:Biology Research III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "BL*483",
+    "uniqueId": "",
+    "title": "Ind Sty:Biology Research III",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*491",
+    "uniqueId": "",
+    "title": "Honors Biology Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "BL*491",
+    "uniqueId": "",
+    "title": "Prv Sty: Honors Biology Res I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*491",
+    "uniqueId": "",
+    "title": "Priv Study:Honors Research I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "BL*492",
+    "uniqueId": "",
+    "title": "Honors Biology Research II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Ind Sty:Environmental Stu Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int:Environmental Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Ind Sty:Envrnmntal Stdies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Intshp:EnvStudyNature",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Intshp: Env Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Intshp:Environmental Studies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Intshp: Enviro Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int: Environment Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int: Enviro Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Intshp:Environmental Stu Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Intshp:Enviro Stu Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int:Envir Stu Exp:Recycling",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Ind Sty:Envir Studies Experie",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int:Envir Stu Intshp:Sustain",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int:Envir Stu Exp:Park Nat",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int:Evnir Stu Intshp:Natural",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Prv Sty:Envir Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int:Intshp Envir Studies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int:Env Stu Exp:Sierra Club",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Internship: Env Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Internship: Enviro Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*496",
+    "uniqueId": "",
+    "title": "Int: Environmental Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Forensic Studies Experience",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Ind Sty: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Ind sty: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Forensic Stu Exper",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Int:Forensic Stu Exp AEOP Int",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Intshp: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Forensic Stu Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Ind Sty:Forensic Stu Expe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Prv Sty: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Intern: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "BL*498",
+    "uniqueId": "",
+    "title": "Int: Forensic Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "BL*628",
+    "uniqueId": "",
+    "title": "Bioterrorism",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "BL*651",
+    "uniqueId": "",
+    "title": "Forensic Entomology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "BL*655",
+    "uniqueId": "",
+    "title": "Forensic Biology with Lab",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "BL*773",
+    "uniqueId": "",
+    "title": "Sp Top:Cold Case Investigatns",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "courseNumber": "ET*605",
+    "uniqueId": "",
+    "title": "Designing Effect Lrning Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "ET*605",
+    "uniqueId": "",
+    "title": "Designing Effctv Learning Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ET*605",
+    "uniqueId": "",
+    "title": "Desng Effct Learning W/ Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ET*605",
+    "uniqueId": "",
+    "title": "Intro Educational Technology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*605",
+    "uniqueId": "",
+    "title": "Prv Sty: Intro to Ed Tech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ET*610",
+    "uniqueId": "",
+    "title": "Curricular App Technology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ET*620",
+    "uniqueId": "",
+    "title": "Multimedia Design for Learning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ET*620",
+    "uniqueId": "",
+    "title": "Multimedia Design in Classroom",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*630",
+    "uniqueId": "",
+    "title": "Literacy in a Connected World",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ET*630",
+    "uniqueId": "",
+    "title": "Digital Comm for Educators",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*630",
+    "uniqueId": "",
+    "title": "Digital Comm in Classroom",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ET*630",
+    "uniqueId": "",
+    "title": "Digital Comm in Clasroom",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ET*630",
+    "uniqueId": "",
+    "title": "Telecommunications in Clasrm",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "ET*631",
+    "uniqueId": "",
+    "title": "Transformative Online Instruct",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ET*631",
+    "uniqueId": "",
+    "title": "Transformative Online Teaching",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*631",
+    "uniqueId": "",
+    "title": "Distance Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ET*640",
+    "uniqueId": "",
+    "title": "Adaptive/Assistive Tech for Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ET*641",
+    "uniqueId": "",
+    "title": "Uni Design Learn Tech Integ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "ET*641",
+    "uniqueId": "",
+    "title": "Uni Design Learn Tech Int",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ET*660",
+    "uniqueId": "",
+    "title": "Innovative Digital Lrning Env",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ET*660",
+    "uniqueId": "",
+    "title": "Prv Sty:Innovat Digtl Schls",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*660",
+    "uniqueId": "",
+    "title": "Innovative Digital Schools",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*662",
+    "uniqueId": "",
+    "title": "Leading Adult Learners",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ET*662",
+    "uniqueId": "",
+    "title": "Tech Ldrship&Profess Learning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*662",
+    "uniqueId": "",
+    "title": "Tech,Ldrship&Profess Learning",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ET*680",
+    "uniqueId": "",
+    "title": "Leading Technology Initiatives",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ET*680",
+    "uniqueId": "",
+    "title": "Role of Technology Leader",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*680",
+    "uniqueId": "",
+    "title": "Role of Technology Specialist",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "ET*690",
+    "uniqueId": "",
+    "title": "Critical Perspectives of Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ET*690",
+    "uniqueId": "",
+    "title": "Educational Technology Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*691",
+    "uniqueId": "",
+    "title": "Educational Technology Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ET*691",
+    "uniqueId": "",
+    "title": "Intshp:Educ Tech Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ET*691",
+    "uniqueId": "",
+    "title": "Educational Tech Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "ET*691",
+    "uniqueId": "",
+    "title": "Internship: Educational Tech",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ET*699",
+    "uniqueId": "",
+    "title": "Prv Sty:Thesis Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "ET*705",
+    "uniqueId": "",
+    "title": "Intro Instructional Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ET*705",
+    "uniqueId": "",
+    "title": "Ind Sty: Intro Instrctnl Dsgn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ET*725",
+    "uniqueId": "",
+    "title": "Justice, Data, Technology Ethi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  }
+]

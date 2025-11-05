@@ -1,0 +1,2541 @@
+[
+  {
+    "courseNumber": "CS*001",
+    "uniqueId": "",
+    "title": "Computer Science Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CS*005",
+    "uniqueId": "",
+    "title": "Intshp: Yellow Basket Intshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CS*005",
+    "uniqueId": "",
+    "title": "Intshp: Internship in CompSci",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "CS*005",
+    "uniqueId": "",
+    "title": "Intshp: Ice Crop Intshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "CS*005",
+    "uniqueId": "",
+    "title": "Intshp: RDS Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "CS*005",
+    "uniqueId": "",
+    "title": "Int:GRTD&Digital Wallet",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CS*005",
+    "uniqueId": "",
+    "title": "Intshp: CS Int GFTD & EXuMe",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CS*005",
+    "uniqueId": "",
+    "title": "Internship: Computer Science",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "CS*105",
+    "uniqueId": "",
+    "title": "Makg Snse Data w/Data Mgt Sys",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "CS*105",
+    "uniqueId": "",
+    "title": "Making Sense of Data",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CS*106",
+    "uniqueId": "",
+    "title": "Making Sense of Data w/ SPSS",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "CS*107",
+    "uniqueId": "",
+    "title": "Making Sense of Data w/Matlab",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "CS*108",
+    "uniqueId": "",
+    "title": "Making Sense Data w/Acad Res",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "CS*111",
+    "uniqueId": "",
+    "title": "Intro Comp w/Software Applic",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*115",
+    "uniqueId": "",
+    "title": "Cyber Sec & Digital Forensics",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CS*115",
+    "uniqueId": "",
+    "title": "Intro Comp Digital Forensics",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "CS*116",
+    "uniqueId": "",
+    "title": "The Internet & World Wide Web",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*117",
+    "uniqueId": "",
+    "title": "Computers in Art and Design",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CS*118",
+    "uniqueId": "",
+    "title": "Com,Robot,Minds:Intro Int Com",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "CS*118",
+    "uniqueId": "",
+    "title": "Comp Robot Minds Intro Int Com",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*120",
+    "uniqueId": "",
+    "title": "Sp Tp: Comput in Art & Design",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "CS*120",
+    "uniqueId": "",
+    "title": "Top Intro Computer Science",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "CS*120",
+    "uniqueId": "",
+    "title": "Topic: Computing in Art Design",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*120",
+    "uniqueId": "",
+    "title": "Top CS:Comp,Robots&Minds",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*120",
+    "uniqueId": "",
+    "title": "Top CS: Comp,Robots&Minds",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*151",
+    "uniqueId": "",
+    "title": "Computer Sci thrh Programming",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "CS*151",
+    "uniqueId": "",
+    "title": "Computer Science I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "CS*200",
+    "uniqueId": "",
+    "title": "Opportunities in STEM",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "CS*201",
+    "uniqueId": "",
+    "title": "Computer Science I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*201",
+    "uniqueId": "",
+    "title": "Priv Study: Computer Science I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*202",
+    "uniqueId": "",
+    "title": "Computer Science II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*202",
+    "uniqueId": "",
+    "title": "Ind sty:Computer Science II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "CS*212",
+    "uniqueId": "",
+    "title": "Object-Oriented Data Structure",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CS*218",
+    "uniqueId": "",
+    "title": "Computational Thnkng:Robotics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "CS*220",
+    "uniqueId": "",
+    "title": "Current Tp:Art Problem Solvng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CS*220",
+    "uniqueId": "",
+    "title": "Prv Sty:C Programming",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "CS*220",
+    "uniqueId": "",
+    "title": "Current Topics Computer Sci",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*220",
+    "uniqueId": "",
+    "title": "Current Topics in CS: LCS-ES",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*220",
+    "uniqueId": "",
+    "title": "Top in Comp Sci:LCS-ES",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*266",
+    "uniqueId": "",
+    "title": "Introduction to Linux",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CS*295",
+    "uniqueId": "",
+    "title": "Discrete Structures",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*295",
+    "uniqueId": "",
+    "title": "Priv Study: Discrete Structure",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*301",
+    "uniqueId": "",
+    "title": "Data Structure&Algorithms I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*302",
+    "uniqueId": "",
+    "title": "Data Structures&Algorithms II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*312",
+    "uniqueId": "",
+    "title": "Obj-Oriented Software Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CS*312",
+    "uniqueId": "",
+    "title": "Prv Sty: Obj-Ornt Sft Dsgn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "CS*366",
+    "uniqueId": "",
+    "title": "Computer Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CS*371",
+    "uniqueId": "",
+    "title": "Computer Engineering I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*403",
+    "uniqueId": "",
+    "title": "Discovering Info in Data",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "CS*420",
+    "uniqueId": "",
+    "title": "Ind Sty:Comp Sci Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "CS*420",
+    "uniqueId": "",
+    "title": "Computer Science Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "CS*420",
+    "uniqueId": "",
+    "title": "Ind:Computer Science Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "CS*451",
+    "uniqueId": "",
+    "title": "Programming Languages",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*453",
+    "uniqueId": "",
+    "title": "Mobile App Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "CS*455",
+    "uniqueId": "",
+    "title": "Graph User Intrfc Dsgn&Implmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "CS*455",
+    "uniqueId": "",
+    "title": "Priv Sty: Graph User Intr Dsgn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*456",
+    "uniqueId": "",
+    "title": "Web Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CS*456",
+    "uniqueId": "",
+    "title": "Prv Sty:Web Programming",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "CS*457",
+    "uniqueId": "",
+    "title": "Intro to Computer Networks",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "CS*462",
+    "uniqueId": "",
+    "title": "Algorithm Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CS*464",
+    "uniqueId": "",
+    "title": "Object-Orient Analysis&Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "CS*466",
+    "uniqueId": "",
+    "title": "Operating Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*471",
+    "uniqueId": "",
+    "title": "Computer Architecture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "CS*476",
+    "uniqueId": "",
+    "title": "Electronic Digital Circuits",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CS*478",
+    "uniqueId": "",
+    "title": "Theory of Computation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*478",
+    "uniqueId": "",
+    "title": "Prv Sty: Theory of Computation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "CS*479",
+    "uniqueId": "",
+    "title": "Top:intro Micropro-Based Systm",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CS*482",
+    "uniqueId": "",
+    "title": "Software Engineering",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*483",
+    "uniqueId": "",
+    "title": "Software Testing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CS*484",
+    "uniqueId": "",
+    "title": "Machine Learning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "CS*484",
+    "uniqueId": "",
+    "title": "Artificial Intelligence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CS*485",
+    "uniqueId": "",
+    "title": "Database Management Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*486",
+    "uniqueId": "",
+    "title": "Computer Graphics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CS*488",
+    "uniqueId": "",
+    "title": "Introduction to Quantum Comput",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp in Comp Sci:Video Game Dev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp Comp Sci:Quantum Comp II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp Comp Sci: Quantum Computing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp Comp Sci: Cyber Security",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp Cm Sci: Distributed Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Sp Tp:Cryptocurr&Blockchain",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Topics CS:Quantum Computing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Top Comp Sci: Virtual Reality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Top in CS: Android App",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Top in CS:Embedded Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp CS:Cryptography&Blockchain",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Top CS:Android App Developmnt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp Cs: Rev Soft Eng for Cybsec",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp CS:Programming in Big Data",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Prv Sty:Design 3D PH Game Eng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Topics Comp Sci: Comp & Games",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Topics in Computer Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Top CS: Software Eng Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Topics in CS: Data Mining",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*489",
+    "uniqueId": "",
+    "title": "Tp Comp Sci:Computer Security",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "CS*490",
+    "uniqueId": "",
+    "title": "Wide-Area Computer Networks",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CS*491",
+    "uniqueId": "",
+    "title": "Tech Innovtn&Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "CS*495",
+    "uniqueId": "",
+    "title": "Computer Science Project Plann",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CS*496",
+    "uniqueId": "",
+    "title": "Computer Science Project I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*496",
+    "uniqueId": "",
+    "title": "Prv Sty: Comp Sci Proj I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "CS*496",
+    "uniqueId": "",
+    "title": "Private Study:CS Project I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "CS*497",
+    "uniqueId": "",
+    "title": "Computer Science Project II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*498",
+    "uniqueId": "",
+    "title": "Computer Science Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*499",
+    "uniqueId": "",
+    "title": "Intshp:Comp Sci Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "CS*499",
+    "uniqueId": "",
+    "title": "Computer Science Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "CS*610",
+    "uniqueId": "",
+    "title": "Discrete Math&Algorithm Analy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*620",
+    "uniqueId": "",
+    "title": "Foundations Computer Archtect",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*622",
+    "uniqueId": "",
+    "title": "Computer Networks",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*630",
+    "uniqueId": "",
+    "title": "Computing Fundamentals I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*631",
+    "uniqueId": "",
+    "title": "Computing Fundamentals II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*700",
+    "uniqueId": "",
+    "title": "Adv Data Strcts&Algorthm Desg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*701",
+    "uniqueId": "",
+    "title": "Introduction to Programming",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "CS*701",
+    "uniqueId": "",
+    "title": "Prncples of Prgrmming Languag",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*702",
+    "uniqueId": "",
+    "title": "Operating Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*703",
+    "uniqueId": "",
+    "title": "Programming for Data Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "CS*710",
+    "uniqueId": "",
+    "title": "Fundamentals of Web Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "CS*710",
+    "uniqueId": "",
+    "title": "Adv HTML Coding & Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*712",
+    "uniqueId": "",
+    "title": "Web App Dev Servlts&Java Page",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "CS*713",
+    "uniqueId": "",
+    "title": "Java Design Patt &Best Pract",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "CS*715",
+    "uniqueId": "",
+    "title": "Develop Rich Inte App w/ AJAX",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "CS*718",
+    "uniqueId": "",
+    "title": "Prv Sty: Graphics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "CS*718",
+    "uniqueId": "",
+    "title": "Graphics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*720",
+    "uniqueId": "",
+    "title": "Internet and Web Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CS*722",
+    "uniqueId": "",
+    "title": "Object-Oriented Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*724",
+    "uniqueId": "",
+    "title": "Algorithm Design and Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "CS*730",
+    "uniqueId": "",
+    "title": "Introduction to Networking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "CS*730",
+    "uniqueId": "",
+    "title": "TCP/IP Architecture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "CS*732",
+    "uniqueId": "",
+    "title": "Local Area Networks",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*732",
+    "uniqueId": "",
+    "title": "Local Area Networking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*734",
+    "uniqueId": "",
+    "title": "Wide Area Networks",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*734",
+    "uniqueId": "",
+    "title": "Priv Study: Wide Area Networks",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*737",
+    "uniqueId": "",
+    "title": "Machine Learning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "CS*745",
+    "uniqueId": "",
+    "title": "Multimed Data Analysis&Mining",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "PrvSty:SpTp:Self Track&Intrnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Cybersecurity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Prv Sty: Spec Tp: Big Data",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Java Framework",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spc Tpc:Adv Python Program",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Agile Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Ruby on Rails",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Python Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Prv Sty: Virtualization",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Big Data",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Top: Ruby on Rails",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp:Found Info Assurance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Agile Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Special Topic: C#",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Software Security Engi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "SpTop: GameDsgn & Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spec Tpc: Intro C#/.NET Prog",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spec Top: Compiler Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spec Tpc: Virtualization Techn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spec Tpc: Data Mining",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tpc: Java Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tpc: Service Orient Arch",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Top: Community Informatics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Top: Java Progamming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tpc CS:Intro IS Sec Assur",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp: Java Programming",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spec Tpc: Adv Html Code & Des",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp:Int New Mnfrme:Z/OS Bas",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp:Java Dsgn Pat&Best Prac",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spc Top:Web App & Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Top:Community Informatics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spc Tpc CS: Web Programing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Sp Tp:Adv TCP/IP Archit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*750",
+    "uniqueId": "",
+    "title": "Spec Tcp CS/SE: Java",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty:Assessment Database",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty:Information Extractn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty:Artfcial Intelligence",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Independ Study:Data Analytics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty:Real-Time Control",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: iOS Development",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty:File Sys&Digtl Foren",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study:Mobile Appli Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Ruby or Rails",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Reconfig Computing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Reconfigur Computing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Excelled Oper System",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Independant Study:Advanced AI",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty:Mobile App Prg Games",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Independent Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind. Stu: Ruby & Ruby on Rails",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind. Study: Cryptography",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty:Service-Oriented Arch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Software Sys Spec",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Wide Area Networks",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Compiler Theory",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Database Web App",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Adv Web Design/Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Software Sec Engineer",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Prin of Program Langu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Network Security",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Soft Arch Integration",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Security Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Cyrytography",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Wide Area Networks",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Independent Study: Basic Java",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Bioinformatics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Stdy:Software Engineering",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Cost Est & Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sty: Adv WideAreaNetworks",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Compiler Design",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Xilinx Vertex Comp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind:Engineering Sys Analysis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study:Advanced Oper Systm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Network Security",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study: Testing Plans",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Independent Study: Java",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Sudy: Adv Operating Sys",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Independent Study: Graphics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "CS*751",
+    "uniqueId": "",
+    "title": "Ind Study:Honey Pot Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "CS*753",
+    "uniqueId": "",
+    "title": "Big Data",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "CS*760",
+    "uniqueId": "",
+    "title": "Advanced Operating Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*760",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Operating Systems",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "CS*760",
+    "uniqueId": "",
+    "title": "Priv Sty: Adv Operating System",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "CS*762",
+    "uniqueId": "",
+    "title": "Database Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*764",
+    "uniqueId": "",
+    "title": "Network Security",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CS*764",
+    "uniqueId": "",
+    "title": "Priv Study: Network Security",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*764",
+    "uniqueId": "",
+    "title": "Priv Sty: Network Security",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "CS*766",
+    "uniqueId": "",
+    "title": "Info Retrievl&Nat Lng Process",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "CS*770",
+    "uniqueId": "",
+    "title": "Software Engineering",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*771",
+    "uniqueId": "",
+    "title": "Engineering Systems Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*772",
+    "uniqueId": "",
+    "title": "Object-Oriented Anlysis&Desgn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*773",
+    "uniqueId": "",
+    "title": "Software System Specification",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*773",
+    "uniqueId": "",
+    "title": "Prv Sty:Soft Sys Spcification",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "CS*774",
+    "uniqueId": "",
+    "title": "Human-Computer Interaction",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*780",
+    "uniqueId": "",
+    "title": "Software Reliability&Testing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CS*790",
+    "uniqueId": "",
+    "title": "Software Architectr&Integratn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*791",
+    "uniqueId": "",
+    "title": "Cost Estimation & Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CS*792",
+    "uniqueId": "",
+    "title": "Software Maintenance&Evol",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "CS*792",
+    "uniqueId": "",
+    "title": "Software Maintenance&Evoluton",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 11
+  }
+]

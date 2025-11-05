@@ -1,0 +1,1088 @@
+[
+  {
+    "courseNumber": "MO*599",
+    "uniqueId": "",
+    "title": "Montessori Elem Prep Course",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*599",
+    "uniqueId": "",
+    "title": "Montessori Prereq for Elem",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MO*621",
+    "uniqueId": "",
+    "title": "Action Rsrch Educ Settings I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*622",
+    "uniqueId": "",
+    "title": "Action Rsrch Educ Settings II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*624",
+    "uniqueId": "",
+    "title": "Observational Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*624",
+    "uniqueId": "",
+    "title": "Assistants to Infancy Pract I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MO*624",
+    "uniqueId": "",
+    "title": "Practicum I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "MO*625",
+    "uniqueId": "",
+    "title": "Intensive Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*625",
+    "uniqueId": "",
+    "title": "Assistants to Infancy Pract II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MO*625",
+    "uniqueId": "",
+    "title": "Practicum II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MO*626",
+    "uniqueId": "",
+    "title": "Introductory Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*626",
+    "uniqueId": "",
+    "title": "Primary Practicum I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MO*626",
+    "uniqueId": "",
+    "title": "Practicum I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MO*627",
+    "uniqueId": "",
+    "title": "Montessori Capstone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MO*628",
+    "uniqueId": "",
+    "title": "Ind Sty: Advanced Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MO*628",
+    "uniqueId": "",
+    "title": "Advanced Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MO*628",
+    "uniqueId": "",
+    "title": "Prv Sty:Advanced Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MO*628",
+    "uniqueId": "",
+    "title": "Primary Practicum II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MO*628",
+    "uniqueId": "",
+    "title": "Practicum II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MO*628",
+    "uniqueId": "",
+    "title": "Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MO*629",
+    "uniqueId": "",
+    "title": "Prin Primary Ed:Montessori",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*630",
+    "uniqueId": "",
+    "title": "Human Rel&Self-Aware Yng Chld",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "MO*630",
+    "uniqueId": "",
+    "title": "Human Relt&Self Aware Yng Chld",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MO*630",
+    "uniqueId": "",
+    "title": "Human Rel & Self Awareness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*631",
+    "uniqueId": "",
+    "title": "Language Arts/Reading Instruct",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*631",
+    "uniqueId": "",
+    "title": "Lang Arts/Read Curric & Instr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*631",
+    "uniqueId": "",
+    "title": "Languange Arts: Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*631",
+    "uniqueId": "",
+    "title": "Language Arts: Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*631",
+    "uniqueId": "",
+    "title": "Reading Curriculum&Instruction",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MO*632",
+    "uniqueId": "",
+    "title": "Math&Science Instruction",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*632",
+    "uniqueId": "",
+    "title": "Mathematics&Science Curr&Instr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*632",
+    "uniqueId": "",
+    "title": "Math & Science Curr & Instr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MO*632",
+    "uniqueId": "",
+    "title": "Mathematics and Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*632",
+    "uniqueId": "",
+    "title": "Language Arts: Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*633",
+    "uniqueId": "",
+    "title": "Creative Activities",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "MO*633",
+    "uniqueId": "",
+    "title": "Creat Act(Music,Art,Move&Dram)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MO*634",
+    "uniqueId": "",
+    "title": "Found Montessori Method",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*635",
+    "uniqueId": "",
+    "title": "Perceptual-Motor Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*635",
+    "uniqueId": "",
+    "title": "Perceptual Motor Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*636",
+    "uniqueId": "",
+    "title": "Teaching Strategies&Social Dev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*637",
+    "uniqueId": "",
+    "title": "Psych & Phil Montessori Method",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*638",
+    "uniqueId": "",
+    "title": "Prv Sty: Chld Grwth & Dvlpmnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MO*638",
+    "uniqueId": "",
+    "title": "Child Growth & Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MO*638",
+    "uniqueId": "",
+    "title": "Child Growth and Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*638",
+    "uniqueId": "",
+    "title": "Child Growth and Develop I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MO*639",
+    "uniqueId": "",
+    "title": "Child Growth and Develop II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*640",
+    "uniqueId": "",
+    "title": "Creating Healthy, Safe Environ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*640",
+    "uniqueId": "",
+    "title": "Creating Hlthy, Safe Env Infan",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*640",
+    "uniqueId": "",
+    "title": "Creating Envrmnt for Infants",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MO*640",
+    "uniqueId": "",
+    "title": "Creating Envirnmt for Infants",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*641",
+    "uniqueId": "",
+    "title": "Prv Sty:Healthy, Safe, Env 11",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*641",
+    "uniqueId": "",
+    "title": "Creating Healthy, Safe Env II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*641",
+    "uniqueId": "",
+    "title": "Creating Hlthy, Safe Env Todlr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*642",
+    "uniqueId": "",
+    "title": "Developmntlly Approp Practices",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*642",
+    "uniqueId": "",
+    "title": "Develop Approp Pract Infants",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*643",
+    "uniqueId": "",
+    "title": "Dvlpmntlly Approp Practic II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*643",
+    "uniqueId": "",
+    "title": "Develop Approp Pract Toddlers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*643",
+    "uniqueId": "",
+    "title": "Devel Appr Practices/Toddlers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MO*644",
+    "uniqueId": "",
+    "title": "Work Parents&Fam Yng Children",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*644",
+    "uniqueId": "",
+    "title": "Work Parents & Families",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MO*644",
+    "uniqueId": "",
+    "title": "Work With Parents & Families",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*645",
+    "uniqueId": "",
+    "title": "Montessori Observat&Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*646",
+    "uniqueId": "",
+    "title": "Foundations Montessori Method",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*647",
+    "uniqueId": "",
+    "title": "Montessori Classroom Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*648",
+    "uniqueId": "",
+    "title": "Lab:Using Montessori Materials",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*649",
+    "uniqueId": "",
+    "title": "Language Instruct Elem Years",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*649",
+    "uniqueId": "",
+    "title": "Language Curr&Inst Elem Yr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*650",
+    "uniqueId": "",
+    "title": "Art Curriculum&Inst Elem Yr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MO*651",
+    "uniqueId": "",
+    "title": "Math Instruct for Elem Years",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*651",
+    "uniqueId": "",
+    "title": "Math Cur&Inst Elementary Yr I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*651",
+    "uniqueId": "",
+    "title": "Mathematics Cur&Inst Elem Yr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MO*652",
+    "uniqueId": "",
+    "title": "Phys&Bio Sci Instr Elem Years",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*652",
+    "uniqueId": "",
+    "title": "Phys&Bio Sci Curr&Instr Elm Yr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*652",
+    "uniqueId": "",
+    "title": "Phy & Bio Sciences Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*652",
+    "uniqueId": "",
+    "title": "Phy & Bio Science Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*653",
+    "uniqueId": "",
+    "title": "Social Studies Inst Elem Year",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*653",
+    "uniqueId": "",
+    "title": "Social Stud Curr&Inst Elem Yr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*654",
+    "uniqueId": "",
+    "title": "Music/Art Instruct Elem Years",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*654",
+    "uniqueId": "",
+    "title": "Music/Art Cur&Inst Elem Yr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*654",
+    "uniqueId": "",
+    "title": "Music/Movem't Cur&Inst Elem Yr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MO*654",
+    "uniqueId": "",
+    "title": "Music/Movement C&I Elem Year",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MO*655",
+    "uniqueId": "",
+    "title": "Intro Elementary Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*655",
+    "uniqueId": "",
+    "title": "Elementary Practicum I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MO*655",
+    "uniqueId": "",
+    "title": "Practicum I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MO*655",
+    "uniqueId": "",
+    "title": "Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MO*656",
+    "uniqueId": "",
+    "title": "Advanced Elementary Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*656",
+    "uniqueId": "",
+    "title": "Elementary Practicum II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MO*656",
+    "uniqueId": "",
+    "title": "Practicum II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "MO*657",
+    "uniqueId": "",
+    "title": "Math Instruct Element Year II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "MO*657",
+    "uniqueId": "",
+    "title": "Math Curr&Instr Elem Year II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "MO*658",
+    "uniqueId": "",
+    "title": "Cosmic Educ&Prncpals Elem Ed",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*659",
+    "uniqueId": "",
+    "title": "Practices Elem Ed, Monts&Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*660",
+    "uniqueId": "",
+    "title": "Princples Adolescent Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MO*661",
+    "uniqueId": "",
+    "title": "Intro Read Sci Montessor Class",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MO*663",
+    "uniqueId": "",
+    "title": "Constructivist Education Metho",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MO*664",
+    "uniqueId": "",
+    "title": "Inclusive Prin of Pedagogy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MO*665",
+    "uniqueId": "",
+    "title": "Creating Equitbl Mont Clssroom",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MO*667",
+    "uniqueId": "",
+    "title": "Advanced Capstone Practicum",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "MO*667",
+    "uniqueId": "",
+    "title": "Advanced Practicum and Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MO*668",
+    "uniqueId": "",
+    "title": "Leadership Princp Mont Ed",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  }
+]

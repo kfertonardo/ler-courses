@@ -1,0 +1,332 @@
+[
+  {
+    "courseNumber": "GT*201",
+    "uniqueId": "",
+    "title": "Introduction to Global Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "GT*400",
+    "uniqueId": "",
+    "title": "Senior Sem in Global Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "GT*400",
+    "uniqueId": "",
+    "title": "Prv Sty:Snr Cap in Global Std",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "GT*400",
+    "uniqueId": "",
+    "title": "Prv Sty:Capstone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Global Studies Intshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Int: Global Studies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Balt Council Foreign",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp:BalCouncilForeign",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Glbl Studies Intshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Int Experience Global",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Intl Rescue Committee",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Global Studies Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Global Sdy Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Global Sdy Int Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Int:Glo Studies Int Civic Wrk",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Int:Cntr Comm Serv&Soc Jus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Int:Global Sdy Int Exp Intshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Civic Works",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intshp: Global Stu Experience",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Int:CCSJ Service Coordinator",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Internship: Global Sdy Int Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Int:Global Studies Intrnt Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Int:Global Studies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Intern: Glb Sdy Intrnat Exp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GT*401",
+    "uniqueId": "",
+    "title": "Global Sdy Int Exp Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GT*499",
+    "uniqueId": "",
+    "title": "Ind Sty: Glbl Stds Hnrs Rsrch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "GT*499",
+    "uniqueId": "",
+    "title": "Prv Sty:Hnrs Thesis Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "GT*499",
+    "uniqueId": "",
+    "title": "Prv Sty: Honors Thesis Researc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  }
+]

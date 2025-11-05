@@ -1,0 +1,184 @@
+[
+  {
+    "courseNumber": "CW*310",
+    "uniqueId": "",
+    "title": "Art of Prose: E. B. White",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CW*310",
+    "uniqueId": "",
+    "title": "Art of Prose:E B White",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "CW*311",
+    "uniqueId": "",
+    "title": "Art of Essay:Women Writers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*312",
+    "uniqueId": "",
+    "title": "Biography and Autobiography",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*313",
+    "uniqueId": "",
+    "title": "The Contemporary Essay",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*314",
+    "uniqueId": "",
+    "title": "Nature Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*315",
+    "uniqueId": "",
+    "title": "Travel Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*320",
+    "uniqueId": "",
+    "title": "Writing Fiction",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*321",
+    "uniqueId": "",
+    "title": "Forms of Fiction",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*325",
+    "uniqueId": "",
+    "title": "Writing Poetry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*332",
+    "uniqueId": "",
+    "title": "Writing About Film",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*380",
+    "uniqueId": "",
+    "title": "Adv Fict: Short Story",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*382",
+    "uniqueId": "",
+    "title": "Advanced Non-Fiction Prose",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*383",
+    "uniqueId": "",
+    "title": "Advanced Poetry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*385",
+    "uniqueId": "",
+    "title": "Sp Tp Wr:Rhetoric Prof Writ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CW*385",
+    "uniqueId": "",
+    "title": "Sp Tp Wr:Writ Music&Culture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "CW*405",
+    "uniqueId": "",
+    "title": "Senior Seminar:New Writers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "CW*420",
+    "uniqueId": "",
+    "title": "Snr Portfolio:Nonfiction Pros",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  }
+]

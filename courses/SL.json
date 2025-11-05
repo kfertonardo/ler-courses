@@ -1,0 +1,35 @@
+[
+  {
+    "courseNumber": "SL*350",
+    "uniqueId": "",
+    "title": "Ind Study: Service Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SL*350",
+    "uniqueId": "",
+    "title": "Service Leadership in Action",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "SL*450",
+    "uniqueId": "",
+    "title": "Visions of Justice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  }
+]

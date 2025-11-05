@@ -1,0 +1,3097 @@
+[
+  {
+    "courseNumber": "ED*100",
+    "uniqueId": "",
+    "title": "Intro to Educ:School&Society",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "ED*100",
+    "uniqueId": "",
+    "title": "Intro to Edu:School&Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*100",
+    "uniqueId": "",
+    "title": "Intro to Education:School&Soc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ED*100",
+    "uniqueId": "",
+    "title": "Introduction to Elementary Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "ED*100D",
+    "uniqueId": "",
+    "title": "Intro to Educ:School&Society",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "ED*100D",
+    "uniqueId": "",
+    "title": "Intro to Edu:School&Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*100D",
+    "uniqueId": "",
+    "title": "Introduction to Elementary Ed",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "ED*101",
+    "uniqueId": "",
+    "title": "Intro to Urban Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "ED*101",
+    "uniqueId": "",
+    "title": "Education II: Field Experience",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ED*101D",
+    "uniqueId": "",
+    "title": "Intro to Urban Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ED*102",
+    "uniqueId": "",
+    "title": "1st Gen Student: Hid Curriculu",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "ED*112",
+    "uniqueId": "",
+    "title": "Foundations Early Childhood Ed",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*115",
+    "uniqueId": "",
+    "title": "Outdoor Leadership Foundations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*202",
+    "uniqueId": "",
+    "title": "Child&Adolescent Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "ED*203",
+    "uniqueId": "",
+    "title": "Elementary Mathematics Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "ED*203",
+    "uniqueId": "",
+    "title": "Elementary Mathematic Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*203",
+    "uniqueId": "",
+    "title": "Mathematic Methods Lab I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "ED*204",
+    "uniqueId": "",
+    "title": "Mathematic Methods Lab II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*205",
+    "uniqueId": "",
+    "title": "Educational Psychology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "ED*206",
+    "uniqueId": "",
+    "title": "Elementary Math Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "ED*206",
+    "uniqueId": "",
+    "title": "Elementary Math Methods Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ED*207",
+    "uniqueId": "",
+    "title": "Computational Thinking PK-8",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*300",
+    "uniqueId": "",
+    "title": "Learning Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*301",
+    "uniqueId": "",
+    "title": "Educational Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*302",
+    "uniqueId": "",
+    "title": "Human Growth and Development",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*303",
+    "uniqueId": "",
+    "title": "Educational Technology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*311",
+    "uniqueId": "",
+    "title": "Schooling in Baltimore",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*324",
+    "uniqueId": "",
+    "title": "Subs Abuse & Effects in Adol",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*340",
+    "uniqueId": "",
+    "title": "Sem Cultural Relevant Pedagogy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ED*344",
+    "uniqueId": "",
+    "title": "Race,Class,&Gender in Educ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ED*378",
+    "uniqueId": "",
+    "title": "Politics of Urban Schl Reform",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "ED*401",
+    "uniqueId": "",
+    "title": "Beginning PDS Placement",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*404",
+    "uniqueId": "",
+    "title": "Internship I & Seminar (Elem)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "ED*404",
+    "uniqueId": "",
+    "title": "Internship I & Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "ED*404",
+    "uniqueId": "",
+    "title": "Priv Study: Intnshp & Sem I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ED*412",
+    "uniqueId": "",
+    "title": "Elementary Math Methods",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*416",
+    "uniqueId": "",
+    "title": "Elementary Soc Studies Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*416",
+    "uniqueId": "",
+    "title": "Prv Sty: Elmntry Scl Stds Mth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*419",
+    "uniqueId": "",
+    "title": "Field Experience in Math Educ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "ED*421",
+    "uniqueId": "",
+    "title": "Comprehensive Classroom Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*421",
+    "uniqueId": "",
+    "title": "Prv Sty: Comp Classroom Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*422",
+    "uniqueId": "",
+    "title": "The Teaching of Science",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*423",
+    "uniqueId": "",
+    "title": "The Teaching of English",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*424",
+    "uniqueId": "",
+    "title": "The Teaching of Social Studies",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*425",
+    "uniqueId": "",
+    "title": "The Teaching of Art",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "ED*426",
+    "uniqueId": "",
+    "title": "Teaching of Foreign Languages",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ED*426",
+    "uniqueId": "",
+    "title": "The Tch of Modern Languages",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*426",
+    "uniqueId": "",
+    "title": "The Tch of Modern Foreign Lang",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ED*427",
+    "uniqueId": "",
+    "title": "Prv Sty:The Teaching of Math",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ED*427",
+    "uniqueId": "",
+    "title": "The Teaching of Mathematics",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "ED*428",
+    "uniqueId": "",
+    "title": "The Teaching of Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "ED*428",
+    "uniqueId": "",
+    "title": "Prv Sty: Teaching of Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "ED*429",
+    "uniqueId": "",
+    "title": "Secondary Methods of Teaching",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*430",
+    "uniqueId": "",
+    "title": "Field Experience: Science",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*431",
+    "uniqueId": "",
+    "title": "Field Experience in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ED*431",
+    "uniqueId": "",
+    "title": "Fld Exp in Education (Elem)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*431",
+    "uniqueId": "",
+    "title": "Fld Exp Education (Elem Level)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*432",
+    "uniqueId": "",
+    "title": "Internship I (Sec/Middle)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*432",
+    "uniqueId": "",
+    "title": "Internship I&Sem (Sec/Mid)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ED*432",
+    "uniqueId": "",
+    "title": "Internship I &Sem(Sec/Mid)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "ED*432",
+    "uniqueId": "",
+    "title": "Field Exp: Phase I (Sec/Mid)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ED*432",
+    "uniqueId": "",
+    "title": "Field Exp in Ed(Sec&Mid Lev)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ED*433",
+    "uniqueId": "",
+    "title": "Int II w/Sm:St Tch(Sec):Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "ED*433",
+    "uniqueId": "",
+    "title": "Int II: Stu Tch (Sec): Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ED*433",
+    "uniqueId": "",
+    "title": "Internship in Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*434",
+    "uniqueId": "",
+    "title": "Field Exp in Educ (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ED*434",
+    "uniqueId": "",
+    "title": "Field Exp in Educ (Sec Level)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*435",
+    "uniqueId": "",
+    "title": "Internship in Art",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*436",
+    "uniqueId": "",
+    "title": "Leadership Seminar I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*438",
+    "uniqueId": "",
+    "title": "Field Experience: Special Educ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "ED*438",
+    "uniqueId": "",
+    "title": "Fld Exp:Special Ed (Elem/Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "ED*438",
+    "uniqueId": "",
+    "title": "Fld Exp:Special Educ (Elem)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ED*438",
+    "uniqueId": "",
+    "title": "Fld Exp:Spec Educ (Elem Lvl)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*439",
+    "uniqueId": "",
+    "title": "Fld Exp:Spec Educ (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ED*439",
+    "uniqueId": "",
+    "title": "Fld Exp:Spec Educ (Sec Level)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*440",
+    "uniqueId": "",
+    "title": "Field Exp:Reading (Elem)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ED*440",
+    "uniqueId": "",
+    "title": "Field Exp:Reading (Elem Lev)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*441",
+    "uniqueId": "",
+    "title": "Sp Tp:Lit Instr Lrn Mild/Mod",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "ED*441",
+    "uniqueId": "",
+    "title": "Sp Top:Schooling in Baltimore",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*441",
+    "uniqueId": "",
+    "title": "Sp Tp:Multilingualism Sch/Com",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*441",
+    "uniqueId": "",
+    "title": "Sp Tp:Tch,Stu,Sch in Flm&TV",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ED*441",
+    "uniqueId": "",
+    "title": "Sem:Eq, Jus&Urb Ed Thr Lit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ED*441",
+    "uniqueId": "",
+    "title": "Sp Tp:Chld&Yg Adlt Lit Urban",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "ED*441",
+    "uniqueId": "",
+    "title": "Special Topics in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*441D",
+    "uniqueId": "",
+    "title": "Sp Tp:Multilingualism Sch/Com",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "ED*441D",
+    "uniqueId": "",
+    "title": "Sem:Eq, Jus&Urb Ed Thr Lit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ED*442",
+    "uniqueId": "",
+    "title": "Meth Teach Elem Sci w/Fld Ex",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "ED*442",
+    "uniqueId": "",
+    "title": "Methods Teaching Sci w/Fld Ex",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ED*443",
+    "uniqueId": "",
+    "title": "Field Experience:Special Educ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*443",
+    "uniqueId": "",
+    "title": "Priv Sty: Field Exp Spec Educ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ED*445",
+    "uniqueId": "",
+    "title": "Internship II (Elementary)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*445",
+    "uniqueId": "",
+    "title": "Elementary Internship II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ED*445",
+    "uniqueId": "",
+    "title": "Elem Internship II & Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*445",
+    "uniqueId": "",
+    "title": "Int:Elem Intshp II & Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "ED*445",
+    "uniqueId": "",
+    "title": "Internship II & Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ED*446",
+    "uniqueId": "",
+    "title": "Capstone in Elementary Educat",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ED*446",
+    "uniqueId": "",
+    "title": "Int:Capstone in Elem Edu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "ED*446",
+    "uniqueId": "",
+    "title": "Prv Sty:Capstone Elem Edu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ED*446",
+    "uniqueId": "",
+    "title": "Prv Sty:Capstone Elemntry Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "ED*452",
+    "uniqueId": "",
+    "title": "Int II:Science (Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ED*452",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch(Secondary):Sci",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*452",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch (2nd Lvl):Sci",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*453",
+    "uniqueId": "",
+    "title": "Int II Sem: English (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*453",
+    "uniqueId": "",
+    "title": "Prv Sty: Int II - English",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "ED*453",
+    "uniqueId": "",
+    "title": "Int II w/Sem:Stu Tch (Sec):En",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "ED*453",
+    "uniqueId": "",
+    "title": "Int II:English(Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ED*453",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch(Secondary):Eng",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*453",
+    "uniqueId": "",
+    "title": "Prv Sty:Int II:StuTch(Sc):Eng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*453",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch (2nd Lvl):Eng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*454",
+    "uniqueId": "",
+    "title": "Int II w/Sem:St Tch(Sec):Math",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "ED*454",
+    "uniqueId": "",
+    "title": "Int II:Mathematics(Secondary)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ED*454",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch(Secondry):Math",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*454",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch(2nd Lev):Math",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*455",
+    "uniqueId": "",
+    "title": "Int II w/Sem:Soc Stdies(Scnd)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*455",
+    "uniqueId": "",
+    "title": "Prv Sty:Intrnshp ll Scl Stds",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ED*455",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch(Secndry):So St",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*455",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch(2nd Lev):So St",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*456",
+    "uniqueId": "",
+    "title": "Int II:Mod Foreign Lng (Sec)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "ED*456",
+    "uniqueId": "",
+    "title": "Int II:Stu Tch(Scndry):Md Lng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*456",
+    "uniqueId": "",
+    "title": "IntII:Stu Tch(2nd Lev):Md Lng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty: Ind Sty in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty:Comm Schl,Imprt Comm&",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Independent Study in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty: Ind Study Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty:ind Study in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty: Advanced Elem Intern",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty:Urban Exp in Prv Edu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty:Urban Catholic Edu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty: Research in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sty: Jesuit Pedagogy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Prv Stu: Childs Lit & Tch Mat",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Stu:Childs Lit&Teach Math",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Sdy:Child Lit&Teach Math",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "ED*463",
+    "uniqueId": "",
+    "title": "Ind Study: In Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "ED*464",
+    "uniqueId": "",
+    "title": "Prv Sty:Qual Appro Urban Educ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "ED*466",
+    "uniqueId": "",
+    "title": "Language, Culture, & Literacy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ED*466",
+    "uniqueId": "",
+    "title": "Prv Sty:Lang,Cultre&Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "ED*495",
+    "uniqueId": "",
+    "title": "Improving Access to Gen Cur",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "ED*600",
+    "uniqueId": "",
+    "title": "Found of Research in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*600",
+    "uniqueId": "",
+    "title": "Ind Sty:Fndtns Rsrch in Educ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ED*600",
+    "uniqueId": "",
+    "title": "Prv Sty:Fndtns Rsrch in Eucat",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*600",
+    "uniqueId": "",
+    "title": "Prv Sty:Foundations of Res Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*600",
+    "uniqueId": "",
+    "title": "Found of Educational Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*600",
+    "uniqueId": "",
+    "title": "Ind Sty: Found. of Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*600",
+    "uniqueId": "",
+    "title": "Prv Sty:Foundations Educ Res",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*600",
+    "uniqueId": "",
+    "title": "Prv Stu: Foundations of Resrch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "ED*601",
+    "uniqueId": "",
+    "title": "Phil Foundation Divers Soc Edu",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "ED*601",
+    "uniqueId": "",
+    "title": "Philosophy and Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "ED*602",
+    "uniqueId": "",
+    "title": "Des Inclus&Engaging Lrn Env",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "ED*602",
+    "uniqueId": "",
+    "title": "Design Incl&Engaging Lrng Env",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*602",
+    "uniqueId": "",
+    "title": "Learner-Centered Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*602",
+    "uniqueId": "",
+    "title": "Meth of Teach Sci-Sec Lev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ED*603",
+    "uniqueId": "",
+    "title": "Meth of Teach Engl-Sec Lev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*604",
+    "uniqueId": "",
+    "title": "Methods Tch Foreign Lang-Secnd",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ED*605",
+    "uniqueId": "",
+    "title": "Meth Tch Soc Stdies-Secnd Lev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*607",
+    "uniqueId": "",
+    "title": "Meth of Teach Math-Second Lev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*608",
+    "uniqueId": "",
+    "title": "Creative Thnk,Collab,&Ed Chge",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "ED*608",
+    "uniqueId": "",
+    "title": "PrvSty:Crea Thnk,Collab,&Ed C",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ED*608",
+    "uniqueId": "",
+    "title": "Educational Innovations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "ED*609",
+    "uniqueId": "",
+    "title": "Social Justice & Ed Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ED*609",
+    "uniqueId": "",
+    "title": "Social Justice and Technology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*611",
+    "uniqueId": "",
+    "title": "History of Education in U.S.",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "ED*612",
+    "uniqueId": "",
+    "title": "Phil,History&Reforms in Educ",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ED*612",
+    "uniqueId": "",
+    "title": "Prv Sty:Phil,Hist&Refrms Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*612",
+    "uniqueId": "",
+    "title": "Phil,Hist of Edu,&Curr Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*612",
+    "uniqueId": "",
+    "title": "Secondary Methods of Teaching",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "ED*613",
+    "uniqueId": "",
+    "title": "Mth Tch Business Secndry Level",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*618",
+    "uniqueId": "",
+    "title": "Instruct Theories&Practices",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "ED*618",
+    "uniqueId": "",
+    "title": "Prv Sty:Instrnl Thrs & Prctcs",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ED*619",
+    "uniqueId": "",
+    "title": "Thesis Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*621",
+    "uniqueId": "",
+    "title": "Learning Theory",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Int: Elementary MAT",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Sty:Youth&Adolescent Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Sty: Contemp Curr Thought",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Sty:Methods Teaching Art",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Sty in Educ:Fld Expernce",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Sty:Youth&Adlscent Litrcy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Sty:Content Area Literacy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Independent Study in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Sty: Lead Theor & Practic",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Prv Sty:Ed Literacy Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Sdy:Gndr Rls Children Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Study Educ: Sem in Ldrshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind St Edu:Child & Adoles Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Ind Stdy:Leadership Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ED*623",
+    "uniqueId": "",
+    "title": "Independent Study:Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ED*625",
+    "uniqueId": "",
+    "title": "Prv Sty:Montessori Capstone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ED*625",
+    "uniqueId": "",
+    "title": "Prv Sty: Montessori Capstone",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ED*625",
+    "uniqueId": "",
+    "title": "Montessori Capstone",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ED*625",
+    "uniqueId": "",
+    "title": "Prv Sty:Mont Cap:Prof Lrn Pln",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*625",
+    "uniqueId": "",
+    "title": "Mont Capstone: Prof Lrn Plan",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*625",
+    "uniqueId": "",
+    "title": "Advanced Study in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ED*625",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Sty in Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ED*625",
+    "uniqueId": "",
+    "title": "Prv Sty: Advanced Study Educ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ED*627",
+    "uniqueId": "",
+    "title": "Ind Sty: Adv Res Proj Edu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "ED*627",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Rsrch Prj Mont Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "ED*627",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Res Proj Monts Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ED*627",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Res Prj Mont ED",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "ED*627",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Res Prj Mntssr Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "ED*627",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Rsrch Prjct MO Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ED*627",
+    "uniqueId": "",
+    "title": "Adv Rsrch Prjct Montessori Ed",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*631",
+    "uniqueId": "",
+    "title": "Elem Mathematics Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ED*631",
+    "uniqueId": "",
+    "title": "Classroom Techniques in Arith",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "ED*641",
+    "uniqueId": "",
+    "title": "Int II Sem:Elem/Midl/Sec",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*643",
+    "uniqueId": "",
+    "title": "Internshp I:Secondary/Mid Lev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*644",
+    "uniqueId": "",
+    "title": "Internship I: Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*645",
+    "uniqueId": "",
+    "title": "InternshipII:Art (Elem/Sec)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "ED*648",
+    "uniqueId": "",
+    "title": "Globalization,Race&Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "ED*650",
+    "uniqueId": "",
+    "title": "Curriculum Theories&Practices",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*651",
+    "uniqueId": "",
+    "title": "Curriculum Theories",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "ED*651",
+    "uniqueId": "",
+    "title": "Eval&Asmnt Curriculum&Instruct",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "ED*652",
+    "uniqueId": "",
+    "title": "Eval&Assessmnt Pol&Practices",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "ED*652",
+    "uniqueId": "",
+    "title": "Prv Sty:Eval&Assessmt Pol&Prc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "ED*652",
+    "uniqueId": "",
+    "title": "Prv Sty:Eval&Asmt Pol&Prac",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*653",
+    "uniqueId": "",
+    "title": "Int II:Mathematics(Sec/Midl)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*655",
+    "uniqueId": "",
+    "title": "Int II:English (Sec/Middle)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ED*657",
+    "uniqueId": "",
+    "title": "Int II:Social Stud (Sec/Mdl)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*658",
+    "uniqueId": "",
+    "title": "Sem Curriculum & Instruction",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*659",
+    "uniqueId": "",
+    "title": "Power,Identity&Intersectional",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ED*659",
+    "uniqueId": "",
+    "title": "Prv Sty: Power,ident&intersec",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "ED*659",
+    "uniqueId": "",
+    "title": "Prv Sty:Pwr,Ident&Intersect'l",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ED*659",
+    "uniqueId": "",
+    "title": "Race, Class, & Gender Studies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ED*659",
+    "uniqueId": "",
+    "title": "Race Class Gender Study in Edu",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ED*662",
+    "uniqueId": "",
+    "title": "Asmt Clsrm:Models Tech&Proced",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*670",
+    "uniqueId": "",
+    "title": "Teacher Research and Inquiry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "ED*676",
+    "uniqueId": "",
+    "title": "Theory & Research on Teaching",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*680",
+    "uniqueId": "",
+    "title": "Internship II:Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*681",
+    "uniqueId": "",
+    "title": "Prof Growth Exp I: Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "ED*682",
+    "uniqueId": "",
+    "title": "Prof Growth Exp II: Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "ED*683",
+    "uniqueId": "",
+    "title": "Prof Growth Exp I: Elementary",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ED*684",
+    "uniqueId": "",
+    "title": "Prof Growth Exp I: Sec/Mdl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*685",
+    "uniqueId": "",
+    "title": "Prof Growth Exp II: Elem",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ED*686",
+    "uniqueId": "",
+    "title": "Prof Growth Exp II: Sec/Mdl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*687",
+    "uniqueId": "",
+    "title": "Professional Seminar in Math",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "ED*687",
+    "uniqueId": "",
+    "title": "Prof Growth Exp in Math",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Sp Tp:Dancing with Discomfort",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Sem in Curric&Instr:Spec Top",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Sp Tp Curr&Ins: Dance Discomf",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Sem Sp Top:School Aesthetics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Sp Tp:Mult Ltrcs, Scl Just",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Sem:Mult Lit,Soc Just&Glb Cit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Sp Tp: Cult Relevant Pedagogy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Sem:Eq, Jus,&Urb Ed thr Lit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Earth Science I(Elem/Middle)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "ED*700",
+    "uniqueId": "",
+    "title": "Earth Science I (Elem/Middle)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "ED*702",
+    "uniqueId": "",
+    "title": "Earth Science II(Elem/Middle)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*703",
+    "uniqueId": "",
+    "title": "Life Science (Elem/Middle)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*703",
+    "uniqueId": "",
+    "title": "Ind:Life Sci (Elemen&Middle)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ED*704",
+    "uniqueId": "",
+    "title": "Physical Science I(Elem/Mdle)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*705",
+    "uniqueId": "",
+    "title": "Physical Science II(Elem/Mdle)",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*706",
+    "uniqueId": "",
+    "title": "Environmental Field Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*706",
+    "uniqueId": "",
+    "title": "Pri Sty: Environment Field Sty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "ED*719",
+    "uniqueId": "",
+    "title": "Field Study in Earth Science",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ED*720",
+    "uniqueId": "",
+    "title": "Assess & Eval Math Instruc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "ED*728",
+    "uniqueId": "",
+    "title": "Geometry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ED*729",
+    "uniqueId": "",
+    "title": "Topics Num Theory&Disc Math",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "ED*729",
+    "uniqueId": "",
+    "title": "Number Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ED*750",
+    "uniqueId": "",
+    "title": "Prv Sty: Thesis Seminar I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "ED*750",
+    "uniqueId": "",
+    "title": "Ind Sty:Thesis Seminar I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "ED*750",
+    "uniqueId": "",
+    "title": "Ind Sty: Thesis Seminar I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*750",
+    "uniqueId": "",
+    "title": "Thesis Seminar I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*750",
+    "uniqueId": "",
+    "title": "Prv Study: Thesis Seminar I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ED*750",
+    "uniqueId": "",
+    "title": "Priv Study: Thesis Seminar I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "ED*751",
+    "uniqueId": "",
+    "title": "Prv Sty: Thesis Seminar II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ED*751",
+    "uniqueId": "",
+    "title": "Priv Study: Thesis Seminar II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*751",
+    "uniqueId": "",
+    "title": "Thesis Seminar II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*776",
+    "uniqueId": "",
+    "title": "Educational Research Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "ED*776",
+    "uniqueId": "",
+    "title": "Theory & Research on Teaching",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ED*780",
+    "uniqueId": "",
+    "title": "Methods of Tch Art (Pre K -12)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "ED*800",
+    "uniqueId": "",
+    "title": "Thesis Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "ED*805",
+    "uniqueId": "",
+    "title": "Capstone Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "ED*805",
+    "uniqueId": "",
+    "title": "Prv Sty:Capstone Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*805",
+    "uniqueId": "",
+    "title": "Prv Sty: Capstone Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ED*805",
+    "uniqueId": "",
+    "title": "Priv Study: Capstone Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "ED*900",
+    "uniqueId": "",
+    "title": "Adv Study in Music Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "ED*900",
+    "uniqueId": "",
+    "title": "Prv Sty:Advncd Stdy Music Edu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  }
+]

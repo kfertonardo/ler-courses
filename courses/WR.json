@@ -1,0 +1,1942 @@
+[
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Story Structure",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Refugee Programs Int",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Film Noir:Orig&Influ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Race,Publc Plcy,&Arg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Contemporary Poetry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Wrting Children's Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Adv Fiction:The Novel",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Writ Process Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Writ Across Crrlm Res",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty:ESL&ELL Learning Thry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Blues Bop Sequ Poems",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Senior Portfolio",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Matt Rooney's Was Ln",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*100",
+    "uniqueId": "",
+    "title": "Effective Writing",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*100",
+    "uniqueId": "",
+    "title": "Prv Sty:Effective Writing",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "WR*100D",
+    "uniqueId": "",
+    "title": "Effective Writing",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "WR*101",
+    "uniqueId": "",
+    "title": "Effective Writing:Seminar",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "WR*101",
+    "uniqueId": "",
+    "title": "Empirical Rhetoric: Eff Writ",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "WR*200",
+    "uniqueId": "",
+    "title": "Intro to Creative Nonfiction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "WR*200",
+    "uniqueId": "",
+    "title": "Prv Sty: Int Creat Nonfiction",
+    "tags": [
+      "2ndLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "WR*200",
+    "uniqueId": "",
+    "title": "Art of Nonfiction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*200",
+    "uniqueId": "",
+    "title": "The Creative Eye",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "WR*200",
+    "uniqueId": "",
+    "title": "The Creative Eye: Description",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "WR*201",
+    "uniqueId": "",
+    "title": "Creative Eye,Desc:Seminar",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "WR*201",
+    "uniqueId": "",
+    "title": "Emprcal Rhetoric:Creative Eye",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "WR*201",
+    "uniqueId": "",
+    "title": "Emprcal Rhtrc:Crtv Eye:Dscrpt",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "WR*201",
+    "uniqueId": "",
+    "title": "Emprcal Rhtrc: Creative Eye",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "WR*220",
+    "uniqueId": "",
+    "title": "Introduction to Rhetoric",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "WR*220",
+    "uniqueId": "",
+    "title": "Art of Rhetoric",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*220D",
+    "uniqueId": "",
+    "title": "Introduction to Rhetoric",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "WR*220D",
+    "uniqueId": "",
+    "title": "Art of Rhetoric",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*221",
+    "uniqueId": "",
+    "title": "Empir Rhetoric: Intro Rhetoric",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "WR*221",
+    "uniqueId": "",
+    "title": "Empir Rhetoric Intro Rhetoric",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*230",
+    "uniqueId": "",
+    "title": "Intro to Poetry and Fiction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "WR*230",
+    "uniqueId": "",
+    "title": "Art of Poetry and Fiction",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*230",
+    "uniqueId": "",
+    "title": "Introd to Creative Writing",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "WR*231",
+    "uniqueId": "",
+    "title": "Empir Rhetoric:Intro Crea Wrt",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "WR*231",
+    "uniqueId": "",
+    "title": "Empir Rhetoric Intro Crea Writ",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*244",
+    "uniqueId": "",
+    "title": "Fundamentals of Film Studies",
+    "tags": [
+      "2ndLevel"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "WR*300",
+    "uniqueId": "",
+    "title": "The History of the Essay",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*301",
+    "uniqueId": "",
+    "title": "Writing about Science",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "WR*301",
+    "uniqueId": "",
+    "title": "Translating the Secrets of Sci",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "WR*302",
+    "uniqueId": "",
+    "title": "Wet Ink:Wrtg&Edit Publication",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "WR*302",
+    "uniqueId": "",
+    "title": "Wet Ink:Rdg & Wrtg Lit Mags",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*303",
+    "uniqueId": "",
+    "title": "The History of Genre",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "WR*305",
+    "uniqueId": "",
+    "title": "Writing for the Web&Soc Media",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "WR*305",
+    "uniqueId": "",
+    "title": "Website Design and Creation",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "WR*305",
+    "uniqueId": "",
+    "title": "Writing for the Web",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "WR*310",
+    "uniqueId": "",
+    "title": "Pwr of Grmmar:Lng,Usage&Style",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*311",
+    "uniqueId": "",
+    "title": "Style",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "WR*320",
+    "uniqueId": "",
+    "title": "Argumentation",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "WR*320",
+    "uniqueId": "",
+    "title": "Art of the Argument",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "WR*320D",
+    "uniqueId": "",
+    "title": "Art of the Argument",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "WR*321",
+    "uniqueId": "",
+    "title": "Audience & the Writer's Voices",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*322",
+    "uniqueId": "",
+    "title": "Gendered Rhetoric",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "WR*323",
+    "uniqueId": "",
+    "title": "Wrtng Center Practice & Theory",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*323",
+    "uniqueId": "",
+    "title": "Priv Sty: Wrtng Prac & Theory",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*323D",
+    "uniqueId": "",
+    "title": "Wrtng Center Practice & Theory",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "WR*324",
+    "uniqueId": "",
+    "title": "Speech Writing and Delivery",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*324",
+    "uniqueId": "",
+    "title": "Prv Sty:Spch Writing&Delivery",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "WR*325",
+    "uniqueId": "",
+    "title": "Professional Writing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "WR*325",
+    "uniqueId": "",
+    "title": "Rhetoric of Professional Wrtng",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*326",
+    "uniqueId": "",
+    "title": "Technical Writing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "WR*327",
+    "uniqueId": "",
+    "title": "Civic Literacy",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "WR*330",
+    "uniqueId": "",
+    "title": "Writing Fiction and Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*331",
+    "uniqueId": "",
+    "title": "Empir Rhet:Wrtg Fictn&Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*333",
+    "uniqueId": "",
+    "title": "Writing Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*334",
+    "uniqueId": "",
+    "title": "Forms of Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "WR*335",
+    "uniqueId": "",
+    "title": "Advanced Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "WR*335",
+    "uniqueId": "",
+    "title": "Adv Fict: Short Story",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "WR*340",
+    "uniqueId": "",
+    "title": "Writing Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*340",
+    "uniqueId": "",
+    "title": "Private Study: Writing Poetry",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*341",
+    "uniqueId": "",
+    "title": "Poetic Forms",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "WR*342",
+    "uniqueId": "",
+    "title": "Advanced Poetry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "WR*343",
+    "uniqueId": "",
+    "title": "Sp Tp in Writ:Film Genres",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "WR*343",
+    "uniqueId": "",
+    "title": "SP TP: Writing Abt Food",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "WR*343",
+    "uniqueId": "",
+    "title": "Sp Top: Mafia in Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "WR*343",
+    "uniqueId": "",
+    "title": "Sp Tp: Lit of Magic,witchcraft",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "WR*343",
+    "uniqueId": "",
+    "title": "Sp Tp Writing Culture: Sports",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "WR*343",
+    "uniqueId": "",
+    "title": "Sp Tp Culture:Mafia in Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "WR*343",
+    "uniqueId": "",
+    "title": "Writing for the Stage",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "WR*344",
+    "uniqueId": "",
+    "title": "Fundamentals of Film Studies",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*345",
+    "uniqueId": "",
+    "title": "Screenwriting for Film & TV",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "WR*345",
+    "uniqueId": "",
+    "title": "Screen Writing for Film & TV",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "WR*345",
+    "uniqueId": "",
+    "title": "Priv Study: Screen Writing",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*347",
+    "uniqueId": "",
+    "title": "Writing with Images",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "WR*347",
+    "uniqueId": "",
+    "title": "Comics America:Funnies-Novels",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "WR*348",
+    "uniqueId": "",
+    "title": "Writing about Music&Culture",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "WR*350",
+    "uniqueId": "",
+    "title": "Art of Prose:Rachel Carson",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "WR*350",
+    "uniqueId": "",
+    "title": "Art of Prose: Rachel Carson",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "WR*350",
+    "uniqueId": "",
+    "title": "Art of Prose: E. B. White",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "WR*351",
+    "uniqueId": "",
+    "title": "Art of Essay: Women Writers",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "WR*351",
+    "uniqueId": "",
+    "title": "Art of Essay:Women Writers",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "WR*352",
+    "uniqueId": "",
+    "title": "Biography and Autobiography",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*353",
+    "uniqueId": "",
+    "title": "The Contemporary Essay",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*354",
+    "uniqueId": "",
+    "title": "Writing about the Environment",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "WR*354",
+    "uniqueId": "",
+    "title": "Nature Writing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "WR*355",
+    "uniqueId": "",
+    "title": "Travel Writing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*357",
+    "uniqueId": "",
+    "title": "Writing about Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "WR*357",
+    "uniqueId": "",
+    "title": "Writing About Film",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "WR*358",
+    "uniqueId": "",
+    "title": "Literary Reviewing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "WR*359",
+    "uniqueId": "",
+    "title": "Pri Stdy: Surv Stor Adv Nonfic",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "WR*378",
+    "uniqueId": "",
+    "title": "Thinking about Crime Fiction",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top Cw: Insp Across Genres",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top: Literature of Walking",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp:Read as Writ-Short Stry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top:Poetics of Soc Justice",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "SpTp Crtv Wrtng: Research&Arc",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Spc Top CW: Poetic Influence",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Spec Topic:Memoirs of Crisis",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top:Poetics of Social Just",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Spec Top:Writing About Food",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Spec Top:Writing About Place",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp: Read As Writ: Shrt Stry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top: Mak Books/Com Artistry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Special Topics:Apocalypse Now",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp:Rdng Like Writer/St Str",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp: Women Playwrights",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp:Memoirs of Crisis",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp:Literary Biography",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp CW:Trth Tell Contmp Lit",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp: Memoirs of Crisis",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Prv Sty: Trans Words to Imgs",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp:Writing for the Web",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top:Writing for the Web",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top: Writing for the Web",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top Writ:Writing for Web",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Spc Tp: Writing for the Web",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Priv Sty: App Shrt Fic & Nonfi",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Spec Top: History Prose Style",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top Wrtng: Civil Literacy",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Top Writing:Comics America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tpc Wrtng: Wrtng Mus&Cult",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Spec Top: Civic Lit Serv Learn",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "WR*385",
+    "uniqueId": "",
+    "title": "Sp Tp: Comics in America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "WR*385D",
+    "uniqueId": "",
+    "title": "Sp Top:Poetics of Social Just",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "WR*386",
+    "uniqueId": "",
+    "title": "Sp Tp in Rhet: Rhet in America",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "WR*386",
+    "uniqueId": "",
+    "title": "Sp Tp:Rhet Resst Women's Writ",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "WR*386",
+    "uniqueId": "",
+    "title": "Sp Top:Dem, Pol,&Amer Foun Tx",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "WR*386",
+    "uniqueId": "",
+    "title": "Prv Sty:Rhetoric of Accountng",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "WR*386",
+    "uniqueId": "",
+    "title": "Sp Top Rhet:Race,Gndr,Class",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "WR*386",
+    "uniqueId": "",
+    "title": "Sp Top Rhet:Adv Writ Ctr Res",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "WR*387",
+    "uniqueId": "",
+    "title": "Sptp Prof Wr: Writ Abou Health",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "WR*387",
+    "uniqueId": "",
+    "title": "Spec Top:Writing about Health",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "WR*387",
+    "uniqueId": "",
+    "title": "Sp Tp Prof WR:Contempry Art",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "WR*387",
+    "uniqueId": "",
+    "title": "Sp Tp:Writ for Gamng Industry",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "WR*387",
+    "uniqueId": "",
+    "title": "Sp Top:Memoirs of Crisis",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "WR*387",
+    "uniqueId": "",
+    "title": "Sp Top:Reading Like a Poet",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "WR*387",
+    "uniqueId": "",
+    "title": "Sp Topics:Technical Writing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "WR*387",
+    "uniqueId": "",
+    "title": "Sp Tp Prof Writ:Tech Writing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "WR*395",
+    "uniqueId": "",
+    "title": "Fiction,Film&Pol Thgt 1980s",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "WR*400",
+    "uniqueId": "",
+    "title": "Senior Seminar",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "WR*400",
+    "uniqueId": "",
+    "title": "Senior Seminar: New Writers",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*400",
+    "uniqueId": "",
+    "title": "Senior Seminar:New Writers",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "WR*400",
+    "uniqueId": "",
+    "title": "Ind Study: T.S. Elliot",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Snr Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Prv Sty: Senior Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Senior Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Senior Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Senior Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Indep Study: Senior Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Prv Study: Senior Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Ind Study: Senior Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Prv Stu: Writing Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "WR*401",
+    "uniqueId": "",
+    "title": "Priv Sty: Portfolio",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "WR*402",
+    "uniqueId": "",
+    "title": "Writing Internship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "WR*402",
+    "uniqueId": "",
+    "title": "Int:health & Human Exp Intrnsh",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "WR*403",
+    "uniqueId": "",
+    "title": "Writing Internship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "WR*403",
+    "uniqueId": "",
+    "title": "Int: Writing Internship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "WR*496",
+    "uniqueId": "",
+    "title": "Ind Sty: Envnmntl Stds Exprnc",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "WR*496",
+    "uniqueId": "",
+    "title": "Prv Sty:Environmental Stds Ex",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "WR*496",
+    "uniqueId": "",
+    "title": "Prv Sty:Envrnmntl Studies Exp",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "WR*496",
+    "uniqueId": "",
+    "title": "Ind Sty: Enviro Studies Exp",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "WR*496",
+    "uniqueId": "",
+    "title": "Int:Vegetarian Resource Writi",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "WR*496",
+    "uniqueId": "",
+    "title": "Int:Environmental Studies Exp",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "WR*625",
+    "uniqueId": "",
+    "title": "Professional Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "WR*626",
+    "uniqueId": "",
+    "title": "Advanced Technical Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "WR*626",
+    "uniqueId": "",
+    "title": "Technical Writing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 24
+  }
+]

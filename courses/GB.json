@@ -1,0 +1,4904 @@
+[
+  {
+    "courseNumber": "GB*500",
+    "uniqueId": "",
+    "title": "Fundamentals of Math for Bus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*500",
+    "uniqueId": "",
+    "title": "Fundamentals of Math",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*600",
+    "uniqueId": "",
+    "title": "Statstcal Application in Busi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*600",
+    "uniqueId": "",
+    "title": "Statistical Apps in Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*600",
+    "uniqueId": "",
+    "title": "Statistical Application in Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*603",
+    "uniqueId": "",
+    "title": "Financial Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*611",
+    "uniqueId": "",
+    "title": "Global Economic Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*612",
+    "uniqueId": "",
+    "title": "Legal & Regulatory Environment",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*612",
+    "uniqueId": "",
+    "title": "The Legal &Regulatory Envirnm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*613",
+    "uniqueId": "",
+    "title": "Financial Reporting & Analysis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*613",
+    "uniqueId": "",
+    "title": "Fin Reporting & Analy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*615",
+    "uniqueId": "",
+    "title": "Manag Acct:Anlysis Decsn Mkng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GB*615",
+    "uniqueId": "",
+    "title": "Manag Acct:Anlysis Decsn-Mkng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*616",
+    "uniqueId": "",
+    "title": "Marketing Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*617",
+    "uniqueId": "",
+    "title": "Globalization & Intl Business",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*617",
+    "uniqueId": "",
+    "title": "Globlzation& Interntl Busines",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*618",
+    "uniqueId": "",
+    "title": "Operations Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*619",
+    "uniqueId": "",
+    "title": "Financial Accounting Model",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*620",
+    "uniqueId": "",
+    "title": "Fundamentals of Finance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*622",
+    "uniqueId": "",
+    "title": "Operations Mgmt&Dec Making",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GB*622",
+    "uniqueId": "",
+    "title": "Operations Mgmt&Dec-Making",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*622",
+    "uniqueId": "",
+    "title": "Analysis and Decision-Making",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*661",
+    "uniqueId": "",
+    "title": "Financial Account Problems I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*700",
+    "uniqueId": "",
+    "title": "Bus Ethics&Corp Social Resp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*700",
+    "uniqueId": "",
+    "title": "Ethics & Social Responsibil",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*700",
+    "uniqueId": "",
+    "title": "Ethics & Social Responsibilty",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*701",
+    "uniqueId": "",
+    "title": "Operations&Process Strategies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "GB*701",
+    "uniqueId": "",
+    "title": "Ops Management&Process Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*701",
+    "uniqueId": "",
+    "title": "Ops & Supply Chain Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*701",
+    "uniqueId": "",
+    "title": "Ops Management&Procss Stratgs",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*701",
+    "uniqueId": "",
+    "title": "Risk Assessment&Process Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*701",
+    "uniqueId": "",
+    "title": "Operations & Project Managemt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*702",
+    "uniqueId": "",
+    "title": "Marketing Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*703",
+    "uniqueId": "",
+    "title": "Financial Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*703",
+    "uniqueId": "",
+    "title": "Financial Applicatns & Stratg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*703",
+    "uniqueId": "",
+    "title": "Financial Apps and Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*704",
+    "uniqueId": "",
+    "title": "Emerg Tech, Art Int, Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "GB*704",
+    "uniqueId": "",
+    "title": "Emerging Tech&Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "GB*704",
+    "uniqueId": "",
+    "title": "Info Technology & Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "GB*704",
+    "uniqueId": "",
+    "title": "Info & Tech Strategic Partners",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*704",
+    "uniqueId": "",
+    "title": "Info & Tech for Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*704",
+    "uniqueId": "",
+    "title": "Info and Tech for Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*705",
+    "uniqueId": "",
+    "title": "Leading and Managing People",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*705",
+    "uniqueId": "",
+    "title": "Leadership and Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*706",
+    "uniqueId": "",
+    "title": "Accounting for Decision Making",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*707",
+    "uniqueId": "",
+    "title": "Managerial Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*708",
+    "uniqueId": "",
+    "title": "AI Strategies for Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GB*709",
+    "uniqueId": "",
+    "title": "Strategic Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*709",
+    "uniqueId": "",
+    "title": "Business Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*710",
+    "uniqueId": "",
+    "title": "Capstn Wkshp:Ref-Put Val Act",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*710",
+    "uniqueId": "",
+    "title": "Capstn Wksho:Ref-Put Val Act",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*711",
+    "uniqueId": "",
+    "title": "Prv Sty:Comm Legl Reg Env Bus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "GB*711",
+    "uniqueId": "",
+    "title": "Comm in Legal Reg Env of Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GB*712",
+    "uniqueId": "",
+    "title": "Law,Ethics&Soc Responsibility",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "GB*712",
+    "uniqueId": "",
+    "title": "Health Care Financing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*713",
+    "uniqueId": "",
+    "title": "ESG Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "GB*714",
+    "uniqueId": "",
+    "title": "Risk Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GB*715",
+    "uniqueId": "",
+    "title": "Applied Business Statistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*716",
+    "uniqueId": "",
+    "title": "Globalization & Intl Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*717",
+    "uniqueId": "",
+    "title": "Organizational Resilience",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "GB*718",
+    "uniqueId": "",
+    "title": "Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Workplace Auditing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Advncd Acctng Anlyss",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:AI Forensic Audit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Comm Legal&Reg Enviro",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Data Mngmt&Databse Sy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Data Visualization",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Operations Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Capitl Bdgtng:App&Prc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Global Happiness",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty Mk:Case Writing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Change Mgt in IT",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Prv Sty:International HR Mngt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Independent Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Obj-Or Program w/Java",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Med Lit Clinical Sty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Valu of Pub V Priv Fi",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Bond Offerings",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Stdy:S&P 500 Div Growth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Stdy: Mrkting Strat Implem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Indp Sty: Intl Bus & Trade Neg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Quality & Lean Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Effect News Stck Perf",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study: Java Programming",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study: Data Mining",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Stdy: Cost Analysis Study",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study: The Jesuit Network",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study: Mktg Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Global Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study:The Jesuit Network",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Adv Mktg Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Investor Psychology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: International Mktg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study: Fin & Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Int:Marketing Financial Svcs",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind:Pwr Privelge&Pro Identity",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind:The Glass Ceiling & Race",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind:Effects HL News Stock Prf",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study: Bus Impact of Fraud",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Spec Topics in Mktg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty: Intshp Mktg Strategy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study: Intern'l Finance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind St: Reshrc in Health Care",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Intns:Project Mgmt Srvce Ind",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind St:Behavioral Investing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study:Project Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Std:Dsgn&Dev Str Mkt Plns",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Special Tpc in Law&Soc Rspnbl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Sty:Int Bus Dip Mdl East",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Study: Social Marketing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind St:Research in Healthcare",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind Stdy:Foreign Dir Investmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*719",
+    "uniqueId": "",
+    "title": "Ind St:Strtgc Planning Nonpro",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*720",
+    "uniqueId": "",
+    "title": "Advanced Corporate Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "GB*720",
+    "uniqueId": "",
+    "title": "Financial Theory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*721",
+    "uniqueId": "",
+    "title": "Advanced Financial Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GB*722",
+    "uniqueId": "",
+    "title": "Investment Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GB*722",
+    "uniqueId": "",
+    "title": "Investments Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*723",
+    "uniqueId": "",
+    "title": "Portfolio Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*724",
+    "uniqueId": "",
+    "title": "Financial Markets&Institution",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*724",
+    "uniqueId": "",
+    "title": "Financial Mkts&Institutions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*724",
+    "uniqueId": "",
+    "title": "Financial Markets&Instruments",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*725",
+    "uniqueId": "",
+    "title": "Financial Modeling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GB*725",
+    "uniqueId": "",
+    "title": "Financial Theory and Modeling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*725",
+    "uniqueId": "",
+    "title": "Financial Institutions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*726",
+    "uniqueId": "",
+    "title": "International Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*727",
+    "uniqueId": "",
+    "title": "Investment Banking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*728",
+    "uniqueId": "",
+    "title": "Mergers and Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*729",
+    "uniqueId": "",
+    "title": "Financial Modeling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*730",
+    "uniqueId": "",
+    "title": "Introduction to Data Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "GB*730",
+    "uniqueId": "",
+    "title": "Business Anlytcs&Strg Dec Mkg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GB*730",
+    "uniqueId": "",
+    "title": "Decision Making High Tech Env",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*731",
+    "uniqueId": "",
+    "title": "Introduction to Programming",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "GB*734",
+    "uniqueId": "",
+    "title": "Managing Global Supply Chains",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GB*735",
+    "uniqueId": "",
+    "title": "Project Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "GB*736",
+    "uniqueId": "",
+    "title": "Data Visualization Decs Making",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "GB*736",
+    "uniqueId": "",
+    "title": "Data Visualization",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "GB*737",
+    "uniqueId": "",
+    "title": "Logistics & Supply Chain Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GB*739",
+    "uniqueId": "",
+    "title": "Data Mgmt&Database Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "GB*740",
+    "uniqueId": "",
+    "title": "Digital Marketing & Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "GB*741",
+    "uniqueId": "",
+    "title": "Consumer Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GB*742",
+    "uniqueId": "",
+    "title": "Customer Exp Design&Delivery",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "GB*742",
+    "uniqueId": "",
+    "title": "Prv Sty:Custmer Dsign&Delvry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "GB*742",
+    "uniqueId": "",
+    "title": "Advanced Marketing Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*743",
+    "uniqueId": "",
+    "title": "Services Marketing&Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "GB*743",
+    "uniqueId": "",
+    "title": "Health Care Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*744",
+    "uniqueId": "",
+    "title": "Customer-Focused Innovat Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "GB*744",
+    "uniqueId": "",
+    "title": "New Product Devlp & Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "GB*745",
+    "uniqueId": "",
+    "title": "Emerging Trends in Global Mktg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GB*745",
+    "uniqueId": "",
+    "title": "Customer Experience Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*745",
+    "uniqueId": "",
+    "title": "Electronic Commerce Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*746",
+    "uniqueId": "",
+    "title": "Strategies for Marketing Comm",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "GB*746",
+    "uniqueId": "",
+    "title": "Promotional Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp:Emrgng Trnds Glb Mkting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp:Digital Mark&Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top: Data Driven Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp MK:Sales Mngt&Strtgies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp: Social Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp: Services Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp:Consumer Anlysis Mg Dec",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp Marketing: Social Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp:Strtgc Sales Ldrship&Mg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp:Brand Mk&Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp in Mk:Consmr Bhvior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top in Mk: Brand Mgnt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp: Marketing&Social Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top: Services Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top: Marketing Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top: Sales Mgmnt and Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Special Topics: Branding",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top: Retail Mark&Chan Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Spec Top: Sales Mgmt & Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Special Top: Market Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top: Buyer Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top: Branding & Packaging",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top Mrkt: Brand Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top Mktg: Buyer Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top:Retail&Channel Managem",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp:Sales&Sales Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Top: Technology&Innovation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp:Guerilla Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Sp Tp: Tech & Innovation Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Spc Top: Sales Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Spc Topic:Retailing Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Spc Tpc:Consumer Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*747",
+    "uniqueId": "",
+    "title": "Spc Top:Sports&Entertain Mkt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*748",
+    "uniqueId": "",
+    "title": "International Marketing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*748",
+    "uniqueId": "",
+    "title": "Int'l Marketing: Study Tour",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*749",
+    "uniqueId": "",
+    "title": "Customer Exp Mgmt: Disney Tour",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "GB*750",
+    "uniqueId": "",
+    "title": "Sec Controls & Prevention Strg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GB*750",
+    "uniqueId": "",
+    "title": "Security Controls for Managers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*751",
+    "uniqueId": "",
+    "title": "Strategic Security Planning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GB*751",
+    "uniqueId": "",
+    "title": "Basic Security Planning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*752",
+    "uniqueId": "",
+    "title": "Infrmation Systms Anylsis&Dsg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*753",
+    "uniqueId": "",
+    "title": "Lgl,Eth&Global Pers Cyber Sec",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GB*753",
+    "uniqueId": "",
+    "title": "Leg,Eth&Global Pers Cybersec",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*753",
+    "uniqueId": "",
+    "title": "Leg,Eth&Global Pers Cyber Sec",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*754",
+    "uniqueId": "",
+    "title": "Intro to Cyber Sec Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GB*754",
+    "uniqueId": "",
+    "title": "Introduction to Cybersecurity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*754",
+    "uniqueId": "",
+    "title": "Cyber Security",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*754",
+    "uniqueId": "",
+    "title": "Cybersecurity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*754",
+    "uniqueId": "",
+    "title": "Information Systems Security",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*755",
+    "uniqueId": "",
+    "title": "Web Technologies & Strategies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "GB*755",
+    "uniqueId": "",
+    "title": "App E-Bsns Strat,Implm,&Tech",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*756",
+    "uniqueId": "",
+    "title": "Database Mng & Database Dev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GB*756",
+    "uniqueId": "",
+    "title": "Database Dsgn & Implementatn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*757",
+    "uniqueId": "",
+    "title": "Systems Thnkng&Risk Assessmnt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GB*757",
+    "uniqueId": "",
+    "title": "Prv Sty: Thnkng&Rsk Assessmnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*757",
+    "uniqueId": "",
+    "title": "Enterprise Security & Plan",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Tp: Ethics&Law Data Analyt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Tp IS: Location Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Top:Data Mgmt&Database Sys",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Tp:Data Mgmt&Database Syst",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Tp MIS:IT-Enabled HR Mgt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Tp IS:Computing in Cloud",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Tp: Computing the Cloud",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Spc Top: Emerg It for Managers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Spc Top MIS: Data Mining & BI",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Spc Top MIS: IT Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Knowledge Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Top: Web 2.0 Tech & Stragy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Spc Top: Creating a Secure Env",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Top: Telecommntn & Ntwrkng",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Top:Sum Stdy Tour to India",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Top:Data Mining Bus Intell",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Sp Top: Entrprse Integration",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Spc Top:IT Project Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Spc Top: IT Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*759",
+    "uniqueId": "",
+    "title": "Spc Tp MIS:Quality Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*760",
+    "uniqueId": "",
+    "title": "Advanced Managerial Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "GB*761",
+    "uniqueId": "",
+    "title": "Financial Accounting Prob II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*762",
+    "uniqueId": "",
+    "title": "Cost Accounting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*763",
+    "uniqueId": "",
+    "title": "Advanced Topics in Accounting",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GB*764",
+    "uniqueId": "",
+    "title": "Federal Taxtn Bus Entities",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "GB*764",
+    "uniqueId": "",
+    "title": "Federal Taxtn Business Entiti",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*765",
+    "uniqueId": "",
+    "title": "Auditing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*766",
+    "uniqueId": "",
+    "title": "Adv Topics in Aud & Prof",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GB*767",
+    "uniqueId": "",
+    "title": "Professional Communications",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GB*768",
+    "uniqueId": "",
+    "title": "Info Sys in Global Environment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "GB*769",
+    "uniqueId": "",
+    "title": "Glob Fi&Mgmt Iss Aff EU&Beynd",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "GB*770",
+    "uniqueId": "",
+    "title": "Sp Top: Advanced CSR",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "GB*770",
+    "uniqueId": "",
+    "title": "Sp Top: Iss Ethics Soc Resp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*770",
+    "uniqueId": "",
+    "title": "Sp Top: Iss Ethics & Corp Resp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*770",
+    "uniqueId": "",
+    "title": "Spectop: Securities Regulation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*770",
+    "uniqueId": "",
+    "title": "Spec Top: Intl Business Law",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*770",
+    "uniqueId": "",
+    "title": "Spc Top: Internl Corp Soc Resp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*770",
+    "uniqueId": "",
+    "title": "Tpc:Intn'l Ethics&Corp Soc Re",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*770",
+    "uniqueId": "",
+    "title": "Sp Tpc:The Glass Ceiling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*772",
+    "uniqueId": "",
+    "title": "Workplace Equity&Prof ID",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "GB*772",
+    "uniqueId": "",
+    "title": "Power, Privlg,&Prof Identity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*772",
+    "uniqueId": "",
+    "title": "Power, Privlg&Prof Identity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*772",
+    "uniqueId": "",
+    "title": "Power Privilege and Prof Iden",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*774",
+    "uniqueId": "",
+    "title": "Business Law:Commercial Trans",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*778",
+    "uniqueId": "",
+    "title": "Employment Law",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "GB*779",
+    "uniqueId": "",
+    "title": "Intl Sty Tr:Corp Soc Respblty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*779",
+    "uniqueId": "",
+    "title": "Intl Sty Tr: Corp Soc Respblty",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*780",
+    "uniqueId": "",
+    "title": "Pricing Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*783",
+    "uniqueId": "",
+    "title": "Managing Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "GB*785",
+    "uniqueId": "",
+    "title": "Management Consulting",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "GB*791",
+    "uniqueId": "",
+    "title": "Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*792",
+    "uniqueId": "",
+    "title": "Human Resources Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "GB*793",
+    "uniqueId": "",
+    "title": "Leading Organizational Change",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*793",
+    "uniqueId": "",
+    "title": "Organizational Change",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GB*794",
+    "uniqueId": "",
+    "title": "Managing Service Organizations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp: New Global & Innv Imp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp: Cross Cultural Leaders",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp:New Global Env&Innv Imp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp: Trans of Glob Workforce",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top:Managing Global Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top:Global Collaboration",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top: Global Soc Entrepren",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top IB:Glob Strat Alliance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp: Glbl Collaboration Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp: Global Soc Entrepreneur",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp IB:Mge Sustainable Dev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp IB:Leadshp Glob Economy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp IB:Soc Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Strtgic Alliance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Soc Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp:Env,Soc,Econ,&Gov 2012",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top: Emerging Economics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp: Social Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top:Int Fi Trade&Investmnt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top in IB: Issues Multinat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top IB: Emerging Economies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top:Technology and Trade",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Int'l Fin, Trade, & Investment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Social Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top: Glob Competitive Firms",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top: Emerg Iss in Intl Bus",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Ad Top Int'l Trde Fin & Invest",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top International Entrepshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top:Intl Trade Fin & Invst",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top:Sum Stdy Tour to India",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top: Intl Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Top:Glob Compet Firms:Clu&Nat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top: Global Competitiveness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp:Glb Cmp Frms Clstr&Nat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Ind Sty:Glob Soc Enter Rsrch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top:Adv Intl Trade,Fin&Inv",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top International Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Competitiveness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Top: Sem Global Soc Enter",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp:Intnl Comparative Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tp:Adv Tp Int Trd,Fin&Inv",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Sp Tpc:Global Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Spc Top:Sem Glob:Opp & Chall",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*795",
+    "uniqueId": "",
+    "title": "Spc Top: Man Div Dom & Interl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*796",
+    "uniqueId": "",
+    "title": "International Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Angel Investing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Applied Angel Investing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Ethics&Law Data Analyt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp Mgmt:Strateg Risk Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Applied Angel Investing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spec Top: Strategic Risk Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: New Global & Innv Imp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp Mg: Cross Cultural Lead",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:New Global Env&Innv Imp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Trans of Glob Workforce",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top:Managing Global Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top:Global Collaboration",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top: Global Soc Entrepren",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spec Top MG:Glob Strat Allian",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp Mgt:Sales Mgmt&Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Global Soc Entrepreneur",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Glbl Collaboration Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp Mgt:Mge Sustainable Dev",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Creat&Sus Hi Effct Team",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Crting Highly Effc Team",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp MG:Leadshp Glob Economy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp MG:Soc Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp MG:IT-Enabled HR Mgt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Strtgic Alliance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Personal Effectiveness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Global Soc Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Non-prof&Soc Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Reflective Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Entrep&Innov Nonpft Org",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp in Mgt:Prsnl Effctvnss",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Business Plan Develop",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Prac Tools Mana Career",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Managing Groups&Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Pers Effe Imp Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Entr&Innovation in NPOs",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Social Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Business Plan Develop",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top in Mgt:Managing Groups",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top:Person Effect Imp Strt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top:Dark Side of Ldrshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top Mgmt:Bus Plan Develop",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top:Prac Tls Mng Career",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spec Top Mgmt: Virtual Teams",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Strategy Implem & Pers Effect",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spec Top: Social Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spec Top: Tools Manage Career",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Business Plan Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top Business Plan Develop",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top International Entrepshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top: Sem Social Enterprise",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top: Pers Effect Impl Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top: Per Eff Imple Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top Man: Per Eff Implm Stra",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top: Family Bus Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top: Intl Entrepreneurship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Family Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spec Top Mgmt: Glob Soc Enter",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Prac Tools In Mgmt Car",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Technology&Innovation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spec Top Mgmt: Glob Soc Enterp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Per Eff Implem Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top Mgmt: Creatvy Orgnztns",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top: Sem Globel Soc Enter",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Sem Technology Strat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:IT Project Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spc Top:Family Business",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp:Intnl Comparative Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tp: Tech & Innovation Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top:Prac Tools Mgn Career",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tpc:Glb Persp Wkpl Values",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spc Top:Sem Glob:Opp & Chall",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spc Top:Perspect Wrkpl Values",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spc Tp:Creatvity in Orgnzatns",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Top:Prac Tools Mang Career",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tpc:The Glass Ceiling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Sp Tpc:Global Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*797",
+    "uniqueId": "",
+    "title": "Spc Top: Man Div Dom & Interl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*798",
+    "uniqueId": "",
+    "title": "Global Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*820",
+    "uniqueId": "",
+    "title": "Advanced Financial Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*821",
+    "uniqueId": "",
+    "title": "Financial Policy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*822",
+    "uniqueId": "",
+    "title": "Fixed Income Securities",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*823",
+    "uniqueId": "",
+    "title": "Derivatives & Risk Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp: Financial Modeling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Top:Mergers&Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spec Topics FI: Mutual Funds",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Special Topic in Finance: SAP",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spc Top:Mergers & Acquisition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Prv Sty:Mergers & Acquisition",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Sellinger App Port Fund",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Sellinger Appl Prtfolio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Mergers & Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Prv Sty:Mutual Fund Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp FI:Entrepreneurial FI",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Mergers&Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Entrepreneurial Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Top: Real Estate Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "SpTop:Financial Cris:Pst&Pres",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spec Top: Investment Banking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Top: Mergers & Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spec Top: Real Estate Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Top: Trading & Exchanges",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spec Top: Trading & Exchanges",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spe Top: Controller & Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Top Fin:Valuation of Firms",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Top Finance: Fin Instns",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Top Fin:Controllership&Fin",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spec Top in Fin:Trade&Exchng",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp: Innovations in Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp:Trading and Exchanges",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Sp Tp:New Chall Cntroshp&Fin",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spc Top:Mergers&Acquistions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spc Top:Investment Banking",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Special Topic:Merg & Acquisit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Tpc:New Chllngs Contrllshp&Fi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spc TP Fin:Finance Rsrch Proj",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Special Topic:Capital Budget",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*825",
+    "uniqueId": "",
+    "title": "Spc Top:Mergers&Acquisitions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*827",
+    "uniqueId": "",
+    "title": "Valuation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "GB*828",
+    "uniqueId": "",
+    "title": "Sellinger Appld Portfolio Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "GB*828",
+    "uniqueId": "",
+    "title": "St-Mngd Slngr App Port Fund",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GB*828",
+    "uniqueId": "",
+    "title": "St-Mngd Slngr App Port Fund I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GB*829",
+    "uniqueId": "",
+    "title": "St-Mngd Slngr App Port FundII",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "GB*850",
+    "uniqueId": "",
+    "title": "Global Information Systems",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*851",
+    "uniqueId": "",
+    "title": "Applied Machine Learning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "GB*851",
+    "uniqueId": "",
+    "title": "Bus Intelligence&Data Mining",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "GB*851",
+    "uniqueId": "",
+    "title": "Stragetic Bus Intelligence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "GB*851",
+    "uniqueId": "",
+    "title": "Bus Intel & Data Mining",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "GB*858",
+    "uniqueId": "",
+    "title": "Information Technol Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*867",
+    "uniqueId": "",
+    "title": "Sp Top: Controllership & Finan",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "GB*867",
+    "uniqueId": "",
+    "title": "Sp Top: Controller & Finance",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GB*867",
+    "uniqueId": "",
+    "title": "SpTop FinAcct:Controller&Fin",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "GB*867",
+    "uniqueId": "",
+    "title": "Sp Tp:New Chall Cntroshp&Fin",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GB*867",
+    "uniqueId": "",
+    "title": "Tpc:New Chllngs Contrllshp&Fi",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GB*894",
+    "uniqueId": "",
+    "title": "Ad Tp Int'l Trade,Finance,Inv",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "GB*895",
+    "uniqueId": "",
+    "title": "Quality Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*896",
+    "uniqueId": "",
+    "title": "Power and Influence",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "GB*897",
+    "uniqueId": "",
+    "title": "Negotiation&Dispute Resolution",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GB*898",
+    "uniqueId": "",
+    "title": "New App Global Competitiveness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "GB*898",
+    "uniqueId": "",
+    "title": "New Str Glo Comp Firm Clus Nat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 11
+  }
+]

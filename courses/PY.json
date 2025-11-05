@@ -1,0 +1,9388 @@
+[
+  {
+    "courseNumber": "PY*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Reduct in Psychodiag",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*001",
+    "uniqueId": "",
+    "title": "Ind St: Res: Self & Soc Relat",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Psychology Resch Proj",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*001",
+    "uniqueId": "",
+    "title": "Independ Study in Psychology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*101",
+    "uniqueId": "",
+    "title": "Introductory Psychology",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*101D",
+    "uniqueId": "",
+    "title": "Introductory Psychology",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*102",
+    "uniqueId": "",
+    "title": "First-Year Seminar in Psycholo",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "PY*200",
+    "uniqueId": "",
+    "title": "Professional Develop in Psych",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*201",
+    "uniqueId": "",
+    "title": "Social Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*201D",
+    "uniqueId": "",
+    "title": "Social Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*202",
+    "uniqueId": "",
+    "title": "Psychopathology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "PY*202",
+    "uniqueId": "",
+    "title": "Abnormal Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*202D",
+    "uniqueId": "",
+    "title": "Psychopathology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "PY*202D",
+    "uniqueId": "",
+    "title": "Abnormal Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*203",
+    "uniqueId": "",
+    "title": "Psychology of Personality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*205",
+    "uniqueId": "",
+    "title": "Educational Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "PY*221",
+    "uniqueId": "",
+    "title": "Psychology of Learning",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*222",
+    "uniqueId": "",
+    "title": "Cognitive Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*223",
+    "uniqueId": "",
+    "title": "Biopsychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*225",
+    "uniqueId": "",
+    "title": "Sleep,Circadian Rhythms&Behav",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*241",
+    "uniqueId": "",
+    "title": "Child Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*241",
+    "uniqueId": "",
+    "title": "Child Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*241D",
+    "uniqueId": "",
+    "title": "Child Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "PY*242",
+    "uniqueId": "",
+    "title": "Adolescent Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*242",
+    "uniqueId": "",
+    "title": "Adolescent Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*242D",
+    "uniqueId": "",
+    "title": "Adolescent Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*242D",
+    "uniqueId": "",
+    "title": "Adolescent Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*243",
+    "uniqueId": "",
+    "title": "Adult Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PY*243D",
+    "uniqueId": "",
+    "title": "Adult Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "PY*244",
+    "uniqueId": "",
+    "title": "Life Span Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*244",
+    "uniqueId": "",
+    "title": "Life Span Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*244D",
+    "uniqueId": "",
+    "title": "Life Span Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*244D",
+    "uniqueId": "",
+    "title": "Life Span Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*245",
+    "uniqueId": "",
+    "title": "Aging and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "PY*245D",
+    "uniqueId": "",
+    "title": "Aging and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*250",
+    "uniqueId": "",
+    "title": "Introduction to Counseling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*253",
+    "uniqueId": "",
+    "title": "Multicultural Issues in Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*253D",
+    "uniqueId": "",
+    "title": "Multicultural Issues in Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*254",
+    "uniqueId": "",
+    "title": "Psychology of Women",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PY*254D",
+    "uniqueId": "",
+    "title": "Psychology of Women",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*255",
+    "uniqueId": "",
+    "title": "Psychology of Religion",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*256",
+    "uniqueId": "",
+    "title": "Psychology of Gender",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*256D",
+    "uniqueId": "",
+    "title": "Psychology of Gender",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "PY*261",
+    "uniqueId": "",
+    "title": "Intro to Health Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*262",
+    "uniqueId": "",
+    "title": "Indstrl/Orgnztnl Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PY*265",
+    "uniqueId": "",
+    "title": "Forensic Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*265D",
+    "uniqueId": "",
+    "title": "Forensic Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*270",
+    "uniqueId": "",
+    "title": "Gender,Culture,& Madness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "PY*291",
+    "uniqueId": "",
+    "title": "Research Methods I (with Lab)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*292",
+    "uniqueId": "",
+    "title": "Research Methods II (with Lab)",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Rductnsm&Psycodgnsis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Slp Hlth Fstr Cr Wrkr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Psyc Sexual Assault",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Adoles Sleep Juv Env",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Reductionism in Psyc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Sleep Ed Pediatric",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Sleep in Juv Jus Env",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Ado Sleep Juv Jus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Good Guy Bad Guy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Ageism",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Eff Expl Mat on Self",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Psych,Relig,&Aging",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Juv's Slp Hlth Dtnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Mntl Ill Stig Wrkplc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Juv's Slp Hlth Dtnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Fster Care Sleep Hlth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Housing Sec&Mntl Hlth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Fstr Childs Slp&Well",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Adol Slp Juv Jus Env",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Faith Dev Across Life",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Juv Jus&Sleep Hlth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Fake IDs College Camp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:ageism: Assess of Att",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Att Twrds Ment Illnes",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Psy Learn Appld Sport",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Self&Social Relations",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Gay Male Frdshp Adol",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty PY I: Food Insecurity",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Study:Opiate Addc Treatmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Prej&Intrgroup Relatn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Study: Cyberbullying",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Mental Illness&Help",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Evo Fornsc Violnc Pre",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Interpersonal Rel&Dyn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Gndr Attit,Body Satis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Inter Persnl Relation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Soc Percep&Inter Behv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Psy First Aid",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Soc Ostracism&Relgsty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty: Friendship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Sty:Self&Romantic Rltnshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Study: Violence Prevention",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Study in Psychology I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Independent Study: Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*300",
+    "uniqueId": "",
+    "title": "Ind Study:Counseling Process",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Res Prac:Int Prt&Att",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Res Prac:Aging Stu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty: Reduct in Psychodiag",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Ind Sty:Juv's Slp Hlth Dtnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Self&Soc Relationshps",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:juvie Just&sleep Hlth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Caff&Sleep Erly Adole",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Res Prac:Prd Op Soc J",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty: Correlates of Sexism",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Correlates of Sexism",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty: Treatment Human Strss",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Res Prac:Self&Soc Rel",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Rsh Pra:Slf&Soc Rnshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Adlscnt's Slp&Well Bg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Fam Rel Socialization",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Exec Developmnt&Coach",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Rsrch Prc:Jstice Syst",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Rsrch Prc:Self & Soc Rela Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Res Prac:Self&Soc Relation Lb",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Eating Behv&Body Img",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Self&Soc Relationship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Research Practicum",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Res Prac Self&Soc Rel",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*305",
+    "uniqueId": "",
+    "title": "Prv Sty:Self-Esteem&Dep",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*310",
+    "uniqueId": "",
+    "title": "Psych Tests and Measurements",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "PY*323",
+    "uniqueId": "",
+    "title": "Introduction to Counseling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*325",
+    "uniqueId": "",
+    "title": "Managing Stress & Tension",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "PY*325",
+    "uniqueId": "",
+    "title": "Controlling Stress & Tension",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*326",
+    "uniqueId": "",
+    "title": "Subst-Related & Addictiv Disor",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*326",
+    "uniqueId": "",
+    "title": "Subst Abuse:Dgnsis &Trtment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*331",
+    "uniqueId": "",
+    "title": "Biopsychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*332",
+    "uniqueId": "",
+    "title": "Human Neuropsychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "PY*332",
+    "uniqueId": "",
+    "title": "Intro to Bhvioral Neuroscience",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*332",
+    "uniqueId": "",
+    "title": "Intro to Bhvrial Neuroscience",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*333",
+    "uniqueId": "",
+    "title": "Sensation and Perception",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*334",
+    "uniqueId": "",
+    "title": "Sleep,Circad Rhythms&Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "PY*341",
+    "uniqueId": "",
+    "title": "Child Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*342",
+    "uniqueId": "",
+    "title": "Adolescent Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*342D",
+    "uniqueId": "",
+    "title": "Adolescent Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*343",
+    "uniqueId": "",
+    "title": "Adult Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*351",
+    "uniqueId": "",
+    "title": "Interpersonal Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*352",
+    "uniqueId": "",
+    "title": "Group Process",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "PY*353",
+    "uniqueId": "",
+    "title": "Contemp Issues in Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*354",
+    "uniqueId": "",
+    "title": "Psychology of Religion",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*355",
+    "uniqueId": "",
+    "title": "Psychology of Gender",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Slp Hth Ed Fsr Cr Wkr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Sex Asslt,Def&Sci Den",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Ad Sleep Juv Just Env",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty: Ped Inpatient Sleep",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Mntl Ill Stig&Hlp Beh",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Fstr Childs Slp&Well",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty: Juv's Slp Hlth Dtnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Juv Jus&Slp Hlth Envi",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Fake IDs College Camp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty:Romantc Relationships",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty PY II:Food Insecurity",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty Psy II: Opioid Trtmnt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Study: Res Psychology II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Sty: Media & Body Image",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Ind Study in Psychology II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*400",
+    "uniqueId": "",
+    "title": "Independent Study: Psychology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Teach Int Prtnrshp&At",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*401",
+    "uniqueId": "",
+    "title": "IndSty:AdolSlpJuvJusEnv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*401",
+    "uniqueId": "",
+    "title": "Ind Sty: Sleep Juv Just Envir",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*402",
+    "uniqueId": "",
+    "title": "Ind St:Tch Intim Part&Att Dis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*402",
+    "uniqueId": "",
+    "title": "Ind Sty:Adol Slp Juv Jus Env",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*404",
+    "uniqueId": "",
+    "title": "Ethics in Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "IndSty:AdolSleepHlthJuvJusEnv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Sleep&MentHlthYthReha",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty: Adlscnt Slp Hlth Jvn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Imprvng Mntl Hlth Mrg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty: Scale Development",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Prv Sty: Chrt Dffrncs Rlgs",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:sxl Asslt Rape Myth",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty: Mntl Hlth Otcms Mrg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Attchmnt Style & Hmn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Social Medias Prspct",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Adlscnt & Emrgng Adlt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Imprvg Mntl Hlth Otcm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty: Clncl Rsrch in Nrpsyc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Adlscnt Slp and Crcdn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Attchmnt Style&Hmn Dv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Assessing Bnfts Alpha",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Hsty Prjct Trauma Slp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Adolescent Slp&Schol",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty:Learn, Cognit & Music",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "IndSty: Persp Sleep Health",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*405",
+    "uniqueId": "",
+    "title": "Ind Sty: Resch Practi in Psyc",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty: Gnrtnl Trauma",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty: Adlscnt Emrgng Adlts",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty:Adlscnt Slp Hlth Jvnl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "IndSty:SexAsltRapeMythAcptPol",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty:Adlscnt Slp&Schl Strt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty:Adlscnt Slp & Schl St",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty: Scale Development",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty:Assng Bnfts Alpha Wav",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty:Attch Style &Hman Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty:Adlscnt Slp Crcdn Hlt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*406",
+    "uniqueId": "",
+    "title": "Ind Sty:Adolescent Slp&Schl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*410",
+    "uniqueId": "",
+    "title": "Contemporary Issues in Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*412",
+    "uniqueId": "",
+    "title": "Evolutionary Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*412",
+    "uniqueId": "",
+    "title": "Prv Sty: Evolutionary Psych",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*413",
+    "uniqueId": "",
+    "title": "Psych Tests & Measurements",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*414",
+    "uniqueId": "",
+    "title": "Adv Stat with Computer Applic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "PY*414",
+    "uniqueId": "",
+    "title": "Adv Stat With Computer Applic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*415",
+    "uniqueId": "",
+    "title": "Psych Systems & Theories",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*417",
+    "uniqueId": "",
+    "title": "Psych&Catholic Stu: Beg&End",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "PY*417",
+    "uniqueId": "",
+    "title": "Psy&Cath Stud: Beg&End of lif",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*417",
+    "uniqueId": "",
+    "title": "Sp Tp PY&Cath:Marriage&Family",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem:Close Relships Adol",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Psych of Happiness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Cls Relat in Adol & Emrg Adlth",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Resrch:Stereotyping&Prejudice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Positive Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Sex & Sexuality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Circad Rhythms",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Wrongful Convictions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Psych, Aging, & Religion",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem:Sleep,Health&Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Sterotypes&Prejudice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Parent-Child Relation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem I: Parent-Child Relati",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Resrch Sem PY I:Workpl Divers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem I:Psych, Aging&Relign",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Psych, Aging & Relig",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem: Sleep, Health & Behav",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Research Sem: Forensic Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Research Seminar in Psych I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem in Psych I: Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Research Sem:Forensic Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Research Seminar:Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Res Sem Psych I: Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Sp Top: Close Relationships",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Special Topics: Forensic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Special Top Psy: Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Sp Top in Psych: Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Spec Topics: Memory Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Special Topics: Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Sp Tpc Psy:Marr&Fam Cth Sc Dv",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Special Topics in Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Spec Top in Psych: Memory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*418",
+    "uniqueId": "",
+    "title": "Spc Tpc in Psych:Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Clse Rltshps in Adol & Emer Ad",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Res Sem: Psych of Happiness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Res Sem: Close Relationships",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Res Sem:Close Rel in Adoles",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Stereotyping & Prejudice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Resrch Sem II: Positive Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Resrch Sem II:Sex & Sexuality",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Res Sem: Wrongful Convictions",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Res Sem: Circadian Rhythms",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Sleep, Heatlh & Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Stereotypes & Prejudice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Res Sem: Workplace Diversity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Research Seminar in Psych II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Adv Top Rs Py:Close Relations",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Adv Spc Top Res Psyc: Frnsics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Adv Spec Top Research Psyc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Adv Topics: Memory",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Adv Top:Forensic Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Adv Spc Top:Forensic Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*419",
+    "uniqueId": "",
+    "title": "Adv Spec Topics in Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Spec Top:Eat&Feed Disorderers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App Sp Top: Why Couples Fight",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Tp:Neuropsy of Nutritition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Ap Sp Tp:Neuropsy of Nutritn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App Sp Tp:Child Psychopathlgy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Top:Romantic Relationships",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App Top:Neuropsy of Nutrition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Tp:Queerness,Religion&Psyc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App Sp Tp:Psychodiagnostics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Top:Neuropsy of Nutrition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Spec Top: Psychodiagnosis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Spc Top:Child Psychopathology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Top:Child Psychopathology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Spec Topic: Psychodiagnosis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Spec Topic: Sports Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Tp:Intro Sport&Perform Psy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Tp:Int LGBTQ&Religious Iss",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Appl Spec Top: Child Psychopat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Spec Top: Soc Hist of Medicine",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Top:Aging,Health&Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Psychodiagnosis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Sp Top:Addictns:Interv&Treat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App Spec Top:LGBT & Relig Iss",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Appl Spc Top:Black Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Ap Sp Tp:Social Hist of Medic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Appl Sp Tp:Aging,Health,Behav",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Applied Top: Psychodiagnosis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Applied Sp Top: Public Policy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App Top: Intro Blk Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App in Psyc: Intro to Blk Psyc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Applic in Psych: Forensics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App in Psyc: Sports Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Apps in Psych: Forensic Psych",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "App in Psyc: Sport Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Apps in Psyc:Car Theory&Devel",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*420",
+    "uniqueId": "",
+    "title": "Applications in Psyc:Ethics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*421",
+    "uniqueId": "",
+    "title": "Forensic Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "PY*421D",
+    "uniqueId": "",
+    "title": "Forensic Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "PY*422",
+    "uniqueId": "",
+    "title": "Sp Tp:Neuropsy of Nutrition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*422",
+    "uniqueId": "",
+    "title": "Sp Tp:Neuropsych of Nutrition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*423",
+    "uniqueId": "",
+    "title": "Sp Tp: Aging in Japan",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*424",
+    "uniqueId": "",
+    "title": "Spc Top: Fake News & Pseudosci",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "St Tp:Trauma & Healing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Tp Psy: Digital Detox",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "SP TP:Psychodiagnosis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "SP TP:Mem & Mental Illness",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "SP TP:Clin Ap Prac Psthpy Cap",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Tp:Eating&Feeding Disordrs",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Tp Clin: Sports Psychology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Tp:Psychodiagnosis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Tp:Sleep & Public Health",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Tp:Why Couples Fight",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Tp:Eating&Feeding Disorder",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Spec Top: Why Couples Fight",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Spec Top:Eat&Feed Disorderers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Spc Top:Neuropsy of Nutrition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Top: Psychodiagnosis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*425",
+    "uniqueId": "",
+    "title": "Sp Top:Neuropsy of Nutrition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*427",
+    "uniqueId": "",
+    "title": "Sp Tp Psy:Psychology of Men",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "PY*427",
+    "uniqueId": "",
+    "title": "Sp Tp: Psych of Climate Crisis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*427",
+    "uniqueId": "",
+    "title": "SP TP:Psych of Climate Crisis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*427",
+    "uniqueId": "",
+    "title": "Sp Tp:Queerness,Religion&Psyc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*430",
+    "uniqueId": "",
+    "title": "Childhood Psychopathology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*435",
+    "uniqueId": "",
+    "title": "Field Experience in Psych I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*435",
+    "uniqueId": "",
+    "title": "Field Experience in Psychology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*436",
+    "uniqueId": "",
+    "title": "Field Experience in Psych II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*436",
+    "uniqueId": "",
+    "title": "Field Experience in Pysch II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*445",
+    "uniqueId": "",
+    "title": "Aging and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "PY*445D",
+    "uniqueId": "",
+    "title": "Aging and Society",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*490",
+    "uniqueId": "",
+    "title": "Sp Tp:Psychoanalysis&Philsphy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "PY*600",
+    "uniqueId": "",
+    "title": "Assessment & Appraisal w/ Lab",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "PY*600",
+    "uniqueId": "",
+    "title": "Assessment and Appraisal",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*601",
+    "uniqueId": "",
+    "title": "Cognitive Assessment with Lab",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "PY*601",
+    "uniqueId": "",
+    "title": "Cognitive Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*601",
+    "uniqueId": "",
+    "title": "Psycdiag I:Int Cog Assessment",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*601",
+    "uniqueId": "",
+    "title": "Psydiag I: Int Cog Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*602",
+    "uniqueId": "",
+    "title": "Personality Assessment w/ Lab",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "PY*602",
+    "uniqueId": "",
+    "title": "Personality Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*602",
+    "uniqueId": "",
+    "title": "Psydiag II:Intro Pers Assess",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*602",
+    "uniqueId": "",
+    "title": "Psychodiagnostics II",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*603",
+    "uniqueId": "",
+    "title": "Intro to Cognitive Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "PY*603",
+    "uniqueId": "",
+    "title": "Intel&Obj Prs Assessmnt w/Lab",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*603",
+    "uniqueId": "",
+    "title": "Intel&Objectv Pers Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*604",
+    "uniqueId": "",
+    "title": "Neuropsychological Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*605",
+    "uniqueId": "",
+    "title": "Psychopathology of Childhood",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*606",
+    "uniqueId": "",
+    "title": "Assesment Clin Geropsychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*607",
+    "uniqueId": "",
+    "title": "Assess:Diag Clin Meth Child",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*608",
+    "uniqueId": "",
+    "title": "Forensic Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "PY*609",
+    "uniqueId": "",
+    "title": "Crisis Interv&Dis Ment Health",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "PY*609",
+    "uniqueId": "",
+    "title": "Crisis Intervention",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*613",
+    "uniqueId": "",
+    "title": "Adv Personality Theory&Resrch",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*614",
+    "uniqueId": "",
+    "title": "Advanced Psychopathology Lab",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*614",
+    "uniqueId": "",
+    "title": "Human Sexuality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*615",
+    "uniqueId": "",
+    "title": "Advanced Psychopathology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "PY*615",
+    "uniqueId": "",
+    "title": "Advanced Abnormal Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*618",
+    "uniqueId": "",
+    "title": "Group Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*620",
+    "uniqueId": "",
+    "title": "Theor of Counsel & Psychotpy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*621",
+    "uniqueId": "",
+    "title": "Prnc&Prct Psychotherapy w/Lab",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PY*621",
+    "uniqueId": "",
+    "title": "Prncples&Prctces Psychotherpy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Advanced Techniques: CBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Advanced Techniques: ACT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Trauma Informd Ther",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Advanced Techniques: IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "EBT with Children",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Advanced Techniques: DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Advanced Tech:CBT for Anxiety",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Ad Tec Counsel&Psychothry:DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: CBT for Anxiety",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Cnsl&Psychothry: CBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Cnsl&Psychothry: DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: CBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech of Counsel&Psychothry",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Loss&Bereavement",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Func Analyt Psychoth",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: ACT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:CBT for Anxiety D/O",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Play Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tch:CBT Severe Mental Ill",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Beh Tech w/Children",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tch:Intrprsnl Procss thry",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Child Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tch:Evid-Base Prac w/Chld",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Object Relations",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Interpersonal Models",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tch:Intrpers Model Pysch",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: CBT Child & Adoles",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:CBT Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Couns&Psych: IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Trtment Anx Disorder",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:ACT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Adolescent Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Cog-Beh Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Psychotraumatology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Couns&Psy: ACT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Child Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Behavioral",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Psychodynamic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Accpt&Commit Therpy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Intro Physio & Pharm",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Bus Iss Prof Pract",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Interpersonal",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Coun&Psy:Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Intro Phys&Psypharm",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Bus Iss Prof Pract",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Mindfulness",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Couples & Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Iss in Prof Practice",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Older Adults",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Behavioral Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Marriage&Fmly Thrpy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Tp of Marriage & Fam",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Traumatology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Marital & Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Psych: Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Psych: Couples & Fam",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Geropsychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Hypnosis",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Bus Iss in Prof Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Marriage & Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Co&Psy:Interpersonal",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Cognitive Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Marriage&Fam Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Traumatology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Marital & Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Advanced Tech: Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Advanced Techniques:Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Biofeedback",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech: Couples and Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Marriage&Family Thrp",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech Coun&Psyc:Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*622",
+    "uniqueId": "",
+    "title": "Adv Tech:Couples and Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*624",
+    "uniqueId": "",
+    "title": "Marriage & Family Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "PY*635",
+    "uniqueId": "",
+    "title": "Use of Tests in Counseling",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*639",
+    "uniqueId": "",
+    "title": "Sub-Rel&Add Dis:Diag,Trt,Prev",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*639",
+    "uniqueId": "",
+    "title": "Alch&Drug Dep:Diag,Trmts,Prvnt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*642",
+    "uniqueId": "",
+    "title": "Nature & Treat of Stress Resp",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*645",
+    "uniqueId": "",
+    "title": "Intro to Health Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*657",
+    "uniqueId": "",
+    "title": "Lifestyle&Career Develop",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "PY*657",
+    "uniqueId": "",
+    "title": "Life-Style&Career Develop",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*657",
+    "uniqueId": "",
+    "title": "Lifestyle & Career Develop",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*658",
+    "uniqueId": "",
+    "title": "Applied Tech in Psychol & Law",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*664",
+    "uniqueId": "",
+    "title": "Adv Develop Psy: Life Span",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*667",
+    "uniqueId": "",
+    "title": "Psychology and Spirituality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*700",
+    "uniqueId": "",
+    "title": "Research Externship",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*701",
+    "uniqueId": "",
+    "title": "Research Externship Cont",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*701",
+    "uniqueId": "",
+    "title": "Research Continuation II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*702",
+    "uniqueId": "",
+    "title": "Externship Clinical Psych I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*702",
+    "uniqueId": "",
+    "title": "Ext Clinical Psych 1:Child",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*702",
+    "uniqueId": "",
+    "title": "Ext Clinical Psych 1:Adult",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*703",
+    "uniqueId": "",
+    "title": "Externship Clinical Psych II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PY*703",
+    "uniqueId": "",
+    "title": "Externship Clinical Psyh II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Intro Clin Exp:Comm Outrch Ro",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Community Outreach",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Prv Sty:Emerging Adults",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Prv Sty:Parenting Emerg Adlts",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Prv Sty:Emerging Adulthood",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Prv Sty:Res Prac:Psy&Law",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Prv Sty:Emrg Adlts Psy Adjst",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Prv Sty:LGBT Atttds Twrd Grps",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Adv Top Clin Psy: Chm Dep Cns",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Spec Study: Neuro Psych Assess",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Sp Top:Gender&the Human Brain",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*704",
+    "uniqueId": "",
+    "title": "Sp Top:Lifestyle&Career Devel",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*705",
+    "uniqueId": "",
+    "title": "Eth,Leg,&Pro Iss in Coun&Psy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*705",
+    "uniqueId": "",
+    "title": "Eth&Leg Iss Clin&Coun Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*706",
+    "uniqueId": "",
+    "title": "Intro Clin Exp:Soc Skills Rtn",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*706",
+    "uniqueId": "",
+    "title": "Intro Clin Exp: Soc Skills Rot",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*706",
+    "uniqueId": "",
+    "title": "Intro Clin Exp:Serv-Learn Ro",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*707",
+    "uniqueId": "",
+    "title": "Intro Clin Exp:Adlt Intake Ro",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*707",
+    "uniqueId": "",
+    "title": "Adult Intakes",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*708",
+    "uniqueId": "",
+    "title": "Intro Clin Exp:Chld&Adoles Ro",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*708",
+    "uniqueId": "",
+    "title": "Child & Adolescent Intakes",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*708",
+    "uniqueId": "",
+    "title": "Intro Clin Exp:Chld&Adole Int",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*709",
+    "uniqueId": "",
+    "title": "Clinical Master Externshp LCC",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "PY*710",
+    "uniqueId": "",
+    "title": "Diversity Issues in Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Ind Sty:Sp Tp:Clincl Cse Conc",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Ind Sty:Trans&Gndr Noncon Cl",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Spec Top: Aging & Society",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Spec Top:Stereotype&Prejudice",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Spec Top: Bus Iss in Prof Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Prv Sty:Special Tpcs in Psych",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Spec Top: Physio & Psychopharm",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Sp Top: Bus Iss in Prof Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Sp Top: Dyn of Hum Resil",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Sp Tp: Eating Disorders",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Sp Top: Bus Iss in Prof Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Special Top: Sports Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Spec Top: Bus Iss in Prof Pr",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Sp Top:Dynam Human Resilience",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Sp Tp:Promte Soc Emot Cmptnce",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Spec Top:Bus Iss in Prof Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Sp Tp:Conc Ppl African Dcent",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*711",
+    "uniqueId": "",
+    "title": "Spec Topics: Positive Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*712",
+    "uniqueId": "",
+    "title": "Business Iss in Prof Practice",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "PY*715",
+    "uniqueId": "",
+    "title": "Human Biopsychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "PY*720",
+    "uniqueId": "",
+    "title": "Practicum in Testing",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*725",
+    "uniqueId": "",
+    "title": "Supervised Externship I",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*726",
+    "uniqueId": "",
+    "title": "Supervised Externship II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*727",
+    "uniqueId": "",
+    "title": "Supervised Externship III",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "PY*728",
+    "uniqueId": "",
+    "title": "Field Exp:On-Campus Supervisn",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "PY*731",
+    "uniqueId": "",
+    "title": "Externship Counseling Psych I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*731",
+    "uniqueId": "",
+    "title": "Externship Counseling Psych II",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*732",
+    "uniqueId": "",
+    "title": "Externship Counseling Psych II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*733",
+    "uniqueId": "",
+    "title": "Externship:Continuation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PY*733",
+    "uniqueId": "",
+    "title": "Externship: Continuation",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*733",
+    "uniqueId": "",
+    "title": "Practitionr Extnshp:Continuat",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*734",
+    "uniqueId": "",
+    "title": "Externship:Continuation I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*735",
+    "uniqueId": "",
+    "title": "Externship:Continuation II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*736",
+    "uniqueId": "",
+    "title": "Externship:Continuation III",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*737",
+    "uniqueId": "",
+    "title": "Externship:Continuation IV",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "PY*738",
+    "uniqueId": "",
+    "title": "Externship:Continuation V",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "PY*739",
+    "uniqueId": "",
+    "title": "Research Extshp:Continuation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "PY*739",
+    "uniqueId": "",
+    "title": "Res Externshp:Continuation",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Prv Sty:Sp Tp: PTSD Military",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Prv Sty: Adv Couples Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Prv Sty:Dialecticl Bhvr Thrpy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Prv Sty:Marriage&Fam Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Prv Sty:Adv Couples Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Prv Sty:Donald Winnicott",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Prv Sty:Parnt-Inft Psyc&Neuro",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Tp:Anna Freud&Chld Psy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Tp: Kohut's Self-Psy & Nar",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Top: Trans, Resis, Def Mech",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Top: Mult Psy Theo & Pract",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Special Topics Counsel Psych",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Top: Advan Couples Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Top: Att Ad Path Fam Therap",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Top Coun Psy: Adv Cpl Ther",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Spec Top: Adv Couples Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Adv Tp:Sex Abuse&Mental Ill",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Top:Thrpy w/Couples&Family",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Spec Top: Couples Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Spc Topic:Couples Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Spc Top:Bowenian Fmly Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*740",
+    "uniqueId": "",
+    "title": "Sp Tp:Psychology Spirituality",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*742",
+    "uniqueId": "",
+    "title": "Supervsn of Couns&Psychothrpy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*746",
+    "uniqueId": "",
+    "title": "Research Methods in Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PY*746",
+    "uniqueId": "",
+    "title": "Research Methods in Psych I",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*746",
+    "uniqueId": "",
+    "title": "Research Methods I",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*747",
+    "uniqueId": "",
+    "title": "Rsrch Methods in Psycholgy II",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*758",
+    "uniqueId": "",
+    "title": "Comprehensive Exam Guidance",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*760",
+    "uniqueId": "",
+    "title": "Prv Sty:Psy Thry Freud&Lacan",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "PY*761",
+    "uniqueId": "",
+    "title": "Thesis Guidance I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*762",
+    "uniqueId": "",
+    "title": "Thesis Guidance II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*763",
+    "uniqueId": "",
+    "title": "Thesis Guidance III",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*764",
+    "uniqueId": "",
+    "title": "Thesis Guidance IV",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*765",
+    "uniqueId": "",
+    "title": "Thesis Guidance: Continuation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*770",
+    "uniqueId": "",
+    "title": "Practicum",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "PY*771",
+    "uniqueId": "",
+    "title": "Off-Campus Internship",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "PY*771",
+    "uniqueId": "",
+    "title": "Off-Campus Externship",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*791",
+    "uniqueId": "",
+    "title": "Computer Analysis Psych Data",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "PY*791",
+    "uniqueId": "",
+    "title": "SPSS-(Cmptr)Analysis Psych Dat",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*800",
+    "uniqueId": "",
+    "title": "Professional,Legal&Ethic Issue",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*801",
+    "uniqueId": "",
+    "title": "Prncpls Obj Prsnlty Suic Asmt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*802",
+    "uniqueId": "",
+    "title": "Principles&Methods of Assmnt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "PY*802",
+    "uniqueId": "",
+    "title": "Principls&Methods of Assesmt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*809",
+    "uniqueId": "",
+    "title": "Intro to Clin:Adult Intakes",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PY*809",
+    "uniqueId": "",
+    "title": "Intro to Clin:Child Intakes",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PY*809",
+    "uniqueId": "",
+    "title": "Intro to Clinic: Child",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*809",
+    "uniqueId": "",
+    "title": "Intro to Clinic: Adult",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*809",
+    "uniqueId": "",
+    "title": "Introduction to Clinic",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*810",
+    "uniqueId": "",
+    "title": "Psychological Measurement",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*813",
+    "uniqueId": "",
+    "title": "Sem Soc&Cultur Bases Behavior",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*813",
+    "uniqueId": "",
+    "title": "Sem Soc&Cult Bases Behavior",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*813",
+    "uniqueId": "",
+    "title": "Social&Cultural Bases Psy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*814",
+    "uniqueId": "",
+    "title": "Biological Bases of Behavior",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*814",
+    "uniqueId": "",
+    "title": "Biopsychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*815",
+    "uniqueId": "",
+    "title": "Psychopathology Seminar",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*816",
+    "uniqueId": "",
+    "title": "Life Span Development",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*818",
+    "uniqueId": "",
+    "title": "Psychopharmacology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*819",
+    "uniqueId": "",
+    "title": "Hist&Phil Bases of Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*819",
+    "uniqueId": "",
+    "title": "Prv Sty:Hist&Phil Bases Psyc",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*819",
+    "uniqueId": "",
+    "title": "Prv Sty: Hist&Phil Bases Psy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*820",
+    "uniqueId": "",
+    "title": "Cogn&Affect Aspects Behvr",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "PY*820",
+    "uniqueId": "",
+    "title": "Cognitive Aspects of Behavior",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*820",
+    "uniqueId": "",
+    "title": "Cognitive&Learning Theory",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*832",
+    "uniqueId": "",
+    "title": "Research Methods Clin Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*832",
+    "uniqueId": "",
+    "title": "Research Methods Clin Psy I",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*833",
+    "uniqueId": "",
+    "title": "Res Meth&Data Analy Clin Psy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "PY*833",
+    "uniqueId": "",
+    "title": "Research Methods Clin Psy II",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*840",
+    "uniqueId": "",
+    "title": "Consultation Theory & Practice",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "PY*841",
+    "uniqueId": "",
+    "title": "Bsns Iss Professional Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*841",
+    "uniqueId": "",
+    "title": "Issues in Professional Pract",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*842",
+    "uniqueId": "",
+    "title": "Supervision Theory & Practice",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*842",
+    "uniqueId": "",
+    "title": "Sprvsion&Conslttn Thry&Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psy: Spirtlly Intrg Psy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psy: IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psy: Psychdynmc",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psy: DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Trauma Infrmd Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Group Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models in Psychotherapy:CBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psy: EBT with Children",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psy: Family Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotherapy: ACT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psy: ACT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Model Therapy: Group Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Couples Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotherapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Mod of PY:Spiritually Infused",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotheraphy: IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psych: Psychodynamic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotherapy: Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Psychodyamic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Marriage and Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models:CBT for Anxty Disorder",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotherapy: IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotherapy:DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotherapy: DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models:Trauma Informed Care",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psychthrpy:Group Thrpy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Couples",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: ACT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: CBT for Anxiety",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotherapy: CBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: FAP",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Modls Psycthrpy:Group Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Object Relations/ Attachment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models:Evid-Base Prct w/Child",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Play Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models : Couples",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Funct Analyt Psychothe",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models:Behavioral Tech w/Chld",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Modls Psychothrpy:Group Thrpy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychotherapy:ACT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Interpersonal Process",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models:Psychodynamic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models:Evid-Base Prac w/Child",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Family Systems",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Object Relations",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psych: DBT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psyc: Group Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psych: IPT",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models : Psychodynamic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psych: Couples",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Behavioral",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psychotherapy:Fam Sys",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Interpersonal",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Psychodynamic/Analytic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psy:Couples",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Adv Tech: Psychodynamic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psythrpy:Didact Behavr",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Psychodynamic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psych:Interpersonal",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psychothr:Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psythpy:Family Systems",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models Psycthpy: Behavioral",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Mods Psythrpy:Psychoanalytic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psy: Interpersonal",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psy: Object",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models: Mindfulness",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Mod Psychthrpy:Dialect Behav",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psythrpy: Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Model Psycthpy: Psychoanlytc",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psych:Behavioral",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psych: Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Models of Psych:Cognitive",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Mdls of Psych:Psychodynamic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*845",
+    "uniqueId": "",
+    "title": "Mdls of Psychothrpy:Family",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*860",
+    "uniqueId": "",
+    "title": "Data Mgmt Professional Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*870",
+    "uniqueId": "",
+    "title": "Diversity Seminar I",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "PY*870",
+    "uniqueId": "",
+    "title": "Diversity Seminar",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*871",
+    "uniqueId": "",
+    "title": "Diversity Seminar II",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Bus Issues Prof Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Behavioral Health",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Ad Tp Hlth Srv Psy: Alc & Drg",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Bus Iss in Prof Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "AdvTp:Interg Hlth Psy&Beh Med",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Substnce-Rel&Addct Dis",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Topics: Alcohol & Drug",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Bus Iss Prof Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Loss and Bereavement",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Stereotype&Prejudice",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Neuropsych Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Aging & Society",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Lifestyle & Career",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top in Hlth Service Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Bus Iss I Prof Prac",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Crisis Intervention",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Bus Iss in Prof Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Alcoh & Drug",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Neuropsych Assessmt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Psychopath of Child",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Geropsych Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Alcohol & Drug",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Assess of Children",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Dyn of Hum Resil",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Neuropsychlogicl Assmt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp: Eating Disorders",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Alcohol & Drug Depndt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Bus Iss in Prof Pr",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Forensic Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Alcohol & Drug Depend",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Health Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Psych & Law",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Alcohol & Drug",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Sports Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Nat & Tx of Stress",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Group Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Psych of Childhood",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp Pro Psy:Alcohol&Drug",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Child Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: SPSS",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Dynam Human Resilienc",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Adv Personality Theor",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Child Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp Prof Psy:Alcohol&Drug",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp: Group Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Trtment Anx Disorders",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Psychotraumatology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Alcohol & Drug Depnd",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Neuropsych Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Ad Tp:Promte Soc Emot Cmptnce",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Alcohol & Drug Dep",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Psych & Spirituality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Comp Anlys Pych Data",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Lifestyle&Career",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Adolescent Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp: Alcohol & Drug Dep",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Health Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp Pro PY:Business Issues",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Alc & Drug Dependance",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Advanced Topics: Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Advanced Topics: SPSS",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Nature&Treat Stress",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Adv Personality Theor",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Conc Ppl African Dcent",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Child Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Positive Psychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Lifestyle&Career Dev",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Analysis Psych Data",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Accpt&Commit Therpy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Alcohol & Drug Depend",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Psych&Spirituality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Alcohol&Drug Depend",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Human Sexuality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Psychopath of Childhd",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Lifestyle&Career Dev",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Adv Person Thry",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Psych&Spirituality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Alcohol&Drug Depend",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Mindfulness",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Alcohol & Other Dep",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Nature&Treat of Strss",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Assessment w/Children",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Advance Topics: Older Adults",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Human Sexuality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Alcohol & Other Drugs",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Nature & Treat Stress",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Lifestyle & Car Devel",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Assessmnt in Geropsyc",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Alcoholism&Drug Dep",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Adv Personality Thry",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top Psych: Alch&Drug Dep",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top Psych:Psych & Spirit",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Topic Psych: Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Traumatology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Psychpthlgy Chldhd",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Alc&Drg Diag Trtmt&Pr",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Intro to Health Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Natr&Trtmt Stress",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Alchol&Other Drug Dep",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Ad Tp:Alchol&Other Drug Dep",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Geropsychology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Topics: Hypnosis",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Ad Tp:Psychopath Childhood",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Advanced Topics:Traumatology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Ad Tp:Psychology&Spirituality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Ad Tp:Nat&Treat Stress Respon",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top Prof Psych: Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Assess Clin Geropsy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:App Tech Psy & Law",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Ad Tp:Lifestyle&Car Devel",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Traumatology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Psychology&Spirtuality",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Intro to Biofeedback",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Advanced Techniques:Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Alcohol & Drugs",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Psychopath Childhood",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Nature&Tretmnt Stress",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Alcoholism&Drug Depen",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Advanced Topics:Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Group Therapy",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top: Adv Personality Thry",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Adv Personality Theory",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tp:Psychpath of Childhood",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Topics: Traumatology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tpc:Alcohol&Drug Depend",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Tpc:Nature&Trtmt Stress",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top Profess Psych:Group",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Crisis Intervention",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Child Assessment",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top in Profess Psych",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*886",
+    "uniqueId": "",
+    "title": "Adv Top:Assesmnt Older Adults",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*890",
+    "uniqueId": "",
+    "title": "Dissertation Guidance",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*890",
+    "uniqueId": "",
+    "title": "Dissertation Preparation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*891",
+    "uniqueId": "",
+    "title": "Clinical Dissertation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*891",
+    "uniqueId": "",
+    "title": "Intro to Dissertation I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*891",
+    "uniqueId": "",
+    "title": "Introductn to Dissertation I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*892",
+    "uniqueId": "",
+    "title": "Dissertation Continuation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*892",
+    "uniqueId": "",
+    "title": "Dissertation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*892",
+    "uniqueId": "",
+    "title": "Intro to Dissertation II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*892",
+    "uniqueId": "",
+    "title": "Introductn to Dissertation II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*899",
+    "uniqueId": "",
+    "title": "Ind Sty: Clinical Neuroanatomy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*899",
+    "uniqueId": "",
+    "title": "Independent Study",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*899",
+    "uniqueId": "",
+    "title": "Ind Study: Queering ACT",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "PY*899",
+    "uniqueId": "",
+    "title": "Ind Sty: Bio Bases Behavior",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*899",
+    "uniqueId": "",
+    "title": "Ind Sty: Dialect Beh Therapy",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PY*899",
+    "uniqueId": "",
+    "title": "Ind St:Theor Couns&Psychother",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*900",
+    "uniqueId": "",
+    "title": "Dissertation Extension",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*900",
+    "uniqueId": "",
+    "title": "Dissertation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*901",
+    "uniqueId": "",
+    "title": "Clinical Placement Extension",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "PY*902",
+    "uniqueId": "",
+    "title": "Clinical Dissertation I",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*903",
+    "uniqueId": "",
+    "title": "Clinical Dissertation II",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*904",
+    "uniqueId": "",
+    "title": "Clinical Dissertation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*905",
+    "uniqueId": "",
+    "title": "Clinical Dissert:Continuation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*906",
+    "uniqueId": "",
+    "title": "Dissertation Continuation I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*907",
+    "uniqueId": "",
+    "title": "Dissertation Continuation II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*912",
+    "uniqueId": "",
+    "title": "Colloquium",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*918",
+    "uniqueId": "",
+    "title": "Prof Dev, Case Concept, & Cons",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "PY*918",
+    "uniqueId": "",
+    "title": "Profess Dev&Case Concept",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "PY*918",
+    "uniqueId": "",
+    "title": "Profes Consultation&Developmt",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "PY*918",
+    "uniqueId": "",
+    "title": "Profes Supervision&Developmt",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "PY*920",
+    "uniqueId": "",
+    "title": "Clinical Placement I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*920",
+    "uniqueId": "",
+    "title": "Clinical Placement I: Adult",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*920",
+    "uniqueId": "",
+    "title": "Clinical Placement I: Child",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "PY*921",
+    "uniqueId": "",
+    "title": "Clinical Placement II",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*922",
+    "uniqueId": "",
+    "title": "Clinical Placement III",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*923",
+    "uniqueId": "",
+    "title": "Clinical App:Group Counseling",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "PY*923",
+    "uniqueId": "",
+    "title": "Clin Apps Group Sup",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "PY*925",
+    "uniqueId": "",
+    "title": "Clinical Applications Assess",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "PY*925",
+    "uniqueId": "",
+    "title": "Clinical Apps Assessment",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "PY*925",
+    "uniqueId": "",
+    "title": "Clinical Applications MAC",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*930",
+    "uniqueId": "",
+    "title": "Clinical Placement Summer",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*930",
+    "uniqueId": "",
+    "title": "Clncal Plcmnt Continuation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*931",
+    "uniqueId": "",
+    "title": "Clinical App Assessment Summer",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "PY*931",
+    "uniqueId": "",
+    "title": "Clinical App Assess: Neuropsyc",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "PY*931",
+    "uniqueId": "",
+    "title": "Clinical App MAC Continuation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "PY*949",
+    "uniqueId": "",
+    "title": "Clinical Summer Internship I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*950",
+    "uniqueId": "",
+    "title": "Clinical Internship I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*951",
+    "uniqueId": "",
+    "title": "Clinical Internship II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "PY*952",
+    "uniqueId": "",
+    "title": "Clinical Summer Internship II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "PY*953",
+    "uniqueId": "",
+    "title": "Clinical Internship",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  }
+]

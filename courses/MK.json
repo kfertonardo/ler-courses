@@ -1,0 +1,673 @@
+[
+  {
+    "courseNumber": "MK*240",
+    "uniqueId": "",
+    "title": "Marketing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MK*346",
+    "uniqueId": "",
+    "title": "Consumer Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "MK*346",
+    "uniqueId": "",
+    "title": "Buyer Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MK*346D",
+    "uniqueId": "",
+    "title": "Consumer Behavior",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "MK*347",
+    "uniqueId": "",
+    "title": "International Mk:Sty in Rome",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "MK*348",
+    "uniqueId": "",
+    "title": "Intl Mrktg: Europe Study Tour",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MK*349",
+    "uniqueId": "",
+    "title": "Customer Exp Mgmt: Disney Tour",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MK*401",
+    "uniqueId": "",
+    "title": "Content Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "MK*415",
+    "uniqueId": "",
+    "title": "Digital Marketing & Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "MK*440",
+    "uniqueId": "",
+    "title": "Selling Concepts & Strategies",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MK*441",
+    "uniqueId": "",
+    "title": "Customer Research&Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "MK*441",
+    "uniqueId": "",
+    "title": "Marketing Research",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "MK*441",
+    "uniqueId": "",
+    "title": "Information Marketing Decision",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MK*442",
+    "uniqueId": "",
+    "title": "Strategic Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MK*442",
+    "uniqueId": "",
+    "title": "Ind St:Strategic Marketing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MK*444",
+    "uniqueId": "",
+    "title": "New Product Development & Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MK*444",
+    "uniqueId": "",
+    "title": "Pr Sty: New Prod Devel & Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "MK*445",
+    "uniqueId": "",
+    "title": "Advanced Professional Selling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "MK*447",
+    "uniqueId": "",
+    "title": "Integrated Market Communic",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "MK*447",
+    "uniqueId": "",
+    "title": "Pr Sty: Integrated Market Comm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "MK*447",
+    "uniqueId": "",
+    "title": "Promotion Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "MK*448",
+    "uniqueId": "",
+    "title": "Socially Responsible Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "MK*448",
+    "uniqueId": "",
+    "title": "Pr Sty: Soc Responsible Mark",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "MK*448",
+    "uniqueId": "",
+    "title": "International Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp Mkt: Branding Digit Age",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp Mkt: Taylor Swift Brand",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp Branding Digital Age",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp Pers Brand Strat: T Swft",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp Marketing: Brand Dig Age",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp Marketing: Taylor Swift",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp: Branding Digital Age",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp: Applied Mktng Anlytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Spec Topic:Content Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Spec Topic: Content Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Top:Dig Mrk Tech&Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tpc MK: Disney Study Tour",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp:Marketing&Public Policy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Prv Sty:Real Estate Marketing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Top Mrktg:Sports&Ent Mrktg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Top: Retailing Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Top: Sports&Entertnmt Mktg",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Top: Services Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp:Sports & Entertainment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp Mktg: Retail Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp:Sport&Entertainment Mkt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp:Sports&Enternmt Marketn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp: Retailing Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Special Topics in Marketing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp:Advanced Sales Mngment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp:Branding and Packaging",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sel Tpc:Sports&Entertnmnt Mkt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tpc:Mktng,Law&Soc Respons",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Sp Tp Mkt:Sports Marketing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MK*449",
+    "uniqueId": "",
+    "title": "Ind St:Spc Topics in Marketng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "MK*450",
+    "uniqueId": "",
+    "title": "Branding and Packaging",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MK*450",
+    "uniqueId": "",
+    "title": "Marktng Aspcts of Brndng&Pack",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "MK*451",
+    "uniqueId": "",
+    "title": "Retail Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "MK*452",
+    "uniqueId": "",
+    "title": "Services Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "MK*453",
+    "uniqueId": "",
+    "title": "Sports Marketing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "MK*470",
+    "uniqueId": "",
+    "title": "Pricing Strategy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "MK*499",
+    "uniqueId": "",
+    "title": "Marketing Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "MK*499",
+    "uniqueId": "",
+    "title": "Private: Entertainment Mktg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "courseNumber": "ME*601",
+    "uniqueId": "",
+    "title": "Exploring Digital Culture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ME*601",
+    "uniqueId": "",
+    "title": "Prv Sty:Exploring Digital Clt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ME*601",
+    "uniqueId": "",
+    "title": "Prv Sty:Exploring Dgtl Cultre",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ME*602",
+    "uniqueId": "",
+    "title": "Content Creation Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "ME*602",
+    "uniqueId": "",
+    "title": "Content Creation Boot Camp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ME*701",
+    "uniqueId": "",
+    "title": "Ethics in Emerging Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ME*701",
+    "uniqueId": "",
+    "title": "Prv Sty: Ethics & Policies Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ME*701",
+    "uniqueId": "",
+    "title": "Ethics and Policies Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ME*701",
+    "uniqueId": "",
+    "title": "Eth Iss&Pol New&Emerg Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "ME*701",
+    "uniqueId": "",
+    "title": "Ethical Issues Emerging Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ME*710",
+    "uniqueId": "",
+    "title": "Media Innovation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ME*710",
+    "uniqueId": "",
+    "title": "Prv Sty: Media Innovation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ME*715",
+    "uniqueId": "",
+    "title": "Emerg Media in Strategic Comm",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "ME*715",
+    "uniqueId": "",
+    "title": "Emerg Media in Strategic Com",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "ME*720",
+    "uniqueId": "",
+    "title": "The User Experience",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ME*720",
+    "uniqueId": "",
+    "title": "Prv Sty: The User Experience",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ME*725",
+    "uniqueId": "",
+    "title": "Emerging Media Applications",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ME*730",
+    "uniqueId": "",
+    "title": "Soc,Pol,&Cult Impct Emr Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ME*735",
+    "uniqueId": "",
+    "title": "Emerging Media Law&Regulation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "ME*735",
+    "uniqueId": "",
+    "title": "Prv Sty: Em Media Law&Regultn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "ME*740",
+    "uniqueId": "",
+    "title": "Global Comm&Soc Med:Pol&Trend",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "ME*740",
+    "uniqueId": "",
+    "title": "Prv Sty:Global Comm&Soc Med",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ME*740",
+    "uniqueId": "",
+    "title": "Global Comm&SocMed:Pol&Trends",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "ME*745",
+    "uniqueId": "",
+    "title": "Writ&Plan for Social Media",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ME*750",
+    "uniqueId": "",
+    "title": "Prv Sty:Fnd Health Cmmnctn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ME*750",
+    "uniqueId": "",
+    "title": "Found for Health Communication",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ME*755",
+    "uniqueId": "",
+    "title": "Health Communication&Culture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ME*755",
+    "uniqueId": "",
+    "title": "Prv Sty:Hlth Comm&Culture",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "ME*760",
+    "uniqueId": "",
+    "title": "Health Communication Campaigns",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "ME*760",
+    "uniqueId": "",
+    "title": "Prv Sty: Health Com Camp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "ME*765",
+    "uniqueId": "",
+    "title": "Prv Sty: Health Cmmnctn Rsrch",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ME*765",
+    "uniqueId": "",
+    "title": "Prv Sty:Health Comm Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "ME*770",
+    "uniqueId": "",
+    "title": "Social Media Analytics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "ME*770",
+    "uniqueId": "",
+    "title": "Social Network Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "ME*795",
+    "uniqueId": "",
+    "title": "Emerging Media Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "ME*796",
+    "uniqueId": "",
+    "title": "Emerging Media Capstone Proj I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "ME*796",
+    "uniqueId": "",
+    "title": "Capstone Project I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ME*797",
+    "uniqueId": "",
+    "title": "Emerging Media Capstone Pro II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "ME*797",
+    "uniqueId": "",
+    "title": "Capstone Project II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ME*798",
+    "uniqueId": "",
+    "title": "Emer Media Capstone Proj I&II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "ME*798",
+    "uniqueId": "",
+    "title": "Capstone Project I and II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "ME*799",
+    "uniqueId": "",
+    "title": "Capstone Continuation Guidance",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "ME*799",
+    "uniqueId": "",
+    "title": "Capstone Continuation",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  }
+]

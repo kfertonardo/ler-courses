@@ -1,0 +1,435 @@
+[
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Stockholm",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Amsterdam",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Auckland",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Budapest",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Bangkok",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Copenhagen",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Cork, Ireland",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Athens, Greece",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Leuven, Belgium",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Madrid",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Newcastle",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Paris",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Rome",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Cape Town",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Melbourne",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Leuven",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Berlin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Athens",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Dubai, Uae",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Glasgow",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Madrid, Spain",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Cork",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Berlin, Germany",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Accra, Ghana",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Lyon",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Dubai",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Alcala",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Beijing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Ghana",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: San Salvador",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: Monash",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad: El Salvador",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad:Beijing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad:Cork, Ireland",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad:Leuven",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad:Monash",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad:Newcastle",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad:Bangkok",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LL*100",
+    "uniqueId": "",
+    "title": "Loyola Abroad:Alcala",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  }
+]

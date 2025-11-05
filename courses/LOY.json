@@ -1,0 +1,36 @@
+[
+  {
+    "courseNumber": "LOY*101",
+    "uniqueId": "",
+    "title": "Transfer Transitions",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "LOY*101",
+    "uniqueId": "",
+    "title": "Loyola 101",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "LOY*111",
+    "uniqueId": "",
+    "title": "Achieving Academic Success",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  }
+]

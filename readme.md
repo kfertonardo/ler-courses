@@ -21,13 +21,10 @@ The most important task is to add task by which slices of courses can grouped an
 
 With unique ids in our catalogue or section reports, and since course numbers eventually get recycled, we will need a way to uniquely identify courses. 
 
-For this we will use an expiration date. 
+To do this, we'll keep an entry for each courseNumber for each unique Title. The combination of a courseNumber and title will allow us to identify the correct course in a given AY
 
-For a course number that has been removed and perhaps even re-used, we will add a property called "expirationAY": which should indicate the last AY in which this number was used for this course (the AY number is always defined by the spring year of a given AY, e.g. 23/FA is AY 24).
+It will also be helpful to add a startAy for the first time a given course was offered and, for those course numbers that have been recycled, and "endAy" marking the last academic year that this course with this course nubmer was taught.
 
-We will use this expiration year to currently identify a section from a given year and its course metadata. If three courses return for section 201 in AY 24, then consider whether AY comes before or after the expertionAY and thus discover which course description applies.
-
-TODO: It is hope that during the switch to Workday, each course will be assigned a unique id that will also be avaialble to section course listings. If so, the expirationAY will become obsolute and we can begin to use the property "uniqueId" to accurately pinpoint course descriptions.
 
 For example: 
 
@@ -35,24 +32,34 @@ For example:
  {
     "courseNumber": "PL*401",
     "uniqueId": "",
-    "title": "Morals&Politics Lord of Rings",
-    "tags": ["Seminar"],
+    "title": "Peace and Justice Studies Caps",
+    "tags": [
+      "Seminar"
+    ],
     "note": "",
-    "expirationAY": 18
+    "startAy": 25
   },
   {
     "courseNumber": "PL*401",
     "uniqueId": "",
-    "title": "Peace and Justice Studies Caps",
-    "tags": ["exclude"],
-    "note": ""
+    "title": "Morals&Politics Lord of Rings",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 18
   },
   {
     "courseNumber": "PL*403",
     "uniqueId": "",
     "title": "Philosophy of Happiness",
-    "tags": ["Seminar", "social-political"],
+    "tags": [
+      "Seminar"
+    ],
     "note": "",
-    "expirationAY": 12
+    "startAy": 12
   },
 ```
+
+TODO: It is hope that during the switch to WorkDay, each course will be assigned a unique id that will also be avaialble to section course listings. If so, the expirationAY will become obsolute and we can begin to use the property "uniqueId" to accurately pinpoint course descriptions.

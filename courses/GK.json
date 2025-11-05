@@ -1,0 +1,487 @@
+[
+  {
+    "courseNumber": "GK*101",
+    "uniqueId": "",
+    "title": "Introductory Greek I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GK*102",
+    "uniqueId": "",
+    "title": "Introductory Greek II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GK*103",
+    "uniqueId": "",
+    "title": "Intermediate Greek",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GK*104",
+    "uniqueId": "",
+    "title": "Greek Literature",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "GK*121",
+    "uniqueId": "",
+    "title": "Introductory Greek I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GK*121",
+    "uniqueId": "",
+    "title": "Prv Sdy: Introductory Greek I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GK*121",
+    "uniqueId": "",
+    "title": "Private Study: Intro Greek I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GK*121",
+    "uniqueId": "",
+    "title": "Ind:Introduction Greek I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GK*122",
+    "uniqueId": "",
+    "title": "Introductory Greek II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GK*122",
+    "uniqueId": "",
+    "title": "Prv Sty:Introductory Greek II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GK*122",
+    "uniqueId": "",
+    "title": "Priv Study: Intro Greek II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GK*122",
+    "uniqueId": "",
+    "title": "Independent Study: Greek II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Prv Sty:Intermediate Greek",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Priv Study:intermediate Greek",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Intermediate Greek",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Introduction to Attic Prose",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Prv Sty: Intermediate Greek I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Priv Stdy: Intro Attic Prose",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Priv Sty: Intro to Attic Prose",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Priv: Intro to Attic Prose",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GK*123",
+    "uniqueId": "",
+    "title": "Ind Abrd:Intro to Attic Prose",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "GK*124",
+    "uniqueId": "",
+    "title": "Prv Sty:Greek Literature",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "GK*124",
+    "uniqueId": "",
+    "title": "Greek Literature",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "GK*124",
+    "uniqueId": "",
+    "title": "Prv Sty: Int Greek II: Homer",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GK*124",
+    "uniqueId": "",
+    "title": "Homer",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "GK*124",
+    "uniqueId": "",
+    "title": "Priv Sty: Homer",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GK*301",
+    "uniqueId": "",
+    "title": "Advanced Greek I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "GK*301",
+    "uniqueId": "",
+    "title": "Prv Sty:Homer:The Iliad",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "GK*301",
+    "uniqueId": "",
+    "title": "Prv Sty:Advanced Greek:Longus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GK*302",
+    "uniqueId": "",
+    "title": "Prv Sty:Advncd Greek II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "GK*302",
+    "uniqueId": "",
+    "title": "Advanced Greek II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "GK*303",
+    "uniqueId": "",
+    "title": "Selected Readings Greek I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "GK*303",
+    "uniqueId": "",
+    "title": "Prv Sty:Selectd Readings GK I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "GK*303",
+    "uniqueId": "",
+    "title": "Priv Sty: Select Read Greek I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "GK*304",
+    "uniqueId": "",
+    "title": "Selected Readings Greek II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "GK*304",
+    "uniqueId": "",
+    "title": "Prv Sty:Readings in Greek II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "GK*305",
+    "uniqueId": "",
+    "title": "Selected Readings in Greek III",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "GK*312",
+    "uniqueId": "",
+    "title": "Prv Sty:Greek Trgdy:Sophocles",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "GK*325",
+    "uniqueId": "",
+    "title": "Private Study:Herodotus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "GK*325",
+    "uniqueId": "",
+    "title": "Prv Sty: Herodotus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "GK*325",
+    "uniqueId": "",
+    "title": "Herodotus",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "GK*330",
+    "uniqueId": "",
+    "title": "Hesiod",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "GK*360",
+    "uniqueId": "",
+    "title": "Independent Study: Greek",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  }
+]

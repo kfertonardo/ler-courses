@@ -1,0 +1,2277 @@
+[
+  {
+    "courseNumber": "SP*002",
+    "uniqueId": "",
+    "title": "Intshp:Mercy Medical Center",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "SP*102",
+    "uniqueId": "",
+    "title": "Intro to Human Communication",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SP*103",
+    "uniqueId": "",
+    "title": "Intro Communication Disorders",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SP*110",
+    "uniqueId": "",
+    "title": "Intro to Sign Language",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*200",
+    "uniqueId": "",
+    "title": "Prof Dev Spch-Lang-Hear Sci",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "SP*201",
+    "uniqueId": "",
+    "title": "Hearing Science and Acoustics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SP*201",
+    "uniqueId": "",
+    "title": "Fundamentals of Hearing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SP*202",
+    "uniqueId": "",
+    "title": "Intro to Human Communication",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*203",
+    "uniqueId": "",
+    "title": "Intro Communication Disorders",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*205",
+    "uniqueId": "",
+    "title": "Phonetics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SP*206",
+    "uniqueId": "",
+    "title": "Obs Meth&Tech Sp-Lang Path/Aud",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SP*207",
+    "uniqueId": "",
+    "title": "Speech & Language Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SP*214",
+    "uniqueId": "",
+    "title": "Intro to Sign Language",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*301",
+    "uniqueId": "",
+    "title": "Anatomy & Phys:Speech & Voice",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*302",
+    "uniqueId": "",
+    "title": "Fundamentals of Hearing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*303",
+    "uniqueId": "",
+    "title": "Sociolinguistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*303D",
+    "uniqueId": "",
+    "title": "Sociolinguistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SP*304",
+    "uniqueId": "",
+    "title": "Articulation&Phonologic Disor",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SP*304",
+    "uniqueId": "",
+    "title": "Articulation & Phonology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SP*305",
+    "uniqueId": "",
+    "title": "Phonetics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*306",
+    "uniqueId": "",
+    "title": "Obs Meth&Tech Sp-Lang Path/Aud",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*307",
+    "uniqueId": "",
+    "title": "Speech & Language Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*308",
+    "uniqueId": "",
+    "title": "Prof&Tech Writ Sp-Lng Path/Aud",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*312",
+    "uniqueId": "",
+    "title": "Cultural Div Communication",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SP*312",
+    "uniqueId": "",
+    "title": "Cultural Diversity Communicat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SP*312D",
+    "uniqueId": "",
+    "title": "Cultural Div Communication",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SP*314",
+    "uniqueId": "",
+    "title": "Intermediate Sign Language",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SP*340",
+    "uniqueId": "",
+    "title": "Clinical Audiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SP*400",
+    "uniqueId": "",
+    "title": "Speech Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SP*400",
+    "uniqueId": "",
+    "title": "Prv Sty:Speech Science",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SP*400",
+    "uniqueId": "",
+    "title": "Speech and Voice Science",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SP*401",
+    "uniqueId": "",
+    "title": "Neurology for Comm Sci&Disrdr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SP*401",
+    "uniqueId": "",
+    "title": "Ind Sty:Neuro Cmm Sci&Disrdr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SP*401",
+    "uniqueId": "",
+    "title": "Neurology Speech-Lng Pathlgst",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SP*402",
+    "uniqueId": "",
+    "title": "Speech & Language Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*403",
+    "uniqueId": "",
+    "title": "Articulation & Phonology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SP*403",
+    "uniqueId": "",
+    "title": "Articulation and Phonolgy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SP*404",
+    "uniqueId": "",
+    "title": "Prof&Tech Writ Sp-Lng Path/Aud",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*405",
+    "uniqueId": "",
+    "title": "Child & Adol Comm Disorders",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SP*405",
+    "uniqueId": "",
+    "title": "Neurologcl & Orgnc Child Comm",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "SP*405",
+    "uniqueId": "",
+    "title": "Orgnic Bases Chldhd Comm Diso",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "SP*406",
+    "uniqueId": "",
+    "title": "Neuro Bases Adult Comm Disordr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SP*406",
+    "uniqueId": "",
+    "title": "Organic Bases Adlt Com Disord",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SP*407",
+    "uniqueId": "",
+    "title": "Cln Prct Sp-Lang Path/Aud I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SP*407",
+    "uniqueId": "",
+    "title": "Clncl Prctc Spch Lang/Audio I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SP*408",
+    "uniqueId": "",
+    "title": "Cln Prct Sp-Lang Path/Aud II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*412",
+    "uniqueId": "",
+    "title": "Clinl Sem Speech Path/Audio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*412",
+    "uniqueId": "",
+    "title": "Clin/Eth Sem Speech Path/Audio",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*413",
+    "uniqueId": "",
+    "title": "Assess&Intrv Schl-Age Ch&Adol",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "SP*413",
+    "uniqueId": "",
+    "title": "Adv Top:Speech-Lang Disorders",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SP*415",
+    "uniqueId": "",
+    "title": "Clinical Methods & Mgmt CSD",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty: Ind Sty in Spch Lng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty in Spch-Lang Hear Sci",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty:Spch-Lang Path/Aud",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty: Spch-Lang Path/Aud",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty:Speech Lang Path",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty Sp Lang Path:Res Sty",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty:Narrative Lang Intro",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty:Bilingual Nrrtive Evl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty:Narrative Lang Interv",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Ind Sty:Comm Disorders/ADHD",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SP*416",
+    "uniqueId": "",
+    "title": "Private Study: Audiology",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "SP*417",
+    "uniqueId": "",
+    "title": "Clin Res Comm Sci&Disorders",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SP*417",
+    "uniqueId": "",
+    "title": "Clin Res in Sp-Lang Pathology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*417",
+    "uniqueId": "",
+    "title": "Clin Practice in Sp Lang Path",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SP*418",
+    "uniqueId": "",
+    "title": "Field Exp: Comm Sci & Disorder",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SP*423",
+    "uniqueId": "",
+    "title": "Orgnic bases Chldhd Comm Diso",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SP*423",
+    "uniqueId": "",
+    "title": "Orgnic Bases Chldhd Comm Diso",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SP*440",
+    "uniqueId": "",
+    "title": "Clinical Audiology",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*441",
+    "uniqueId": "",
+    "title": "Aural Habilitation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*442",
+    "uniqueId": "",
+    "title": "Cultural Diversity Communicat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*443",
+    "uniqueId": "",
+    "title": "Clinical Practice in Audio I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*444",
+    "uniqueId": "",
+    "title": "Clinical Practice in Audio II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*499",
+    "uniqueId": "",
+    "title": "Clinical Internship: Schools",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SP*500",
+    "uniqueId": "",
+    "title": "Speech and Voice Science",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SP*501",
+    "uniqueId": "",
+    "title": "Anatomy & Phys: Speech & Voice",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*502",
+    "uniqueId": "",
+    "title": "Survey of Communication Disor",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SP*503",
+    "uniqueId": "",
+    "title": "Articulation and Phonology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*505",
+    "uniqueId": "",
+    "title": "Phonetics",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*506",
+    "uniqueId": "",
+    "title": "Ob Meth&Tech Spch-Lng Pth/Aud",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*506",
+    "uniqueId": "",
+    "title": "ObMeth&Tech Spch-Lng Path/Aud",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*507",
+    "uniqueId": "",
+    "title": "Speech & Language Development",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*508",
+    "uniqueId": "",
+    "title": "Prof&Tech Writ Sp-Lang Path",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SP*516",
+    "uniqueId": "",
+    "title": "Ind Sty in SLP: SpeechScience",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "SP*533",
+    "uniqueId": "",
+    "title": "Intro to Clinical Internship",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*539",
+    "uniqueId": "",
+    "title": "Hearing Science",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SP*540",
+    "uniqueId": "",
+    "title": "Clinical Audiology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*541",
+    "uniqueId": "",
+    "title": "Hearing and Speech Science",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "SP*542",
+    "uniqueId": "",
+    "title": "Fundamentals of Audiology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SP*600",
+    "uniqueId": "",
+    "title": "Neurology for Spch-Lang Patho",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SP*600",
+    "uniqueId": "",
+    "title": "Neurological Dis of Speech",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*601",
+    "uniqueId": "",
+    "title": "Lng Disorders: Aphasiology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SP*601",
+    "uniqueId": "",
+    "title": "Language Disorders: Adult",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*602",
+    "uniqueId": "",
+    "title": "Lng Dis:Infancy Thgh Erly Chld",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*604",
+    "uniqueId": "",
+    "title": "Voice Disorders",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*608",
+    "uniqueId": "",
+    "title": "Comm Disorders&Multicul Pop",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*609",
+    "uniqueId": "",
+    "title": "Clin Apps of Adv Behavrl Top",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SP*610",
+    "uniqueId": "",
+    "title": "Lit for Speech-Lang Patholog",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*612",
+    "uniqueId": "",
+    "title": "Prv Sty:Aural Habilitation",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SP*612",
+    "uniqueId": "",
+    "title": "Aural Habilitation:Child&Adult",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SP*613",
+    "uniqueId": "",
+    "title": "Articulation&Phonological Dis",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*613",
+    "uniqueId": "",
+    "title": "Adv Top: Artc & Phonolgic Dis",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*613",
+    "uniqueId": "",
+    "title": "Advanced Phonology",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*615",
+    "uniqueId": "",
+    "title": "Ind Study Language Pathology",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*615",
+    "uniqueId": "",
+    "title": "Ind Study: Audiology Clinic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SP*615",
+    "uniqueId": "",
+    "title": "Indep Study: Audiology Clinic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Ind Sty:Explr Cltrl Div Wmn",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Ind Sty:Spch-Lang Pathology",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Ind Sty in Spch-Lang Pathology",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Ind Sty:Reintgrt Child Brain",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Ind Sty: Intro to Thesis",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Ind St:Parnt Traing Narr Lang",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Ind Sty in Speech Pathology",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Ind Sty: Neurogenic Clinic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "SP*616",
+    "uniqueId": "",
+    "title": "Indpt Stdy: Neurogenic Clinic",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "SP*617",
+    "uniqueId": "",
+    "title": "Fluency Disorders",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SP*618",
+    "uniqueId": "",
+    "title": "Chld Vrbl Apraxia&Chld Oral M",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SP*620",
+    "uniqueId": "",
+    "title": "Cleft Palate&Craniofacial Ano",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SP*624",
+    "uniqueId": "",
+    "title": "Lang&Litera Dis:Sch-Age Popul",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SP*624",
+    "uniqueId": "",
+    "title": "Lang Dis:Schl-Age Population",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SP*624",
+    "uniqueId": "",
+    "title": "Lang Dis School Age Children",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*625",
+    "uniqueId": "",
+    "title": "Research Strategies and Design",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SP*625",
+    "uniqueId": "",
+    "title": "Research Methods and Design",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SP*626",
+    "uniqueId": "",
+    "title": "Clinical Audiology Internship",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*630",
+    "uniqueId": "",
+    "title": "Clin Sem Speech-Lang Patho",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SP*631",
+    "uniqueId": "",
+    "title": "Simucase",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "SP*632",
+    "uniqueId": "",
+    "title": "Clinical Int:School-Based",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "SP*632",
+    "uniqueId": "",
+    "title": "Clinical Int:Schools Based",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SP*632",
+    "uniqueId": "",
+    "title": "Clin Sp-Lng Pth Intrn: Sch Bsd",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*633",
+    "uniqueId": "",
+    "title": "Clinical Internship I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*633",
+    "uniqueId": "",
+    "title": "Clinical Sp-Lg Pth Intern I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*633",
+    "uniqueId": "",
+    "title": "Clin Sp-Lg Pth Itrn I:Cln Bsd",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SP*633",
+    "uniqueId": "",
+    "title": "Graduate Clinical Skills Prac",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*634",
+    "uniqueId": "",
+    "title": "Clinical Internship II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*634",
+    "uniqueId": "",
+    "title": "Clin Spch-Lang Path Intern II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*634",
+    "uniqueId": "",
+    "title": "Clin Speech-Lang Path Intern",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*635",
+    "uniqueId": "",
+    "title": "Clinical Externship",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*635",
+    "uniqueId": "",
+    "title": "Clin Speech Lang Path Extern",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*636",
+    "uniqueId": "",
+    "title": "Adv Clin Ext:Speclty Clin Prg",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*636",
+    "uniqueId": "",
+    "title": "Adv Cln Sp-L Path Ext:Spc Cln",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*636",
+    "uniqueId": "",
+    "title": "Adv Clin Pract:Special Clin Pr",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SP*636",
+    "uniqueId": "",
+    "title": "Adv Clin Extern:Sp Clin Pr",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SP*637",
+    "uniqueId": "",
+    "title": "Clinical Ext:School-Based",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*637",
+    "uniqueId": "",
+    "title": "Clin Sp-L Path Ext:Schl-Based",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*637",
+    "uniqueId": "",
+    "title": "Clncl Sp-Lang Path Extern Sch",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SP*638",
+    "uniqueId": "",
+    "title": "Clin Sp-Lang Patho Int: Neuro",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SP*638",
+    "uniqueId": "",
+    "title": "Clinical Slp: Neurogenic",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SP*638",
+    "uniqueId": "",
+    "title": "Adult Neurogenic Clin Practic",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*639",
+    "uniqueId": "",
+    "title": "Clin Sp-Lng Pth Intern: Voice",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "SP*639",
+    "uniqueId": "",
+    "title": "Clin Spch-Lang Path Intern",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "SP*639",
+    "uniqueId": "",
+    "title": "Clin Sp Lng Pth Intern: Voice",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SP*640",
+    "uniqueId": "",
+    "title": "Clin Sp-Lg Path Intrn:Diagnos",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SP*640",
+    "uniqueId": "",
+    "title": "Clinical Slp: Diag",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SP*641",
+    "uniqueId": "",
+    "title": "Counseling in Comm Disorders",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SP*642",
+    "uniqueId": "",
+    "title": "Clinical Internship III",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*643",
+    "uniqueId": "",
+    "title": "Autism Spct&Soc Comm Disorder",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SP*643",
+    "uniqueId": "",
+    "title": "Assess&Intrv Chld&Adol Autism",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "SP*644",
+    "uniqueId": "",
+    "title": "Pediatric Dysphagia",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "SP*645",
+    "uniqueId": "",
+    "title": "Multicultural Issues Sp-L Path",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SP*645",
+    "uniqueId": "",
+    "title": "Multicultural Issues in SLP",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SP*645",
+    "uniqueId": "",
+    "title": "Multicultural Issues",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SP*646",
+    "uniqueId": "",
+    "title": "Tests and Measurements",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*648",
+    "uniqueId": "",
+    "title": "Short-Term Intensive Clin Ext",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "SP*650",
+    "uniqueId": "",
+    "title": "Augmentative&Alterntv Communi",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SP*650",
+    "uniqueId": "",
+    "title": "Aug Alt Comm",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SP*651",
+    "uniqueId": "",
+    "title": "Clinical Internship I School",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SP*652",
+    "uniqueId": "",
+    "title": "Clinical Int II School-Based",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SP*653",
+    "uniqueId": "",
+    "title": "Clin Int III School-Based",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "SP*656",
+    "uniqueId": "",
+    "title": "Ethics & Professional Practice",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "SP*657",
+    "uniqueId": "",
+    "title": "Ind Sty: Thesis Seminar",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SP*657",
+    "uniqueId": "",
+    "title": "Ind Sty:Thesis Seminar",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "SP*657",
+    "uniqueId": "",
+    "title": "Prv Sty: Thesis Seminar",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SP*657",
+    "uniqueId": "",
+    "title": "Prv Sty:Thesis Seminar",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "SP*657",
+    "uniqueId": "",
+    "title": "Thesis Seminar",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "SP*660",
+    "uniqueId": "",
+    "title": "Prof Practice Seminar I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SP*660",
+    "uniqueId": "",
+    "title": "Professional Practice Seminar",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "SP*661",
+    "uniqueId": "",
+    "title": "Professional Practice Sem II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SP*662",
+    "uniqueId": "",
+    "title": "Professional Practice Sem III",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SP*663",
+    "uniqueId": "",
+    "title": "Professional Practice Sem IV",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "SP*664",
+    "uniqueId": "",
+    "title": "Professional Practice Sem V",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SP*666",
+    "uniqueId": "",
+    "title": "Dysphagia:Evaluation&Mgmt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SP*666",
+    "uniqueId": "",
+    "title": "Dysphagia:Evluation & Mgmt",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "SP*700",
+    "uniqueId": "",
+    "title": "Head and Neck Cancer",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "SP*701",
+    "uniqueId": "",
+    "title": "Adv Topics: Cochlear Implants",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SP*702",
+    "uniqueId": "",
+    "title": "Trach and Vent",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SP*703",
+    "uniqueId": "",
+    "title": "Advanced Dysphagia",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "SP*704",
+    "uniqueId": "",
+    "title": "Cognitive-Communication Disrd",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*704",
+    "uniqueId": "",
+    "title": "Cognitive Comm Disorders",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "SP*704",
+    "uniqueId": "",
+    "title": "Cognitive-Communicat Dis:Adult",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*705",
+    "uniqueId": "",
+    "title": "Comm&Ed Reint Child Brn Inj",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*705",
+    "uniqueId": "",
+    "title": "Comm & Educ Reinteg of Child",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "SP*706",
+    "uniqueId": "",
+    "title": "Mtr Spch Dis Adts&Children I",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SP*706",
+    "uniqueId": "",
+    "title": "Mtr Spch Dis in Adts&Children",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "SP*706",
+    "uniqueId": "",
+    "title": "Adv Topics Speech Disorders",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "SP*707",
+    "uniqueId": "",
+    "title": "Intro Sign Language",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "SP*708",
+    "uniqueId": "",
+    "title": "Pediatric Feeding",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*708",
+    "uniqueId": "",
+    "title": "Ped Feed:Cmp Mgmt&Erly Interv",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "SP*709",
+    "uniqueId": "",
+    "title": "Acquired & Trauma Brain Injury",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "SP*710",
+    "uniqueId": "",
+    "title": "Psych Iss Yth w/Comm Imprmt",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "SP*710",
+    "uniqueId": "",
+    "title": "Psych Issues Yth w/ Comm Impr",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "SP*711",
+    "uniqueId": "",
+    "title": "Mtr Spch Disrdr Adlt&Child II",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SP*712",
+    "uniqueId": "",
+    "title": "Accent Mod for Eng Learners",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "SP*713",
+    "uniqueId": "",
+    "title": "Wrk Deaf&Hard Hearng:SL&Beynd",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "SP*714",
+    "uniqueId": "",
+    "title": "Acqrd&Trm Brain Inj Chld&Adlt",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "SP*715",
+    "uniqueId": "",
+    "title": "Motor Speech Dis Chld&Adult",
+    "tags": [
+      "Graduate"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "SP*716",
+    "uniqueId": "",
+    "title": "Navigating IPE & IPP for SLPs",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "SP*717",
+    "uniqueId": "",
+    "title": "Adv Autism Spect&Soc Comm Dis",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "SP*718",
+    "uniqueId": "",
+    "title": "Trauma-Inf Care Speech Patholo",
+    "tags": [
+      "Graduate",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  }
+]

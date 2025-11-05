@@ -1,0 +1,1420 @@
+[
+  {
+    "courseNumber": "EG*001",
+    "uniqueId": "",
+    "title": "Intern:Enviromental Studies",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "EG*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Digital Image Process",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EG*031",
+    "uniqueId": "",
+    "title": "Linear Circuit Analysis Lab",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*031",
+    "uniqueId": "",
+    "title": "Prv Sty: Lnr Crct Anlys Lab",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EG*031",
+    "uniqueId": "",
+    "title": "Prv Sty:Linear Circ Analysis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EG*032",
+    "uniqueId": "",
+    "title": "Prv Sty: Electronics Lab",
+    "tags": [
+      "Lab",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EG*032",
+    "uniqueId": "",
+    "title": "Electronics Lab",
+    "tags": [
+      "Lab",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EG*032",
+    "uniqueId": "",
+    "title": "Electronics I Lab",
+    "tags": [
+      "Lab",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*051",
+    "uniqueId": "",
+    "title": "Materials Science Lab",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*071",
+    "uniqueId": "",
+    "title": "Intro Dig Circuits&Syst Lab",
+    "tags": [
+      "Lab",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EG*071",
+    "uniqueId": "",
+    "title": "Digital Logic Laboratory",
+    "tags": [
+      "Lab",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EG*071",
+    "uniqueId": "",
+    "title": "Digital Logic&Comptr Syst Lab",
+    "tags": [
+      "Lab",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EG*101",
+    "uniqueId": "",
+    "title": "Introduction to Engineering",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*103",
+    "uniqueId": "",
+    "title": "Eng&Soc:Eng, Dsgn& Crtv Prblm",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*103",
+    "uniqueId": "",
+    "title": "Engineering",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EG*103",
+    "uniqueId": "",
+    "title": "Eng&Soc: Eng Dsgn&Crtv Prblm",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EG*120",
+    "uniqueId": "",
+    "title": "MATLAB Tools Eng & Science",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "EG*130",
+    "uniqueId": "",
+    "title": "Sprsheet Tools for Eng & Sci",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "EG*140",
+    "uniqueId": "",
+    "title": "Program Tools for Eng&Science",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "EG*201",
+    "uniqueId": "",
+    "title": "Ob-Oriented App Design",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "EG*226",
+    "uniqueId": "",
+    "title": "3-D Design in Art&Engineering",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EG*227",
+    "uniqueId": "",
+    "title": "3-D Design in Art&Engineering",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EG*301",
+    "uniqueId": "",
+    "title": "Statics",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EG*301",
+    "uniqueId": "",
+    "title": "Engineering Mechanics I",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*302",
+    "uniqueId": "",
+    "title": "Dynamics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EG*302",
+    "uniqueId": "",
+    "title": "Engineering Mechanics II",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*320",
+    "uniqueId": "",
+    "title": "Solid Mechanics Laboratory",
+    "tags": [
+      "Lab",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EG*320",
+    "uniqueId": "",
+    "title": "Mechanics of Materials Lab",
+    "tags": [
+      "Lab",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*331",
+    "uniqueId": "",
+    "title": "Linear Circuit Analysis",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*333",
+    "uniqueId": "",
+    "title": "Signals and Systems",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*333",
+    "uniqueId": "",
+    "title": "Prv Sty: Signals & Systems",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EG*351",
+    "uniqueId": "",
+    "title": "Intro to Engineering Materials",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*360",
+    "uniqueId": "",
+    "title": "Ob-Oriented Engineering Design",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "EG*380",
+    "uniqueId": "",
+    "title": "Thermodynamics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EG*380",
+    "uniqueId": "",
+    "title": "Engineering Thermodynamics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*381",
+    "uniqueId": "",
+    "title": "Probability and Statistics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "EG*390",
+    "uniqueId": "",
+    "title": "Experimental Methods",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*397",
+    "uniqueId": "",
+    "title": "Engineering Design Fundamental",
+    "tags": [
+      "Lab"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EG*420",
+    "uniqueId": "",
+    "title": "Solid Mechanics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EG*420",
+    "uniqueId": "",
+    "title": "Prv Sty:Solid Mechanics",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EG*420",
+    "uniqueId": "",
+    "title": "Mechanics of Materials",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*420",
+    "uniqueId": "",
+    "title": "Priv: Mechanics of Materials",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*421",
+    "uniqueId": "",
+    "title": "Fluid Mechanics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*422",
+    "uniqueId": "",
+    "title": "Heat and Mass Transfer",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EG*422",
+    "uniqueId": "",
+    "title": "Transfer Processes",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EG*423",
+    "uniqueId": "",
+    "title": "Eng Materials & Mnfctng Prcs",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "EG*423",
+    "uniqueId": "",
+    "title": "Eng Materials & Mnfctng Prcsg",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "EG*424",
+    "uniqueId": "",
+    "title": "Mechanical Design",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "EG*424",
+    "uniqueId": "",
+    "title": "Mechanics of Structures",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*426",
+    "uniqueId": "",
+    "title": "Computer-Aided Sim&Design",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "EG*426",
+    "uniqueId": "",
+    "title": "Prv Sty:comp-Aided Sim&design",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EG*429",
+    "uniqueId": "",
+    "title": "Sp Tp:Them Anlys w/SOLIDWORKS",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EG*429",
+    "uniqueId": "",
+    "title": "Sp Tp:Adv Comp Aid Sim",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EG*429",
+    "uniqueId": "",
+    "title": "Intro Chemical Proc Engineer",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EG*429",
+    "uniqueId": "",
+    "title": "Sp Top:Alloy Selct for EG Des",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EG*429",
+    "uniqueId": "",
+    "title": "Sp Top Mech Eng:Alloy Select",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EG*432",
+    "uniqueId": "",
+    "title": "Electronics",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "EG*432",
+    "uniqueId": "",
+    "title": "Electronics I",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*434",
+    "uniqueId": "",
+    "title": "Digital Signal Processing I",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*436",
+    "uniqueId": "",
+    "title": "Digital Signal Processing II",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*437",
+    "uniqueId": "",
+    "title": "Field Theory",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*441",
+    "uniqueId": "",
+    "title": "Engineering Systems Analysis",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*452",
+    "uniqueId": "",
+    "title": "Elect & Mag Prop Materials",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*452",
+    "uniqueId": "",
+    "title": "PrvSy:Elect&Mag Prop Material",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EG*452",
+    "uniqueId": "",
+    "title": "Prv Sty: Elect & Mag Prop Mat",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "EG*453",
+    "uniqueId": "",
+    "title": "Structure of Solids",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EG*454",
+    "uniqueId": "",
+    "title": "Mechanical Prop of Materials",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EG*455",
+    "uniqueId": "",
+    "title": "Transformations in Solids",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Top: Biomaterials Engineer",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Top:Eng Biomaterials",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Top:Fail Analysis Eng Mat",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Top:Failure Analys Eng Mat",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Top:Alloy Select Eng Dsign",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Tp:Failure Anlyss Eng Matr",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Tp Mtrl Eng:Corrosion Sci",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Tp in Materials Engineeri",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Intro Chemical Proc Engineer",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Spc Top in Materials Eng",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EG*459",
+    "uniqueId": "",
+    "title": "Sp Tp:Fail Analys Eng Matrls",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*461",
+    "uniqueId": "",
+    "title": "Modern Control Systems",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EG*471",
+    "uniqueId": "",
+    "title": "Intro to Digital Circuits&Sys",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "EG*471",
+    "uniqueId": "",
+    "title": "Digital Logic",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "EG*471",
+    "uniqueId": "",
+    "title": "Digital Logic&Computer Systems",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EG*474",
+    "uniqueId": "",
+    "title": "Intro Microprocess-Based Syst",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*475",
+    "uniqueId": "",
+    "title": "FPGA Design",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "EG*476",
+    "uniqueId": "",
+    "title": "Electronic Digital Circuits",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*477",
+    "uniqueId": "",
+    "title": "VLSI Design",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EG*477",
+    "uniqueId": "",
+    "title": "Data Networks",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "EG*478",
+    "uniqueId": "",
+    "title": "Computer Architecture",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EG*479",
+    "uniqueId": "",
+    "title": "Spc Top: Quantum Computing II",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "EG*479",
+    "uniqueId": "",
+    "title": "Spc Top Comp Eng: FPGA Design",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "EG*479",
+    "uniqueId": "",
+    "title": "Sp Tp Comp Engin: FPGA Design",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "EG*479",
+    "uniqueId": "",
+    "title": "Spc Top in Computer Engineer",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EG*481",
+    "uniqueId": "",
+    "title": "Communications",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "EG*481",
+    "uniqueId": "",
+    "title": "Probability and Statistics",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EG*481",
+    "uniqueId": "",
+    "title": "Priv: Probability&Statistics",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "EG*483",
+    "uniqueId": "",
+    "title": "Control Systems",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "EG*484",
+    "uniqueId": "",
+    "title": "Analog Communication Systems",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*485",
+    "uniqueId": "",
+    "title": "Digital Signal Processing",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "EG*486",
+    "uniqueId": "",
+    "title": "Digital Communication Systems",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*487",
+    "uniqueId": "",
+    "title": "Electromagnetics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "EG*488",
+    "uniqueId": "",
+    "title": "Intro to Quantum Computing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "EG*489",
+    "uniqueId": "",
+    "title": "Sp Tp Elect Eng: Int Mach Lrn",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EG*489",
+    "uniqueId": "",
+    "title": "Sp Tp Elc Eng: Intro Power Sys",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "EG*489",
+    "uniqueId": "",
+    "title": "Sp Tp:Electromagnetics",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EG*489",
+    "uniqueId": "",
+    "title": "Sp Top El Eng:Control Systems",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EG*489",
+    "uniqueId": "",
+    "title": "Spc Top Elec Eng: Control Thry",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "EG*489",
+    "uniqueId": "",
+    "title": "Spc Top in Electrical Eng",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EG*491",
+    "uniqueId": "",
+    "title": "Tech Innovtn&Entrepreneurship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "EG*495",
+    "uniqueId": "",
+    "title": "Engineering Research",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "EG*495",
+    "uniqueId": "",
+    "title": "Prv Sty: Engineering Research",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "EG*495",
+    "uniqueId": "",
+    "title": "Engineering Research I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "EG*495",
+    "uniqueId": "",
+    "title": "Priv Study: Eng Research I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "EG*496",
+    "uniqueId": "",
+    "title": "Engineering Research II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*497",
+    "uniqueId": "",
+    "title": "Ind Sty: Engnrng Dsgn Prjct 1",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EG*497",
+    "uniqueId": "",
+    "title": "Engineering Design Project I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*497",
+    "uniqueId": "",
+    "title": "Prv Sty:Eng Design Prjct l",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EG*497",
+    "uniqueId": "",
+    "title": "Ind Sty:Engineer Des Proj I",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "EG*498",
+    "uniqueId": "",
+    "title": "Engineering Design Project II",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*498",
+    "uniqueId": "",
+    "title": "Prv Sty: Engnrng Dsgn Prjct",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "EG*499",
+    "uniqueId": "",
+    "title": "Engineering Internship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "EG*499",
+    "uniqueId": "",
+    "title": "Engineering Science Internship",
+    "tags": [
+      "Seminar",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "EG*740",
+    "uniqueId": "",
+    "title": "Data Communications",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*766",
+    "uniqueId": "",
+    "title": "Seminar: Digital Receiver",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "EG*766",
+    "uniqueId": "",
+    "title": "Seminar: Wavelets",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "EG*778",
+    "uniqueId": "",
+    "title": "Image Processing",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*779",
+    "uniqueId": "",
+    "title": "Advanced Communication Theory",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*782",
+    "uniqueId": "",
+    "title": "Campus/Metro Area Networks",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*787",
+    "uniqueId": "",
+    "title": "Adaptive Filters",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "EG*798",
+    "uniqueId": "",
+    "title": "Wireless Communications",
+    "tags": [
+      "Seminar"
+    ],
+    "note": "",
+    "startAy": 6
+  }
+]

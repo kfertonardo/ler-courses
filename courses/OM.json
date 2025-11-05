@@ -1,0 +1,75 @@
+[
+  {
+    "courseNumber": "OM*260",
+    "uniqueId": "",
+    "title": "Supply Chain&Operations Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "OM*305",
+    "uniqueId": "",
+    "title": "Lean and Green Supply Chains",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "OM*330",
+    "uniqueId": "",
+    "title": "Operations Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "OM*334",
+    "uniqueId": "",
+    "title": "Global Supply Chn Strt&Sourc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "OM*334",
+    "uniqueId": "",
+    "title": "Global Supply Chain Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "OM*335",
+    "uniqueId": "",
+    "title": "Project Management",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "OM*499",
+    "uniqueId": "",
+    "title": "Internship in Operations Mgmt",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  }
+]

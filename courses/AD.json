@@ -1,0 +1,853 @@
+[
+  {
+    "courseNumber": "AD*600",
+    "uniqueId": "",
+    "title": "Self Lead: Coach, Sys&Self I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AD*601",
+    "uniqueId": "",
+    "title": "Self Lead:Coach, Syst&Self II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AD*602",
+    "uniqueId": "",
+    "title": "Self Lead:Coach, Sys&Self III",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "AD*650",
+    "uniqueId": "",
+    "title": "Crclm, Assessmnt&Instr Leader",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "AD*650",
+    "uniqueId": "",
+    "title": "Prv Sty: Crclm Assess Instr",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AD*650",
+    "uniqueId": "",
+    "title": "Prv Sty:Crc,Assessmnt&Intr Ld",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AD*650",
+    "uniqueId": "",
+    "title": "Prv Sty:Crm,Assessmnt&Inst Ld",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AD*651",
+    "uniqueId": "",
+    "title": "Leadership and Equity",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AD*662",
+    "uniqueId": "",
+    "title": "Leader,Supervi&Prof Developm",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "AD*662",
+    "uniqueId": "",
+    "title": "Pr Sty: Leader,Sup&Prof Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "AD*662",
+    "uniqueId": "",
+    "title": "Prv Sty: Lshp,superv&prof dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AD*662",
+    "uniqueId": "",
+    "title": "Prv Sty: Lead Spv & Pro Dev",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "AD*662",
+    "uniqueId": "",
+    "title": "Prv Sty:Supervi&Staff Develop",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AD*662",
+    "uniqueId": "",
+    "title": "Supervision&Staff Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AD*668",
+    "uniqueId": "",
+    "title": "School Law,Policy, and Ethics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AD*668",
+    "uniqueId": "",
+    "title": "School Law",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "AD*668",
+    "uniqueId": "",
+    "title": "Prv Sty:School Law",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "AD*668",
+    "uniqueId": "",
+    "title": "The Law, the Courts & School",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "AD*668",
+    "uniqueId": "",
+    "title": "Prv Sty:Law,Courts,&School",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AD*670",
+    "uniqueId": "",
+    "title": "Instruct Coaching: Found & Pra",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "AD*674",
+    "uniqueId": "",
+    "title": "Human Rel&Cult Prof Sch Lead",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "AD*674",
+    "uniqueId": "",
+    "title": "Human Relations in School Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "AD*675",
+    "uniqueId": "",
+    "title": "Lead Change: School Lead&Mgmt",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AD*680",
+    "uniqueId": "",
+    "title": "Leadership Seminar",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AD*680",
+    "uniqueId": "",
+    "title": "Prv Sty: Leadership Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AD*681",
+    "uniqueId": "",
+    "title": "Organiza Develop in Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "AD*681",
+    "uniqueId": "",
+    "title": "Priv Sty: Organization Develop",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AD*681",
+    "uniqueId": "",
+    "title": "Organization Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AD*682",
+    "uniqueId": "",
+    "title": "Technology for School Leaders",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "AD*682",
+    "uniqueId": "",
+    "title": "Prv Sty: Tech for School Lead",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AD*682",
+    "uniqueId": "",
+    "title": "Prv Sty:Tech for School Admin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AD*682",
+    "uniqueId": "",
+    "title": "Technlgy School Administrator",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AD*683",
+    "uniqueId": "",
+    "title": "Leadership Theor&Pract in Edu",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "AD*683",
+    "uniqueId": "",
+    "title": "Prv Sty:Leadrshp Theor&Prac",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AD*683",
+    "uniqueId": "",
+    "title": "Leadership:Theories&Practices",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "AD*684",
+    "uniqueId": "",
+    "title": "Resource Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "AD*684",
+    "uniqueId": "",
+    "title": "Prv Sty: Resource Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AD*684",
+    "uniqueId": "",
+    "title": "Prv Study: Resource Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AD*684",
+    "uniqueId": "",
+    "title": "Priv Sty: Resource Management",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "AD*685",
+    "uniqueId": "",
+    "title": "Crit Self-Ref,Lead&Cult Refl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "AD*685",
+    "uniqueId": "",
+    "title": "Reflective School Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "AD*685",
+    "uniqueId": "",
+    "title": "Ind Sty:Reflective Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AD*685",
+    "uniqueId": "",
+    "title": "Prv Sty:Reflec Sch Leadrshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "AD*685",
+    "uniqueId": "",
+    "title": "Prv Sty: Reflect School Leader",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AD*686",
+    "uniqueId": "",
+    "title": "Instr Leader&Assess Stu Learn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "AD*686",
+    "uniqueId": "",
+    "title": "Prv Sty:Instr Ld&As Stu Learn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AD*686",
+    "uniqueId": "",
+    "title": "Prv Sty:Instr Ldr&As St Lrn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AD*686",
+    "uniqueId": "",
+    "title": "Prv Sty:Instr Lead&Stu Learn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AD*686",
+    "uniqueId": "",
+    "title": "Prv Sty:Inst Lead&Stdnt Lrng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "AD*686",
+    "uniqueId": "",
+    "title": "Prv Sty: Instr Leader&Assess",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "AD*686",
+    "uniqueId": "",
+    "title": "Ind Sdy: Inst Ld & Stdt Assess",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "AD*686",
+    "uniqueId": "",
+    "title": "School Assessment:Issues&Skill",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "AD*687",
+    "uniqueId": "",
+    "title": "Intern in Education Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "AD*687",
+    "uniqueId": "",
+    "title": "Internshp Education Leadershp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AD*687",
+    "uniqueId": "",
+    "title": "Internshp Admin&Supervision",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "AD*687",
+    "uniqueId": "",
+    "title": "Internshp Admin&supervision",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "AD*687",
+    "uniqueId": "",
+    "title": "Internshp Admin&Supervision I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "AD*688",
+    "uniqueId": "",
+    "title": "Int in Educational Leadrship I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AD*688",
+    "uniqueId": "",
+    "title": "Int:Intshp Educ Leadrship I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "AD*688",
+    "uniqueId": "",
+    "title": "Ind Sty: Intern in Ed Ldshp I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AD*688",
+    "uniqueId": "",
+    "title": "Int:Int in Educ Leadrshp I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "AD*688",
+    "uniqueId": "",
+    "title": "Intrn Educational Leadership I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "AD*689",
+    "uniqueId": "",
+    "title": "Intern Education Leadershp II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "AD*689",
+    "uniqueId": "",
+    "title": "Ind Sty: Intern Edu Ldshp II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AD*689",
+    "uniqueId": "",
+    "title": "Ind Sty:Intern Ed Ldshp II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "AD*689",
+    "uniqueId": "",
+    "title": "Intshp:Intern Edu Leadrshp II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "AD*689",
+    "uniqueId": "",
+    "title": "Int:Intshp Edu Leadershp II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "AD*689",
+    "uniqueId": "",
+    "title": "Intrnship in Admn &Superv II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "AD*701",
+    "uniqueId": "",
+    "title": "Trauma Informed Leadership",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AD*776",
+    "uniqueId": "",
+    "title": "Theory & Resear in Edu Leadshp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "AD*776",
+    "uniqueId": "",
+    "title": "Theory & Resear on Edu Leadshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "AD*776",
+    "uniqueId": "",
+    "title": "Prv Sty:Thry&Res Ed Leadshp",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "AD*776",
+    "uniqueId": "",
+    "title": "Theory & Research on Teaching",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "AD*932",
+    "uniqueId": "",
+    "title": "Sp Ed School Law",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "AD*932",
+    "uniqueId": "",
+    "title": "Sp Ed Law&Comp School Leaders",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 17
+  }
+]

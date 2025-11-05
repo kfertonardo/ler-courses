@@ -1,0 +1,62 @@
+[
+  {
+    "courseNumber": "JP*101",
+    "uniqueId": "",
+    "title": "Japanese I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "JP*102",
+    "uniqueId": "",
+    "title": "Japanese II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "JP*103",
+    "uniqueId": "",
+    "title": "Japanese III",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "JP*104",
+    "uniqueId": "",
+    "title": "Japanese IV",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "JP*201",
+    "uniqueId": "",
+    "title": "Japanese Comp&Conversation",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "JP*202",
+    "uniqueId": "",
+    "title": "Advanced Japanese Comp&Conv",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  }
+]

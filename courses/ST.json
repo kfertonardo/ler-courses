@@ -1,0 +1,510 @@
+[
+  {
+    "courseNumber": "ST*001",
+    "uniqueId": "",
+    "title": "Ind Sty:Publ Stats:Linear Reg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "ST*001",
+    "uniqueId": "",
+    "title": "Int:trans Science Data Anlysis",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ST*002",
+    "uniqueId": "",
+    "title": "Ind Sty:Mdlng Prob Shrt Sport",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "ST*110",
+    "uniqueId": "",
+    "title": "Intro Stats Meth&Data Analys",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ST*110",
+    "uniqueId": "",
+    "title": "Intro Stats Meth&data Analysis",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ST*110",
+    "uniqueId": "",
+    "title": "Intro to Statis Meth&Data Anal",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ST*131",
+    "uniqueId": "",
+    "title": "Intro Stats Mid School Teacher",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ST*200",
+    "uniqueId": "",
+    "title": "Opportunities in STEM",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ST*210",
+    "uniqueId": "",
+    "title": "Introduction to Statistics",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ST*265",
+    "uniqueId": "",
+    "title": "Biostatistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ST*310",
+    "uniqueId": "",
+    "title": "Statistical Computing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ST*310",
+    "uniqueId": "",
+    "title": "Prv Sty: Statistic Computing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "ST*310",
+    "uniqueId": "",
+    "title": "Prv Sty:Statistical Computing",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ST*365",
+    "uniqueId": "",
+    "title": "Prv Sty:Stat Anlys Sys Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ST*365",
+    "uniqueId": "",
+    "title": "Stat Analysis Sys (SAS) Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ST*365",
+    "uniqueId": "",
+    "title": "Prv:Statstcl Analysis Sys Lab",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "ST*366",
+    "uniqueId": "",
+    "title": "Statistical Computing Using R",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "ST*366",
+    "uniqueId": "",
+    "title": "Prv Sty:Stat Comp Using R",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "ST*381",
+    "uniqueId": "",
+    "title": "Probability and Statistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "ST*461",
+    "uniqueId": "",
+    "title": "Elems Statis Theory I: Distrib",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "ST*462",
+    "uniqueId": "",
+    "title": "Elem of Stat Theory II: Infer",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "ST*465",
+    "uniqueId": "",
+    "title": "Experimental Research Methods",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ST*465",
+    "uniqueId": "",
+    "title": "Ind Sty:Adv Stat Mthds",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ST*466",
+    "uniqueId": "",
+    "title": "Experimental Design",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "ST*466",
+    "uniqueId": "",
+    "title": "Prv Sty:Experimental Design",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "ST*471",
+    "uniqueId": "",
+    "title": "Pry Sty:Statistical Qual Ctrl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "ST*471",
+    "uniqueId": "",
+    "title": "Statistical Quality Control",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ST*472",
+    "uniqueId": "",
+    "title": "Applied Multivariate Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "ST*473",
+    "uniqueId": "",
+    "title": "Stat Learning & Big Data",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "ST*475",
+    "uniqueId": "",
+    "title": "Survival Analysis&Gen Lin Mod",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "ST*475",
+    "uniqueId": "",
+    "title": "R Computing&Survival Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "ST*476",
+    "uniqueId": "",
+    "title": "Statistical Sports Modelling",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "ST*485",
+    "uniqueId": "",
+    "title": "Stochastic Processes",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "ST*491",
+    "uniqueId": "",
+    "title": "Ind Sty: Lin&Log Reg&Fact Fit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "ST*491",
+    "uniqueId": "",
+    "title": "Sp Top Stats:Quality Control",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10,
+    "endAy": 10
+  },
+  {
+    "courseNumber": "ST*491",
+    "uniqueId": "",
+    "title": "Special Topics in Statistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "ST*491",
+    "uniqueId": "",
+    "title": "Spc Top: Quality Control",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "ST*499",
+    "uniqueId": "",
+    "title": "Statistics Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ST*499",
+    "uniqueId": "",
+    "title": "Intshp:Statistics Internship",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ST*499",
+    "uniqueId": "",
+    "title": "Intshp:Ballpark Operations",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "ST*681",
+    "uniqueId": "",
+    "title": "Probability and Statistics",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "ST*710",
+    "uniqueId": "",
+    "title": "Statistical Computing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "ST*765",
+    "uniqueId": "",
+    "title": "Linear Statistical Models",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "ST*767",
+    "uniqueId": "",
+    "title": "Multivariate Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "ST*775",
+    "uniqueId": "",
+    "title": "Prv Sty:Gen Lin&Multilev Mod",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "ST*775",
+    "uniqueId": "",
+    "title": "Prv Sty: Gen Lnr&Multilev Mdl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "ST*778",
+    "uniqueId": "",
+    "title": "Time Series Analysis",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  }
+]

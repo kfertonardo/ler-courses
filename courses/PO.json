@@ -1,0 +1,34 @@
+[
+  {
+    "courseNumber": "PO*204",
+    "uniqueId": "",
+    "title": "Portuguese Language & Culture",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 23
+  },
+  {
+    "courseNumber": "PO*204",
+    "uniqueId": "",
+    "title": "Portgse fr Speakrs of Spanish",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "PO*204",
+    "uniqueId": "",
+    "title": "Portuguese for Span Speakers",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 15
+  }
+]

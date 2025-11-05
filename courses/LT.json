@@ -1,0 +1,608 @@
+[
+  {
+    "courseNumber": "LT*001",
+    "uniqueId": "",
+    "title": "Ind Sty: Latin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "LT*101",
+    "uniqueId": "",
+    "title": "Introductory Latin I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "LT*101",
+    "uniqueId": "",
+    "title": "Prv Sty: Introductory Latin I",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "LT*102",
+    "uniqueId": "",
+    "title": "Introductory Latin II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "LT*102",
+    "uniqueId": "",
+    "title": "Prv Sty: Latin 102",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "LT*102",
+    "uniqueId": "",
+    "title": "Prv Sty:Introductory Latin II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "LT*102",
+    "uniqueId": "",
+    "title": "Prv Sty:Latin 102",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "LT*102",
+    "uniqueId": "",
+    "title": "Prv Sty: Introductory Latin II",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "LT*103",
+    "uniqueId": "",
+    "title": "Intermediate Latin",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "LT*103",
+    "uniqueId": "",
+    "title": "Prv Sty:Intermediate Latin",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "LT*104",
+    "uniqueId": "",
+    "title": "Latin Golden Age Prose&Poetry",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "LT*104",
+    "uniqueId": "",
+    "title": "Prv Sty:Lat Gldn Ag Prse&Ptry",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "LT*104",
+    "uniqueId": "",
+    "title": "Prv Sty:Ltn Gldn Age Prs&Ptry",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "LT*121",
+    "uniqueId": "",
+    "title": "Introductory Latin I",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "LT*122",
+    "uniqueId": "",
+    "title": "Introductory Latin II",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "LT*123",
+    "uniqueId": "",
+    "title": "Intermediate Latin",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "LT*123",
+    "uniqueId": "",
+    "title": "Priv Sty: Intermediate Latin",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "LT*123",
+    "uniqueId": "",
+    "title": "Priv Stdy: Intermediate Latin",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "LT*124",
+    "uniqueId": "",
+    "title": "Latin Golden Age Prose&Poetry",
+    "tags": [
+      "1stLevel"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "LT*124",
+    "uniqueId": "",
+    "title": "Priv St:Lat Gold Age Prs&Ptry",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "LT*124",
+    "uniqueId": "",
+    "title": "Ind Abrd:Gldn Age Prse&Poetry",
+    "tags": [
+      "1stLevel",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 6,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "LT*200",
+    "uniqueId": "",
+    "title": "Latin Sight Reading",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "LT*300",
+    "uniqueId": "",
+    "title": "Prv Sty:Latin Prose Cmpstn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "LT*300",
+    "uniqueId": "",
+    "title": "Latin Prose Composition",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "LT*301",
+    "uniqueId": "",
+    "title": "Advanced Latin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "LT*308",
+    "uniqueId": "",
+    "title": "Vergil: Aeneid",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "LT*310",
+    "uniqueId": "",
+    "title": "Roman Tragedy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "LT*311",
+    "uniqueId": "",
+    "title": "Cicero on Friendship",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "LT*311",
+    "uniqueId": "",
+    "title": "Cicero",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "LT*311",
+    "uniqueId": "",
+    "title": "Private Study: Cicero",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 12,
+    "endAy": 12
+  },
+  {
+    "courseNumber": "LT*315",
+    "uniqueId": "",
+    "title": "Tacitus and Suetonius",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "LT*320",
+    "uniqueId": "",
+    "title": "Livy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "LT*320",
+    "uniqueId": "",
+    "title": "Priv Sty: Livy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "LT*325",
+    "uniqueId": "",
+    "title": "Cicero's Speeches",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "LT*325",
+    "uniqueId": "",
+    "title": "Ind Study:Cicero's Speeches",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LT*333",
+    "uniqueId": "",
+    "title": "Sallust",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 14
+  },
+  {
+    "courseNumber": "LT*334",
+    "uniqueId": "",
+    "title": "Roman Lyric",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "LT*335",
+    "uniqueId": "",
+    "title": "Res to Rome:Perpetuas Passion",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "LT*340",
+    "uniqueId": "",
+    "title": "Roman Comedy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "LT*350",
+    "uniqueId": "",
+    "title": "Pastoral Poetry",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "LT*350",
+    "uniqueId": "",
+    "title": "Readings in Medieval Latin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LT*351",
+    "uniqueId": "",
+    "title": "Readings in Medieval Latin II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "LT*352",
+    "uniqueId": "",
+    "title": "Pontanus:Jesuit Drama War&Pce",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 8
+  },
+  {
+    "courseNumber": "LT*354",
+    "uniqueId": "",
+    "title": "Petronius",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "LT*355",
+    "uniqueId": "",
+    "title": "Petronius & Apuleius",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "LT*356",
+    "uniqueId": "",
+    "title": "Apuleius",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "LT*357",
+    "uniqueId": "",
+    "title": "Lucan",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "LT*360",
+    "uniqueId": "",
+    "title": "Ind Sty:Readings frm Aeneid",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "LT*360",
+    "uniqueId": "",
+    "title": "Private Study: Latin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 11,
+    "endAy": 11
+  },
+  {
+    "courseNumber": "LT*360",
+    "uniqueId": "",
+    "title": "Ind Study: Republican History",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 9
+  },
+  {
+    "courseNumber": "LT*360",
+    "uniqueId": "",
+    "title": "Independent Study:Latin",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "LT*365",
+    "uniqueId": "",
+    "title": "Roman Letters and Life",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 10
+  },
+  {
+    "courseNumber": "LT*374",
+    "uniqueId": "",
+    "title": "Roman Satire",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "LT*375",
+    "uniqueId": "",
+    "title": "Latin Elegy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 12
+  },
+  {
+    "courseNumber": "LT*380",
+    "uniqueId": "",
+    "title": "Ovid",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 11
+  },
+  {
+    "courseNumber": "LT*386",
+    "uniqueId": "",
+    "title": "Ovid's Metamorphoses",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  }
+]

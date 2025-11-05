@@ -1,0 +1,1503 @@
+[
+  {
+    "courseNumber": "RE*219",
+    "uniqueId": "",
+    "title": "Process&Acquisitions Literacy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "RE*219",
+    "uniqueId": "",
+    "title": "Prv Sty: Process&Acquisitions",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "RE*219",
+    "uniqueId": "",
+    "title": "Prv Sty: Proc&acquisition Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "RE*220",
+    "uniqueId": "",
+    "title": "Early Lit Assessment&Instruct",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "RE*242",
+    "uniqueId": "",
+    "title": "Materials for Teaching Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "RE*242",
+    "uniqueId": "",
+    "title": "Prv Sty:Mat for Teach Reading",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "RE*242",
+    "uniqueId": "",
+    "title": "Prv Sty:Mat for Teach Read",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "RE*245",
+    "uniqueId": "",
+    "title": "Intermed Lit Assess&Instruct",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "RE*311",
+    "uniqueId": "",
+    "title": "Methods Tchng Eng Spkrs Other",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "RE*344",
+    "uniqueId": "",
+    "title": "Assess& Instr Rd I w/Fld Exp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "RE*344",
+    "uniqueId": "",
+    "title": "Prv Sty:Ass&Inst of Ltrcy l",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "RE*344",
+    "uniqueId": "",
+    "title": "PrvSty:Assess& InstrRd",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "RE*344",
+    "uniqueId": "",
+    "title": "Assessment & Instruc Reading I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "RE*344",
+    "uniqueId": "",
+    "title": "Prv Sty: Assessmnt&Instr Read",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "RE*345",
+    "uniqueId": "",
+    "title": "Lit Assess&instr Multiln Learn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 26
+  },
+  {
+    "courseNumber": "RE*419",
+    "uniqueId": "",
+    "title": "Process&Acquisitions Literacy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "RE*419",
+    "uniqueId": "",
+    "title": "Processes & Acquisition of Lit",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "RE*419",
+    "uniqueId": "",
+    "title": "Process&Acquisition Literacy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "RE*419",
+    "uniqueId": "",
+    "title": "Foundations Read&Lang Arts",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "RE*420",
+    "uniqueId": "",
+    "title": "Assess & Instruc in Reading II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "RE*420",
+    "uniqueId": "",
+    "title": "Assesmt for Instrctn of Readn",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "RE*420",
+    "uniqueId": "",
+    "title": "Asmt for Instr:Reading&Math",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 5
+  },
+  {
+    "courseNumber": "RE*442",
+    "uniqueId": "",
+    "title": "Materials for Teaching Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "RE*442",
+    "uniqueId": "",
+    "title": "Inst Read:Mth,Materials&Resour",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "RE*444",
+    "uniqueId": "",
+    "title": "Assessment & Instruc Reading I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "RE*444",
+    "uniqueId": "",
+    "title": "Instruction of Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 6
+  },
+  {
+    "courseNumber": "RE*474",
+    "uniqueId": "",
+    "title": "Literacy in the Content Area I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "RE*474",
+    "uniqueId": "",
+    "title": "Prv Sty: Literacy in Con Area",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "RE*474",
+    "uniqueId": "",
+    "title": "Teach Read in Content Area I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "RE*475",
+    "uniqueId": "",
+    "title": "Literacy in Content Area II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 22
+  },
+  {
+    "courseNumber": "RE*475",
+    "uniqueId": "",
+    "title": "Teach Read Content Area II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*509",
+    "uniqueId": "",
+    "title": "Content Area Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*510",
+    "uniqueId": "",
+    "title": "Found Literacy Curric&Instr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "RE*510",
+    "uniqueId": "",
+    "title": "Found,Hist&Res of Lit Instruc",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "RE*510",
+    "uniqueId": "",
+    "title": "Hist&Found of Lit Instruction",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "RE*510",
+    "uniqueId": "",
+    "title": "Prv Sty:Hist&Found Lit Inst",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "RE*510",
+    "uniqueId": "",
+    "title": "Found of Reading Instruction",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*520",
+    "uniqueId": "",
+    "title": "Prin&Prac of Teaching Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 20
+  },
+  {
+    "courseNumber": "RE*520",
+    "uniqueId": "",
+    "title": "Prv Sty:Prin&Prac Teach Read",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "RE*523",
+    "uniqueId": "",
+    "title": "Elem Literacy&Literature",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "RE*523",
+    "uniqueId": "",
+    "title": "Emergent Literacy Development",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*524",
+    "uniqueId": "",
+    "title": "Assessments Bilingual&Sec Lng",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "RE*524",
+    "uniqueId": "",
+    "title": "Prv Sty:Assessmnts Blngl&ScLg",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*525",
+    "uniqueId": "",
+    "title": "Read&Writ Ling Diverse Class",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 18
+  },
+  {
+    "courseNumber": "RE*531",
+    "uniqueId": "",
+    "title": "Adolescnt Literacy&Literature",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "RE*531",
+    "uniqueId": "",
+    "title": "Youth & Adolescent Literacy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*540",
+    "uniqueId": "",
+    "title": "Linguistics for Education",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 24
+  },
+  {
+    "courseNumber": "RE*560",
+    "uniqueId": "",
+    "title": "Early Literacy Assmnt&Instr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "RE*561",
+    "uniqueId": "",
+    "title": "Intermed Lit Assmnt & Instr",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "RE*562",
+    "uniqueId": "",
+    "title": "Lit Assmnt & Instr Multi Lrn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "RE*563",
+    "uniqueId": "",
+    "title": "Discp & Dig Lit Divrs Elem Lrn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "RE*600",
+    "uniqueId": "",
+    "title": "Research for Readng Professnl",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*601",
+    "uniqueId": "",
+    "title": "Media Literacy Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*601",
+    "uniqueId": "",
+    "title": "Prv Sty: Media Literacy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 22,
+    "endAy": 22
+  },
+  {
+    "courseNumber": "RE*601",
+    "uniqueId": "",
+    "title": "Prv Sty: Media Lit Education",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "RE*601",
+    "uniqueId": "",
+    "title": "Prv Sty: Media Literacy Edu",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*601",
+    "uniqueId": "",
+    "title": "Prv Sty: Media Literacy Educ",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "RE*602",
+    "uniqueId": "",
+    "title": "Second Language Dev:Thry&Prac",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 15
+  },
+  {
+    "courseNumber": "RE*602",
+    "uniqueId": "",
+    "title": "Prv Sty:2nd Lng Dev:Thry&Prac",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "RE*602",
+    "uniqueId": "",
+    "title": "Prv Sty:Sec Lang Dv:Thry&Prac",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "RE*603",
+    "uniqueId": "",
+    "title": "Language, Literacy, & Culture",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "RE*603",
+    "uniqueId": "",
+    "title": "Prv Sty:Language,Lit,&Culture",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 16,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*604",
+    "uniqueId": "",
+    "title": "Methods for Teaching English",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 16
+  },
+  {
+    "courseNumber": "RE*604",
+    "uniqueId": "",
+    "title": "Prv Sty:Methods Teaching Engl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 23,
+    "endAy": 23
+  },
+  {
+    "courseNumber": "RE*604",
+    "uniqueId": "",
+    "title": "Prv Sty:Mthds Teaching Engl",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "RE*604",
+    "uniqueId": "",
+    "title": "Prv Sty:Methods Teaching Eng",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "RE*605",
+    "uniqueId": "",
+    "title": "Prin&Prac of Teaching Writing",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "RE*606",
+    "uniqueId": "",
+    "title": "Assessmts Bilingl&Sec Lang Ed",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "RE*609",
+    "uniqueId": "",
+    "title": "Disciplinary Literacy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "RE*609",
+    "uniqueId": "",
+    "title": "Content Area Literacy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*610",
+    "uniqueId": "",
+    "title": "Disciplinary&Digital Literac",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "RE*622",
+    "uniqueId": "",
+    "title": "Children & Adolescent Literat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "RE*622",
+    "uniqueId": "",
+    "title": "Prv Sty:Childrn&Adolescnt Lit",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13
+  },
+  {
+    "courseNumber": "RE*670",
+    "uniqueId": "",
+    "title": "Prv Sty:Teach Res&Inquiry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21
+  },
+  {
+    "courseNumber": "RE*670",
+    "uniqueId": "",
+    "title": "Teacher Research and Inquiry",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "RE*670",
+    "uniqueId": "",
+    "title": "Prv Sty: Teacher Res & Inq",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "RE*670",
+    "uniqueId": "",
+    "title": "Prv Sty:Teacher Research",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "RE*722",
+    "uniqueId": "",
+    "title": "Children & Adolescent Literat",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*723",
+    "uniqueId": "",
+    "title": "Language Devpt&Emergent Liter",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*731",
+    "uniqueId": "",
+    "title": "Language Arts:Theory&Instrctn",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*733",
+    "uniqueId": "",
+    "title": "Literacy in the Content Area I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "RE*733",
+    "uniqueId": "",
+    "title": "Teach Lit in Content Area I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "RE*733",
+    "uniqueId": "",
+    "title": "Prv Sty:Teach Read Con Area I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "RE*733",
+    "uniqueId": "",
+    "title": "Teach Read in Content Area I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "RE*733",
+    "uniqueId": "",
+    "title": "Prv Sty:Literacy Cont Area I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "RE*733",
+    "uniqueId": "",
+    "title": "Intro Teach Read Content Area",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "RE*736",
+    "uniqueId": "",
+    "title": "Classroom Tech Written Exp",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*737",
+    "uniqueId": "",
+    "title": "Literacy Assessment I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "RE*737",
+    "uniqueId": "",
+    "title": "Prv Sty: Literacy Assessment I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "RE*737",
+    "uniqueId": "",
+    "title": "Lit Assessments Group Contexts",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*737",
+    "uniqueId": "",
+    "title": "Readng Assesment&Diagnosis I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "RE*737",
+    "uniqueId": "",
+    "title": "Priv Stdy: Rdng Assess&Diag I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "RE*738",
+    "uniqueId": "",
+    "title": "Reading & Wrtng Stud Sp/Needs",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*739",
+    "uniqueId": "",
+    "title": "Literacy Assessment II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "RE*739",
+    "uniqueId": "",
+    "title": "Prv Sty:Literacy Assess ll",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "RE*739",
+    "uniqueId": "",
+    "title": "Lit Assessments of Individuals",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*739",
+    "uniqueId": "",
+    "title": "Prv Sty:Lit Assessmnts Indvd",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 13,
+    "endAy": 13
+  },
+  {
+    "courseNumber": "RE*739",
+    "uniqueId": "",
+    "title": "Readng Assesment&Diagnosis II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "RE*740",
+    "uniqueId": "",
+    "title": "Literacy Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17
+  },
+  {
+    "courseNumber": "RE*740",
+    "uniqueId": "",
+    "title": "Prv Sty:Literacy Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 25
+  },
+  {
+    "courseNumber": "RE*740",
+    "uniqueId": "",
+    "title": "Prv Sty: Literacy Leadership",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "RE*740",
+    "uniqueId": "",
+    "title": "Role of the Reading Specialist",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*740",
+    "uniqueId": "",
+    "title": "Prv Sty: Role Reading Speclst",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "RE*744",
+    "uniqueId": "",
+    "title": "Literacy in Content Area II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 25
+  },
+  {
+    "courseNumber": "RE*744",
+    "uniqueId": "",
+    "title": "Teach Lit in Content Area II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 21,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "RE*744",
+    "uniqueId": "",
+    "title": "Prv Sty:Lit Content Area ll",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 24,
+    "endAy": 24
+  },
+  {
+    "courseNumber": "RE*744",
+    "uniqueId": "",
+    "title": "Teach Read in Content Area II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 8,
+    "endAy": 21
+  },
+  {
+    "courseNumber": "RE*744",
+    "uniqueId": "",
+    "title": "Prv Sty:Tch Read Ctnt Area II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 14,
+    "endAy": 14
+  },
+  {
+    "courseNumber": "RE*744",
+    "uniqueId": "",
+    "title": "Rdg/Wrg/Sty Sk Cnt Area",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "RE*756",
+    "uniqueId": "",
+    "title": "Literacy Practicum I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "RE*756",
+    "uniqueId": "",
+    "title": "Sch Year Pract in Literacy I",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "RE*756",
+    "uniqueId": "",
+    "title": "Sch Year Pract Reading I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "RE*757",
+    "uniqueId": "",
+    "title": "Literacy Practicum II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19
+  },
+  {
+    "courseNumber": "RE*757",
+    "uniqueId": "",
+    "title": "Int:Lit Praticum II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "RE*757",
+    "uniqueId": "",
+    "title": "Prv Sty:Literacy Practicum II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 19,
+    "endAy": 19
+  },
+  {
+    "courseNumber": "RE*757",
+    "uniqueId": "",
+    "title": "Sch Year Pract in Literacy II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 9,
+    "endAy": 16
+  },
+  {
+    "courseNumber": "RE*757",
+    "uniqueId": "",
+    "title": "Sch Year Pract in Reading II",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 7
+  },
+  {
+    "courseNumber": "RE*758",
+    "uniqueId": "",
+    "title": "Summer Practicum in Literacy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "RE*758",
+    "uniqueId": "",
+    "title": "Summer Practicum in Reading",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5,
+    "endAy": 8
+  },
+  {
+    "courseNumber": "RE*759",
+    "uniqueId": "",
+    "title": "Current Issues Read&Lang Arts",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*760",
+    "uniqueId": "",
+    "title": "Process & Acquisition Literacy",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "RE*760",
+    "uniqueId": "",
+    "title": "Prv Sty:Prcss&Acquisitn Ltcy",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "RE*761",
+    "uniqueId": "",
+    "title": "Materials for Teaching Reading",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "RE*761",
+    "uniqueId": "",
+    "title": "Prv Sty: Matrls Teaching Read",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "RE*762",
+    "uniqueId": "",
+    "title": "Assess & Instruc in Reading I",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "RE*762",
+    "uniqueId": "",
+    "title": "Prv Sty: Assess&Instr in Read",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "RE*763",
+    "uniqueId": "",
+    "title": "Assess & Instruc in Reading II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 7
+  },
+  {
+    "courseNumber": "RE*763",
+    "uniqueId": "",
+    "title": "Prv Sty:Assess&Instrc Read II",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 15,
+    "endAy": 15
+  },
+  {
+    "courseNumber": "RE*770",
+    "uniqueId": "",
+    "title": "Literacy Education Seminar",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 9
+  },
+  {
+    "courseNumber": "RE*770",
+    "uniqueId": "",
+    "title": "Prv Sty:Lit Edu Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 20,
+    "endAy": 20
+  },
+  {
+    "courseNumber": "RE*770",
+    "uniqueId": "",
+    "title": "Prv Sty: Literacy Educ Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 18,
+    "endAy": 18
+  },
+  {
+    "courseNumber": "RE*770",
+    "uniqueId": "",
+    "title": "Prv Sty: Lit Education Sem",
+    "tags": [
+      "other",
+      "exclude"
+    ],
+    "note": "",
+    "startAy": 17,
+    "endAy": 17
+  },
+  {
+    "courseNumber": "RE*782",
+    "uniqueId": "",
+    "title": "Process & Acquisition Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  },
+  {
+    "courseNumber": "RE*783",
+    "uniqueId": "",
+    "title": "Instruction of Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*784",
+    "uniqueId": "",
+    "title": "Materials of Reading",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 5
+  },
+  {
+    "courseNumber": "RE*785",
+    "uniqueId": "",
+    "title": "Reading Assessment",
+    "tags": [
+      "other"
+    ],
+    "note": "",
+    "startAy": 6
+  }
+]

@@ -838,14 +838,15 @@
     "uniqueId": "",
     "title": "Peace and Justice Studies Caps",
     "tags": ["exclude"],
-    "note": "",
+    "note": ""
   },
   {
     "courseNumber": "PL*403",
     "uniqueId": "",
     "title": "Philosophy of Happiness",
-    "tags": [],
-    "note": ""
+    "tags": ["Seminar", "social-political"],
+    "note": "",
+    "expirationAY": 12
   },
   {
     "courseNumber": "PL*404",

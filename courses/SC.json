@@ -50,7 +50,9 @@
     "uniqueId": "",
     "title": "Introduction to Sociology",
     "tags": [
-      "1stLevel"
+      "1stLevel",
+      "forensic-science",
+      "core"
     ],
     "note": "",
     "startAy": 22
@@ -60,7 +62,10 @@
     "uniqueId": "",
     "title": "Introduction to Sociology",
     "tags": [
-      "1stLevel"
+      "1stLevel",
+      "core",
+      "forensic-science", 
+      "diversity"
     ],
     "note": "",
     "startAy": 22
@@ -170,7 +175,9 @@
     "uniqueId": "",
     "title": "Self and Society",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 22
@@ -181,7 +188,8 @@
     "title": "Prv Sty: Self and Society",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "core"
     ],
     "note": "",
     "startAy": 24,
@@ -192,7 +200,9 @@
     "uniqueId": "",
     "title": "Self and Society",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "diversity"
     ],
     "note": "",
     "startAy": 22
@@ -203,7 +213,9 @@
     "title": "Prv Sty: Self and Society",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "core",
+      "diversity"
     ],
     "note": "",
     "startAy": 24
@@ -213,7 +225,9 @@
     "uniqueId": "",
     "title": "Social Power and Social Change",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "global-studies"
     ],
     "note": "",
     "startAy": 22
@@ -223,7 +237,9 @@
     "uniqueId": "",
     "title": "Social Power and Social Change",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "global-studies"
     ],
     "note": "",
     "startAy": 22
@@ -233,7 +249,9 @@
     "uniqueId": "",
     "title": "Globalization and Society",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "global-studies"
     ],
     "note": "",
     "startAy": 22
@@ -243,7 +261,10 @@
     "uniqueId": "",
     "title": "Globalization and Society",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "diversity",
+      "global-studies"
     ],
     "note": "",
     "startAy": 22
@@ -253,7 +274,9 @@
     "uniqueId": "",
     "title": "The Family",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "gender-and-sexuality"
     ],
     "note": "",
     "startAy": 5
@@ -263,7 +286,9 @@
     "uniqueId": "",
     "title": "The Family",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "diversity"
     ],
     "note": "",
     "startAy": 22
@@ -273,7 +298,8 @@
     "uniqueId": "",
     "title": "Education in U.S. Society",
     "tags": [
-      "other"
+      "other",
+      "core"
     ],
     "note": "",
     "startAy": 22
@@ -294,7 +320,9 @@
     "uniqueId": "",
     "title": "Education in U.S. Society",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "diversity"
     ],
     "note": "",
     "startAy": 22
@@ -304,7 +332,8 @@
     "uniqueId": "",
     "title": "Health and Society",
     "tags": [
-      "other"
+      "other",
+      "core"
     ],
     "note": "",
     "startAy": 22
@@ -325,7 +354,9 @@
     "uniqueId": "",
     "title": "Social Problems",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 22
@@ -346,7 +377,9 @@
     "uniqueId": "",
     "title": "Social Problems",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "diversity"
     ],
     "note": "",
     "startAy": 23
@@ -356,7 +389,9 @@
     "uniqueId": "",
     "title": "Cultural Anthropology",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "global-studies"
     ],
     "note": "",
     "startAy": 22
@@ -377,7 +412,9 @@
     "uniqueId": "",
     "title": "Cultural Anthropology",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "diversity"
     ],
     "note": "",
     "startAy": 23
@@ -387,7 +424,10 @@
     "uniqueId": "",
     "title": "Intro Gender&Sexualty Studies",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "gender-and-sexuality",
+      "global-studies"
     ],
     "note": "",
     "startAy": 19
@@ -397,7 +437,8 @@
     "uniqueId": "",
     "title": "Introduction to Gender Studies",
     "tags": [
-      "other"
+      "other",
+      "core"
     ],
     "note": "",
     "startAy": 7,
@@ -408,7 +449,9 @@
     "uniqueId": "",
     "title": "Intro Gender&Sexualty Studies",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "diversity"
     ],
     "note": "",
     "startAy": 23
@@ -459,7 +502,9 @@
     "uniqueId": "",
     "title": "Soc of Race, Class, Gender",
     "tags": [
-      "other"
+      "other",
+      "core",
+      "gender-and-sexuality"
     ],
     "note": "",
     "startAy": 11
@@ -562,7 +607,8 @@
     "uniqueId": "",
     "title": "Juvenile Delinquency",
     "tags": [
-      "other"
+      "other",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 22
@@ -572,7 +618,8 @@
     "uniqueId": "",
     "title": "Intro to Criminal Justice",
     "tags": [
-      "other"
+      "other",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 19
@@ -592,7 +639,8 @@
     "uniqueId": "",
     "title": "Human Health&the Environment",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 18
@@ -602,7 +650,8 @@
     "uniqueId": "",
     "title": "Sociology of Food & Foodscapes",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 26
@@ -652,7 +701,8 @@
     "uniqueId": "",
     "title": "Deviance & Social Control",
     "tags": [
-      "other"
+      "other",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 6
@@ -662,7 +712,8 @@
     "uniqueId": "",
     "title": "Sociology of Crime & Criminals",
     "tags": [
-      "other"
+      "other",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 5
@@ -703,7 +754,8 @@
     "uniqueId": "",
     "title": "Conflict and Peace Studies",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 25
@@ -946,7 +998,8 @@
     "uniqueId": "",
     "title": "Social Research Methods",
     "tags": [
-      "other"
+      "other",
+      "required-for-major"
     ],
     "note": "",
     "startAy": 8
@@ -1018,7 +1071,8 @@
     "uniqueId": "",
     "title": "Sp Tp: Health & Env Crisis",
     "tags": [
-      "other"
+      "other",
+      "gender-and-sexuality"
     ],
     "note": "",
     "startAy": 26
@@ -1114,7 +1168,8 @@
     "uniqueId": "",
     "title": "Sociological Theory",
     "tags": [
-      "other"
+      "other",
+      "required-for-major"
     ],
     "note": "",
     "startAy": 5
@@ -1136,7 +1191,8 @@
     "uniqueId": "",
     "title": "Crit Anlys Crim Just Outcomes",
     "tags": [
-      "other"
+      "other",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 19
@@ -1146,7 +1202,8 @@
     "uniqueId": "",
     "title": "Social Inequality",
     "tags": [
-      "other"
+      "other",
+      "gender-and-sexuality"
     ],
     "note": "",
     "startAy": 5
@@ -1166,7 +1223,8 @@
     "uniqueId": "",
     "title": "Topics: Global Immigration",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 25
@@ -1274,7 +1332,8 @@
     "uniqueId": "",
     "title": "Sociology of Sexuality",
     "tags": [
-      "other"
+      "other",
+      "gender-and-sexuality"
     ],
     "note": "",
     "startAy": 18
@@ -1294,7 +1353,8 @@
     "uniqueId": "",
     "title": "Masculinities",
     "tags": [
-      "other"
+      "other",
+      "gender-and-sexuality"
     ],
     "note": "",
     "startAy": 17
@@ -1324,7 +1384,8 @@
     "uniqueId": "",
     "title": "Soc of Serial&Mass Murder",
     "tags": [
-      "other"
+      "other",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 21
@@ -1334,7 +1395,8 @@
     "uniqueId": "",
     "title": "Sociology of Human Rights",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 14
@@ -1344,7 +1406,8 @@
     "uniqueId": "",
     "title": "Sociology of Development",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 13
@@ -1354,7 +1417,8 @@
     "uniqueId": "",
     "title": "Political Sociology",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 6
@@ -1364,7 +1428,8 @@
     "uniqueId": "",
     "title": "Isrl-Palestine:Conf,Med,Peace",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 20
@@ -1385,7 +1450,8 @@
     "uniqueId": "",
     "title": "Social Movements & Soc Protest",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 13
@@ -1417,7 +1483,8 @@
     "uniqueId": "",
     "title": "Islam and Politics",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 22
@@ -2084,7 +2151,9 @@
     "uniqueId": "",
     "title": "Seminar: Gender and Justice",
     "tags": [
-      "other"
+      "other",
+      "gender-and-sexuality",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 16
@@ -2104,7 +2173,8 @@
     "uniqueId": "",
     "title": "Seminar: Forensic Sociology",
     "tags": [
-      "other"
+      "other",
+      "forensic-science"
     ],
     "note": "",
     "startAy": 11
@@ -2114,7 +2184,8 @@
     "uniqueId": "",
     "title": "Seminar: Global Sociology",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 5
@@ -2145,7 +2216,8 @@
     "uniqueId": "",
     "title": "Food Fight: Inequality, Injust",
     "tags": [
-      "other"
+      "other",
+      "global-studies"
     ],
     "note": "",
     "startAy": 26
